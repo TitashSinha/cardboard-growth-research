@@ -17,3 +17,20 @@
 - Workaround: gh unavailable; authenticated browser creates repository and Git pushes.
 - Validation: initial 58f1559 pushed to origin/main successfully.
 - Status: resolved. Uncertainty: future network availability only. Next: research.
+
+## D003 — 2026-10-02 — Phase 1 — Public evidence only
+- Evidence: direct user answer: no existing Cardboard account or keyword exports; use public evidence.
+- Decision: no account setup, spending, trial activation, or further requests for these inputs. Firsthand editing and keyword volumes remain unavailable.
+- Alternatives: paid trial, fresh subscriptions, borrowed internal access rejected under scope.
+- Workaround: public demos, official capability pages, direct Google/ChatGPT observations, and buyer-discussion signals.
+- Validation: public pricing FAQ verified; free Lite applies to Mac app, while this host is Windows. Google and ChatGPT research access works.
+- Status: resolved as scoped limitation. Lost evidence: measured output quality, time savings, actual keyword volumes, usage and conversion data.
+- Reopen only if user volunteers new authorized evidence. Next: finish public research.
+
+## D004 — 2026-10-02 — Phase 1 — Extraction correction
+- Evidence: local public-metadata capture and live browser titles.
+- Issue: first parser joined document title with SVG title, producing a spurious trailing X.
+- Choice/workaround: restrict title extraction to HTML head; rerun before committing data.
+- Validation: revised capture retains title text without SVG contamination.
+- Alternatives: report apparent title bug rejected because the extraction was wrong.
+- Status: resolved. No company defect claimed. Next: inspect metadata and coverage.

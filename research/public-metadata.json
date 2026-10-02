@@ -1,0 +1,576 @@
+[
+  {
+    "requested_url": "https://www.cardboard.ai/robots.txt",
+    "collected_at_utc": "2026-10-02T13:51:08.982059+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/robots.txt",
+    "content_type": "text/plain; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "1f9c6d390734d3beb96e46f0b115e866aa64aa069803a595444d68674153e645",
+    "rules": "User-agent: *\nAllow: /\n\nSitemap: https://www.cardboard.ai/sitemap.xml\n\n# Machine-readable description of Cardboard, for agents and crawlers:\n# https://www.cardboard.ai/llms.txt\n"
+  },
+  {
+    "requested_url": "https://www.cardboard.ai/sitemap.xml",
+    "collected_at_utc": "2026-10-02T13:51:08.982637+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/sitemap.xml",
+    "content_type": "application/xml",
+    "x_robots_tag": null,
+    "sha256": "63c38a255c813a4b14af4a5183199e89974ee81230398ca56be291d7329e32ca",
+    "locations": [
+      "https://www.cardboard.ai/",
+      "https://www.cardboard.ai/pricing",
+      "https://www.cardboard.ai/desktop",
+      "https://www.cardboard.ai/changelog",
+      "https://www.cardboard.ai/blog",
+      "https://www.cardboard.ai/careers",
+      "https://www.cardboard.ai/hard-problems",
+      "https://www.cardboard.ai/privacy",
+      "https://www.cardboard.ai/terms",
+      "https://www.cardboard.ai/careers/senior-applied-ml-engineer-evals-and-data",
+      "https://www.cardboard.ai/careers/founding-designer",
+      "https://www.cardboard.ai/careers/founding-design-engineer",
+      "https://www.cardboard.ai/careers/backend-engineer",
+      "https://www.cardboard.ai/careers/fullstack-engineer",
+      "https://www.cardboard.ai/blog/how-to-make-a-promo-video",
+      "https://www.cardboard.ai/blog/how-to-make-training-videos",
+      "https://www.cardboard.ai/blog/tiktok-business-account",
+      "https://www.cardboard.ai/blog/best-video-editors-for-social-media-content",
+      "https://www.cardboard.ai/blog/what-are-ai-video-editing-tools",
+      "https://www.cardboard.ai/blog/best-ai-video-editors",
+      "https://www.cardboard.ai/blog/best-descript-alternatives",
+      "https://www.cardboard.ai/blog/runway-ai-alternatives-creators"
+    ]
+  },
+  {
+    "requested_url": "https://cardboard.ai/",
+    "collected_at_utc": "2026-10-02T13:51:08.983006+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/",
+    "content_type": "text/html; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "eb2751949bf0acf48e7907ccdb1f6a1ee2a872a6edb256e2b788ba8656ebfe93",
+    "title": "Cardboard | AI Video Editor for Your Browser and Mac",
+    "h1": [
+      "M",
+      "a",
+      "k",
+      "e",
+      " ",
+      "a",
+      "n",
+      "y",
+      " ",
+      "v",
+      "i",
+      "d",
+      "e",
+      "o",
+      " ",
+      "y",
+      "o",
+      "u",
+      " ",
+      "c",
+      "a",
+      "n",
+      " ",
+      "t",
+      "h",
+      "i",
+      "n",
+      "k",
+      " ",
+      "o",
+      "f",
+      "Make any video you can think of",
+      "What are we editing today, Ishan?"
+    ],
+    "canonical": [
+      "https://www.cardboard.ai"
+    ],
+    "robots": [
+      "index, follow",
+      "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    ],
+    "description": [
+      "An agentic AI video editor in your browser and on your Mac. Describe your edit and Cardboard cuts, captions, reframes, and composes it."
+    ],
+    "links": [
+      "#",
+      "/",
+      "/blog",
+      "/careers",
+      "/changelog",
+      "/desktop",
+      "/hard-problems",
+      "/login",
+      "/pricing",
+      "/privacy",
+      "/signup",
+      "/terms",
+      "https://status.cardboard.ai",
+      "https://www.instagram.com/usecardboard",
+      "https://www.linkedin.com/company/cardboardinc",
+      "https://www.ycombinator.com/companies/cardboard",
+      "https://x.com/usecardboard",
+      "mailto:founders@cardboard.ai"
+    ]
+  },
+  {
+    "requested_url": "http://www.cardboard.ai/",
+    "collected_at_utc": "2026-10-02T13:51:08.983315+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/",
+    "content_type": "text/html; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "eb2751949bf0acf48e7907ccdb1f6a1ee2a872a6edb256e2b788ba8656ebfe93",
+    "title": "Cardboard | AI Video Editor for Your Browser and Mac",
+    "h1": [
+      "M",
+      "a",
+      "k",
+      "e",
+      " ",
+      "a",
+      "n",
+      "y",
+      " ",
+      "v",
+      "i",
+      "d",
+      "e",
+      "o",
+      " ",
+      "y",
+      "o",
+      "u",
+      " ",
+      "c",
+      "a",
+      "n",
+      " ",
+      "t",
+      "h",
+      "i",
+      "n",
+      "k",
+      " ",
+      "o",
+      "f",
+      "Make any video you can think of",
+      "What are we editing today, Ishan?"
+    ],
+    "canonical": [
+      "https://www.cardboard.ai"
+    ],
+    "robots": [
+      "index, follow",
+      "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    ],
+    "description": [
+      "An agentic AI video editor in your browser and on your Mac. Describe your edit and Cardboard cuts, captions, reframes, and composes it."
+    ],
+    "links": [
+      "#",
+      "/",
+      "/blog",
+      "/careers",
+      "/changelog",
+      "/desktop",
+      "/hard-problems",
+      "/login",
+      "/pricing",
+      "/privacy",
+      "/signup",
+      "/terms",
+      "https://status.cardboard.ai",
+      "https://www.instagram.com/usecardboard",
+      "https://www.linkedin.com/company/cardboardinc",
+      "https://www.ycombinator.com/companies/cardboard",
+      "https://x.com/usecardboard",
+      "mailto:founders@cardboard.ai"
+    ]
+  },
+  {
+    "requested_url": "https://www.cardboard.ai/",
+    "collected_at_utc": "2026-10-02T13:51:09.175960+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/",
+    "content_type": "text/html; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "eb2751949bf0acf48e7907ccdb1f6a1ee2a872a6edb256e2b788ba8656ebfe93",
+    "title": "Cardboard | AI Video Editor for Your Browser and Mac",
+    "h1": [
+      "M",
+      "a",
+      "k",
+      "e",
+      " ",
+      "a",
+      "n",
+      "y",
+      " ",
+      "v",
+      "i",
+      "d",
+      "e",
+      "o",
+      " ",
+      "y",
+      "o",
+      "u",
+      " ",
+      "c",
+      "a",
+      "n",
+      " ",
+      "t",
+      "h",
+      "i",
+      "n",
+      "k",
+      " ",
+      "o",
+      "f",
+      "Make any video you can think of",
+      "What are we editing today, Ishan?"
+    ],
+    "canonical": [
+      "https://www.cardboard.ai"
+    ],
+    "robots": [
+      "index, follow",
+      "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    ],
+    "description": [
+      "An agentic AI video editor in your browser and on your Mac. Describe your edit and Cardboard cuts, captions, reframes, and composes it."
+    ],
+    "links": [
+      "#",
+      "/",
+      "/blog",
+      "/careers",
+      "/changelog",
+      "/desktop",
+      "/hard-problems",
+      "/login",
+      "/pricing",
+      "/privacy",
+      "/signup",
+      "/terms",
+      "https://status.cardboard.ai",
+      "https://www.instagram.com/usecardboard",
+      "https://www.linkedin.com/company/cardboardinc",
+      "https://www.ycombinator.com/companies/cardboard",
+      "https://x.com/usecardboard",
+      "mailto:founders@cardboard.ai"
+    ]
+  },
+  {
+    "requested_url": "https://www.cardboard.ai/pricing",
+    "collected_at_utc": "2026-10-02T13:51:09.187732+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/pricing",
+    "content_type": "text/html; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "ecff0c3fd7702944cc0ee6380eb074a8bd665dcf1f35f68b68cb031b343bca35",
+    "title": "Pricing for Every Stage of Editing | Cardboard",
+    "h1": [
+      "Pricing for every stage of editing"
+    ],
+    "canonical": [
+      "https://www.cardboard.ai/pricing"
+    ],
+    "robots": [
+      "index, follow"
+    ],
+    "description": [
+      "Cardboard pricing plans for every stage of editing. From Lite on the Mac app to Pro, find the plan that fits your AI video editing workflow."
+    ],
+    "links": [
+      "/",
+      "/blog",
+      "/careers",
+      "/changelog",
+      "/desktop",
+      "/hard-problems",
+      "/login",
+      "/pricing",
+      "/privacy",
+      "/signup",
+      "/terms",
+      "https://status.cardboard.ai",
+      "https://www.instagram.com/usecardboard",
+      "https://www.linkedin.com/company/cardboardinc",
+      "https://www.ycombinator.com/companies/cardboard",
+      "https://x.com/usecardboard",
+      "mailto:founders@cardboard.ai"
+    ]
+  },
+  {
+    "requested_url": "https://www.cardboard.ai/blog",
+    "collected_at_utc": "2026-10-02T13:51:09.345695+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/blog",
+    "content_type": "text/html; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "278565f9e95c998c2ff2ca37209e3efb9cede89307906dd50c47060b6b3c70bc",
+    "title": "Blog | Cardboard",
+    "h1": [
+      "Cuts & Notes"
+    ],
+    "canonical": [
+      "https://www.cardboard.ai/blog"
+    ],
+    "robots": [
+      "index, follow"
+    ],
+    "description": [
+      "How we think about editing, the craft behind agentic video, and what we learn building Cardboard. Written by the team."
+    ],
+    "links": [
+      "/",
+      "/blog",
+      "/blog/best-ai-video-editors",
+      "/blog/best-descript-alternatives",
+      "/blog/best-video-editors-for-social-media-content",
+      "/blog/how-to-make-a-promo-video",
+      "/blog/how-to-make-training-videos",
+      "/blog/runway-ai-alternatives-creators",
+      "/blog/tiktok-business-account",
+      "/blog/what-are-ai-video-editing-tools",
+      "/careers",
+      "/changelog",
+      "/desktop",
+      "/hard-problems",
+      "/login",
+      "/pricing",
+      "/privacy",
+      "/signup",
+      "/terms",
+      "https://status.cardboard.ai",
+      "https://www.instagram.com/usecardboard",
+      "https://www.linkedin.com/company/cardboardinc",
+      "https://www.ycombinator.com/companies/cardboard",
+      "https://x.com/usecardboard",
+      "mailto:founders@cardboard.ai"
+    ]
+  },
+  {
+    "requested_url": "https://www.cardboard.ai/careers",
+    "collected_at_utc": "2026-10-02T13:51:09.539886+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/careers",
+    "content_type": "text/html; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "2ec0133e80cd72758414418f5708b7af13b19f9efd2584db751e004922e9f1fa",
+    "title": "We're hiring | Careers at Cardboard",
+    "h1": [
+      "Help build the editor that edits for you"
+    ],
+    "canonical": [
+      "https://www.cardboard.ai/careers"
+    ],
+    "robots": [
+      "index, follow"
+    ],
+    "description": [
+      "We're a small, cracked team building the future of video editing. Open roles in design, engineering, content, and growth."
+    ],
+    "links": [
+      "/",
+      "/blog",
+      "/careers",
+      "/careers/backend-engineer",
+      "/careers/founding-design-engineer",
+      "/careers/founding-designer",
+      "/careers/fullstack-engineer",
+      "/careers/senior-applied-ml-engineer-evals-and-data",
+      "/changelog",
+      "/desktop",
+      "/hard-problems",
+      "/login",
+      "/pricing",
+      "/privacy",
+      "/signup",
+      "/terms",
+      "https://jobs.ashbyhq.com/cardboard/15059bdf-1221-42a1-b5b5-ea7e4f92f52f",
+      "https://status.cardboard.ai",
+      "https://www.instagram.com/usecardboard",
+      "https://www.linkedin.com/company/cardboardinc",
+      "https://www.ycombinator.com/companies/cardboard",
+      "https://x.com/usecardboard",
+      "mailto:founders@cardboard.ai"
+    ]
+  },
+  {
+    "requested_url": "https://www.cardboard.ai/desktop",
+    "collected_at_utc": "2026-10-02T13:51:09.623093+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/desktop",
+    "content_type": "text/html; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "f2309a82f595f0876336257ba03c1a26b3e2c9d85d3477ed0e5bd4868db5000d",
+    "title": "Cardboard for Mac: The AI Video Editor for Your Mac",
+    "h1": [
+      "The AI video editor for your Mac",
+      "What are we editing today, Ishan?"
+    ],
+    "canonical": [
+      "https://www.cardboard.ai/desktop"
+    ],
+    "robots": [
+      "index, follow",
+      "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    ],
+    "description": [
+      "Drop in your footage, say what you want, and Cardboard edits it. Free to download, with the Lite plan included and your own Claude or Codex built in."
+    ],
+    "links": [
+      "#",
+      "/",
+      "/blog",
+      "/careers",
+      "/changelog",
+      "/desktop",
+      "/desktop/download",
+      "/hard-problems",
+      "/login",
+      "/pricing",
+      "/privacy",
+      "/signup",
+      "/terms",
+      "https://status.cardboard.ai",
+      "https://www.instagram.com/usecardboard",
+      "https://www.linkedin.com/company/cardboardinc",
+      "https://www.ycombinator.com/companies/cardboard",
+      "https://x.com/usecardboard",
+      "mailto:?subject=Cardboard%20for%20Mac&body=Download%20Cardboard%20for%20Mac%3A%20https%3A%2F%2Fwww.cardboard.ai%2Fdesktop%2Fdownload",
+      "mailto:founders@cardboard.ai"
+    ]
+  },
+  {
+    "requested_url": "https://www.cardboard.ai/blog/how-to-make-a-promo-video",
+    "collected_at_utc": "2026-10-02T13:51:09.707537+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/blog/how-to-make-a-promo-video",
+    "content_type": "text/html; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "16aba0bffc54873e11af8d19e7a7d96105f866fe29c3f3c4277d01e7d7ff11d8",
+    "title": "How to Make a Promo Video for Your Business | Cardboard",
+    "h1": [
+      "How to Make a Promo Video for Your Business"
+    ],
+    "canonical": [
+      "https://www.cardboard.ai/blog/how-to-make-a-promo-video"
+    ],
+    "robots": [
+      "index, follow"
+    ],
+    "description": [
+      "If your promo video keeps getting pushed to next week, you're probably making it harder than it needs to be. A solid business promo doesn't require a\u2026"
+    ],
+    "links": [
+      "#email",
+      "#faq",
+      "#final-thoughts-on-video-promo-strategy-for-marketers-and-creators",
+      "#how-cardboard-helps-teams-go-from-raw-footage-to-a-finished-promo-in-minutes",
+      "#how-long-your-promo-video-should-be",
+      "#how-to-distribute-a-promo-video-for-maximum-reach",
+      "#how-to-plan-a-promo-video-before-you-edit",
+      "#how-to-repurpose-one-promo-video-into-multiple-formats",
+      "#how-to-track-promo-video-performance-and-improve-over-time",
+      "#how-to-write-a-script-that-sells-the-idea",
+      "#paid-ads",
+      "#social-media",
+      "#the-key-elements-of-a-high-performing-promo-video",
+      "#types-of-promo-videos-and-when-to-use-each",
+      "#website-placement",
+      "#what-a-promo-video-actually-is",
+      "#why-promo-videos-work-for-business-growth",
+      "/",
+      "/blog",
+      "/blog/best-ai-video-editors",
+      "/blog/best-descript-alternatives",
+      "/blog/best-video-editors-for-social-media-content",
+      "/blog/how-to-make-training-videos",
+      "/blog/tiktok-business-account",
+      "/careers",
+      "/changelog",
+      "/desktop",
+      "/hard-problems",
+      "/login",
+      "/pricing",
+      "/privacy",
+      "/signup",
+      "/terms",
+      "https://status.cardboard.ai",
+      "https://wistia.com/blog/optimal-video-length",
+      "https://www.digitalapplied.com/blog/video-marketing-statistics-2026-data-points",
+      "https://www.instagram.com/usecardboard",
+      "https://www.linkedin.com/company/cardboardinc",
+      "https://www.ycombinator.com/companies/cardboard",
+      "https://x.com/usecardboard",
+      "mailto:founders@cardboard.ai"
+    ]
+  },
+  {
+    "requested_url": "https://www.cardboard.ai/blog/best-ai-video-editors",
+    "collected_at_utc": "2026-10-02T13:51:09.786859+00:00",
+    "status": 200,
+    "final_url": "https://www.cardboard.ai/blog/best-ai-video-editors",
+    "content_type": "text/html; charset=utf-8",
+    "x_robots_tag": null,
+    "sha256": "0eb31b26e05d49b776ec42b88b812730281d30d9a20d6974324097a947d91a9a",
+    "title": "6 Best AI Video Editors in September 2026 | Cardboard",
+    "h1": [
+      "6 Best AI Video Editors in September 2026"
+    ],
+    "canonical": [
+      "https://www.cardboard.ai/blog/best-ai-video-editors"
+    ],
+    "robots": [
+      "index, follow"
+    ],
+    "description": [
+      "Not every AI video editor is going after the same problem. Some are built for transcript-driven edits, some for generating content from scratch, and some\u2026"
+    ],
+    "links": [
+      "#adobe-premiere-pro",
+      "#best-ai-video-editors-in-september-2026",
+      "#best-overall-ai-video-editor-cardboard",
+      "#capcut",
+      "#descript",
+      "#faq",
+      "#feature-comparison-table-of-ai-video-editors",
+      "#final-thoughts-on-the-best-ai-video-editors-available-today",
+      "#how-we-ranked-these-ai-video-editors",
+      "#runway",
+      "#veed",
+      "#what-is-an-ai-video-editor",
+      "#why-cardboard-is-the-best-ai-video-editor",
+      "/",
+      "/blog",
+      "/blog/best-descript-alternatives",
+      "/blog/best-video-editors-for-social-media-content",
+      "/careers",
+      "/changelog",
+      "/desktop",
+      "/hard-problems",
+      "/login",
+      "/pricing",
+      "/privacy",
+      "/signup",
+      "/terms",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5214590/",
+      "https://status.cardboard.ai",
+      "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-video-market-report",
+      "https://www.instagram.com/usecardboard",
+      "https://www.linkedin.com/company/cardboardinc",
+      "https://www.ycombinator.com/companies/cardboard",
+      "https://x.com/usecardboard",
+      "mailto:founders@cardboard.ai"
+    ]
+  }
+]
