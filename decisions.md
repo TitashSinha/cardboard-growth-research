@@ -48,3 +48,39 @@
 - Alternatives: substitute another model/tool (rejected); repeat every completed test (unnecessary).
 - Validation: direct ChatGPT access recovered; model menu shows GPT-5.6 Sol, Medium on resumed first test.
 - Status: partially resolved. Full Google result lists were lost from transient browser state; saved observations remain limited field notes. Next: save each new test promptly and disclose sampling/audit limits.
+
+## D007 — 2026-10-03 — Reconciliation — Evidence and execution plan
+- Evidence: user reviewed pushed 929c0d5 and instructed a buyer/test/revision critical path; branch main, origin/main equal HEAD; five newer modified files inspected.
+- Choice: preserve all work; save the already observed AI12 repeat; reconcile inventories and replace the draft-first plan with evidence → provisional segment → buyer research → independent test → revision → remaining content → packaging.
+- Alternatives: restart/discard research (rejected); produce four more articles before feedback (rejected); enlarge discovery for quotas (rejected).
+- Validation: reproducible inventory script distinguishes dates/efforts and branded controls; original Google field notes and captures retained. Review base had 20 Google, 9 AI and 36 sources; reconciled continuation has 20 Google, 12 AI and 37 sources before new source integration.
+- Status: resolved for plan/inventory; experiment and feedback gates remain open. Next: prepare initial asset and buyer materials, request only specific authorized recruitment when needed.
+
+## D008 — 2026-10-03 — Phase 2 — Provisional task-based segment
+- Evidence: E011–E014, C001–C009; adjacent evidence primarily founders/builders, not a verified marketer sample.
+- Choice: provisionally investigate people doing marketing work in small SaaS teams who personally produced a recent feature/launch video and influence workflow choice. Record team size/role during screening; do not claim validated positioning.
+- Alternatives: agencies (approval/handoff controls untested); professional creators (strong incumbents and different style/long-form demands). Keep both as expansion hypotheses.
+- Validation: segment comparison prepared in strategy/positioning.md; actual eligible buyers and switching friction not yet verified.
+- Status: provisional. Uncertainty: recurring need, current adequacy and willingness to switch. Reopen if recent behavior evidence favors another segment or adequate incumbents dominate.
+
+## D009 — 2026-10-03 — Phase 3 — Test selection informed by Titash
+- Evidence: Titash's direct answer prioritizes whether the incumbent meets buyer needs; H01/H02/H03 in assumptions.md; public counterevidence E014 and existing competitor capabilities.
+- Choice: prepare a recent-project workflow adequacy/friction test first. Ask about actual steps, lost time and corrections before showing a solution. Offer comprehension is a conditional follow-on, not predetermined.
+- Alternatives: offer comprehension first (feasible but may polish an offer for an unnecessary switch); storyboard preference (hypothetical); product comparison (unavailable under D003).
+- Workaround: free conversation/notes protocol and visibly labeled decision-aid prototype; no product output or performance benchmark.
+- Validation: protocol/materials/result schema prepared and reviewed before any collection. Titash's answer is strategy contribution, not participant feedback.
+- Status: prepared, unrun. Recruitment unapproved; zero responses. Next: screen and collect only after route-specific authorization; preserve v1 and revise after real evidence.
+
+## D010 — 2026-10-03 — Reproducibility and selective evidence review
+- Evidence: fixed refresh destination in collector; original captures; E011–E014 reread; F001/F002 primary role/contact sources.
+- Choice: UTC timestamped defaults and explicit new output paths with overwrite refusal; focused offline checks; reproducible inventory. Add B001–B004 as refreshed source views, not four new buyers. Verify founder spelling/role from official YC listing.
+- Alternatives: overwrite prior metadata or reconstruct missing Google lists (rejected); collect more discussions/discovery for quota (rejected); treat promotional/historical accounts as validated recent buyers (rejected).
+- Validation: root inspected collector changes; title/nested-H1/output/overwrite checks pass without network. Root checked HN organizational-use/undo context, Reddit correction/manual counterevidence and YC active founder listing. Published spelling is Saksham Aggarwal, Founder/CEO.
+- Status: resolved for scoped preparation. Uncertainty: source dates/roles/payment/outputs, actual buyer need and commercial effect remain unverified. Next: use real behavior evidence when authorized; preserve capture and source scope.
+
+## D011 — 2026-10-03 — Phase 3 — Critical method review before collection
+- Evidence: delegated review of EX01; root inspected primary outcome, denominator, screening/consent, initial aid and contribution attribution.
+- Choice: ask named familiarity after neutral behavior; retain first five eligible consented main cases including ambiguous ones; distinguish resolved correction from recurring unresolved burden; obtain retention consent and keep identity/source mapping private. Preserve initial v1; prepare v1.1 with an explicit none option.
+- Alternatives: replace unclear cases until a threshold passes, prime buyers with the brand, or count internal review as buyer validation (rejected).
+- Validation: guide/protocol/result schema corrected consistently; zero participant rows. Root accepted actionable critique, not a claim of validated segment or product performance.
+- Status: resolved for preparation only. Actual consented feedback and buyer-driven v2 remain pending. Next: authorize a specific route, screen and collect honestly; no execution inferred from this revision.

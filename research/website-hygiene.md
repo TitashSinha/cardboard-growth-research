@@ -34,4 +34,3 @@ A useful founder discussion would state the three named article inconsistencies,
 ## Scoped limitations and stopping rule
 
 No GSC, analytics, WAF/server logs, checkout, product account, real output, physical device or field-performance data. Avoid expanding the crawl for completeness alone. Revisit an open check when it can change a specific decision: offer authority before final copy, sample availability before a proof recommendation, and actual crawler blocking before a technical change. No company-site edits, account setup, outreach or spending were performed.
-
