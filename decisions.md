@@ -34,3 +34,17 @@
 - Validation: revised capture retains title text without SVG contamination.
 - Alternatives: report apparent title bug rejected because the extraction was wrong.
 - Status: resolved. No company defect claimed. Next: inspect metadata and coverage.
+
+## D005 — 2026-10-03 — Phase 1 — Delegation and critical review
+- Evidence: user explicitly permits delegation with critical review; research files and independent source refresh.
+- Choice: delegate competitor research and a separate research audit, then inspect each deliverable and verify material source claims before integration.
+- Alternatives: accept agent conclusions unchecked (rejected); duplicate every source read (low value). Root checked the comparison rows, billing distinctions, Kapwing overlap, Clueso gates and imported-video limitations.
+- Outcome: review confirmed sitemap/query counts and three offer inconsistencies; flagged missing ledger, misleading position header, fragmented H1 parser and unsupported privacy-page coverage. Corrections accepted; no numerical H1 count used.
+- Status: resolved through review corrections. Remaining uncertainty: vendor features are not firsthand tests. Next: complete discovery sample and segment decision.
+
+## D006 — 2026-10-03 — Phase 1 — Browser interruption and evidence retention
+- Evidence: browser unavailable after six completed ChatGPT tests; prior seventh submission unread; recovered October 3 with a fresh tab.
+- Choice/workaround: preserve completed observations, exclude unread response, continue in a separately dated settings cohort. Do not manufacture a missing answer.
+- Alternatives: substitute another model/tool (rejected); repeat every completed test (unnecessary).
+- Validation: direct ChatGPT access recovered; model menu shows GPT-5.6 Sol, Medium on resumed first test.
+- Status: partially resolved. Full Google result lists were lost from transient browser state; saved observations remain limited field notes. Next: save each new test promptly and disclose sampling/audit limits.
