@@ -20,11 +20,13 @@ Private names, contact details, identities and consent records belong outside co
 | L04 | [B004 existing-tool comment](https://www.reddit.com/r/SaaS/comments/1w6r09n/comment/p7yx1kt/) | Established recording workflow | Current task, affiliation and paid-tool context need verification |
 | L05 | [B001 organizational-use comment](https://news.ycombinator.com/item?id=47171401) | Historical self-reported Cardboard use | Current use and role unknown; separate context conversation, not an unfamiliar-prospect control |
 
-All lead statuses: identified from public text; uncontacted; eligibility unverified. No additional profile search or private identity mapping was performed. Multiple leads from one thread increase selection dependence. These routes may be stale or unavailable; a declined invitation is a constraint, not evidence of product rejection.
+All leads remain uncontacted and eligibility unverified. October 3 [route check](lead-route-check.md) verified L03, then L04 and L01 and inspected their public profiles. r/SaaS Rule 5 restricts cold DMs; no permitted recruitment route is verified. Logged-out profiles do not establish individual chat settings. Multiple leads from one thread increase selection dependence. A declined invitation is a constraint, not evidence of product rejection.
 
 ## Outreach draft for review
 
 Destination proposal: one-to-one invitation to a screened public-discussion author through a supported community contact route, where community rules permit it. No community post or direct message is currently authorized. Before any action, show Titash the chosen lead, actual destination, exact draft and any applicable rules. Check availability of the specific route; a public comment link does not prove direct messaging is open.
+
+The generic draft below is historical preparation. Use the newer [L03 draft with asynchronous option](../outreach/participant-invitation-L03.md) for review only. The proposed cold-DM route is unsuitable under the checked rule; neither draft authorizes sending.
 
 Draft:
 

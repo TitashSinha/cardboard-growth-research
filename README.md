@@ -8,7 +8,7 @@ October 2–3, 2026: three specifically checked official articles contain pricin
 
 Public buyer-language research includes a historical self-reported Cardboard-use account, real-interface concerns, correction sequences and adequate-incumbent counterevidence. Roles, payment, outputs and exact dates are not independently verified. Vendor promotion is separated. [Buyer evidence review](research/buyer-evidence-review.md).
 
-The retained baseline has **20 Google observations, 12 completed ChatGPT observations and 43 source records**. The review base 929c0d5 had 9 AI observations and 36 sources; later observations and source rereads are now retained. Six of the added ledger records are refreshed views/role routes, not six new buyers. The Google location is unknown and full result lists were not preserved. AI dates/efforts differ; two prompts are branded controls and one repeats an earlier prompt with different effort. These are scoped field observations, not market-wide visibility or demand. [Method](research/collection-method.md), [derived counts](research/evidence-summary.json).
+The retained baseline has **20 Google observations, 12 completed ChatGPT observations and 46 source records**. The review base 929c0d5 had 9 AI observations and 36 sources; later observations and source rereads are now retained. Six of the added ledger records are refreshed views/role routes, not six new buyers. The Google location is unknown and full result lists were not preserved. AI dates/efforts differ; two prompts are branded controls and one repeats an earlier prompt with different effort. These are scoped field observations, not market-wide visibility or demand. [Method](research/collection-method.md), [derived counts](research/evidence-summary.json).
 
 ## Chosen intervention → experiment
 
@@ -24,7 +24,7 @@ Actual participant responses: **0**. Result: not available. Buyer-driven revisio
 
 Before version: [decision aid v1](experiments/workflow-fit/materials/decision-aid-v1.md). A small [v1.1 internal revision](experiments/workflow-fit/materials/decision-aid-v1.1.md) explicitly allows “none” as a correction answer; it is the prepared test material, not a buyer-driven after version. First content asset: [initial article](content/blogs/01-workflow-switch.md) and [brief](content/briefs/01-workflow-switch.md). Remaining four briefs/drafts await feedback; five distinct articles remain the deliverable. Internal/AI review is not buyer feedback.
 
-Next action: authorize a specific recruitment audience/destination/message, then screen actual volunteers and obtain consent. Titash can demonstrate moderation and result interpretation; update the hypotheses and revise v1 before developing remaining articles. Until then, source/editorial checks and a truthful interim package can proceed.
+Next action: review the [unsent L03 invitation](outreach/participant-invitation-L03.md). [Route checks](research/lead-route-check.md) found that r/SaaS restricts cold DMs; L04/L01 share that constraint. A permitted opt-in route and exact authorization are needed before screening volunteers or collecting responses. Titash can demonstrate moderation and result interpretation; update the hypotheses and revise v1 before developing remaining articles. Until then, source/editorial checks and a truthful interim package can proceed.
 
 ## Scope and supporting artifacts
 

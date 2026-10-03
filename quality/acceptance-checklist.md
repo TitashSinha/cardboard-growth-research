@@ -9,6 +9,7 @@ Updated 2026-10-03. Checked items prove only their stated scope; preparation is 
 - [x] Buyer-source classification/counterevidence in [review](../research/buyer-evidence-review.md); no public comment counted as participant feedback.
 - [x] EX01 [protocol](../experiments/workflow-fit/protocol.md), neutral guide, initial aid, result and case templates prepared before responses.
 - [x] Five public leads and invitation draft [prepared](../research/participant-sourcing.md); all uncontacted, unscreened and unconsented.
+- [x] L03 → L04 → L01 [source/contact/rule checks](../research/lead-route-check.md) retained; no eligibility or permission inferred; [specific invitation](../outreach/participant-invitation-L03.md) unsent.
 - [ ] Recruitment authorized for exact audience/destination/message; consent obtained; real eligible behavior evidence collected.
 - [ ] EX01 actually executed and analyzed with counts, contradictions, eligibility/familiarity and limitations. Current usable responses: zero.
 - [ ] Titash moderates, interprets an actual case/result or performs another inspectable workflow action; record actual contribution.

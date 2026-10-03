@@ -84,3 +84,10 @@
 - Alternatives: replace unclear cases until a threshold passes, prime buyers with the brand, or count internal review as buyer validation (rejected).
 - Validation: guide/protocol/result schema corrected consistently; zero participant rows. Root accepted actionable critique, not a claim of validated segment or product performance.
 - Status: resolved for preparation only. Actual consented feedback and buyer-driven v2 remain pending. Next: authorize a specific route, screen and collect honestly; no execution inferred from this revision.
+
+## D012 — 2026-10-03 — Lead selection and Reddit recruitment constraint
+- Evidence: Titash selected L03 to challenge incumbent inadequacy (T03); original/related comments checked in browser; L04 then L01 checked; live r/SaaS rules and official chat documentation (B005/R001/R002).
+- Choice: retain L03 as provisional first screening candidate but reject the proposed cold-DM route under Rule 5. Rule 6 requires research-post vetting; Rule 11 adds promotional-tool restrictions. A platform mechanism is not community permission.
+- Alternatives/workaround: no public recruitment reply, platform detour or another member to evade the rule. Prepare an unsent invitation and continue local async protocol preparation. Later opt-in/permission covering a specific route could reopen contact with exact user authorization.
+- Validation: DOM comment dates retained, distinct from project dates. Logged-out profiles cannot establish chat settings; no person declared unreachable or eligible. Fallbacks share the community constraint.
+- Outcome/status: source/route review complete; permitted recruitment route unresolved. No contact, consent or responses. Next: review draft and amend async sequence before collection; no repeated D003 requests.

@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-03: Verified L03 original/related comments, then L04/L01 fallbacks, public contact controls and community rules (D012). r/SaaS prohibits cold DMs and requires research-post vetting; no permitted route verified or outreach sent. Saved unsent invitation and Titash's T03 lead-selection reasoning. Inventory increases to 46 source records, not additional participant responses. Async amendment follows before collection.
+
 - 2026-10-02: Initialized independent project and preserved source plan (D001).
 - 2026-10-02–03: Pushed setup/access, public metadata, 20 Google field observations and reviewed product/competitor/AI evidence through 929c0d5 (D002–D006).
 - 2026-10-03: Reconciled newer pending work; retained already-observed branded controls and priority-prompt repeat. Inventory now 20 Google/12 AI/43 sources; unlike cohorts and retention gaps explicit. Added reproducible counts and collector output preservation (D007/D010).
