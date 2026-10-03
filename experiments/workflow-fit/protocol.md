@@ -1,6 +1,6 @@
 # EX01 — Recent-project workflow fit test
 
-Version 1.1, preregistered 2026-10-03 after internal method review (D011). **Prepared; unrun; recruitment not authorized; zero responses.** D009 / H03. Existing free conversation and local-note tools; no accounts, payment, product output or company implementation.
+Version 1.2, preregistered 2026-10-03: internal method review (D011) plus [asynchronous amendment](async-amendment.md) (D013), added before collection. **Prepared; unrun; participant collection not authorized; zero responses.** D009 / H03. Existing free conversation and local-note tools; no new accounts, payment, product output or company implementation.
 
 ## Selection and rationale
 
@@ -38,6 +38,8 @@ All main participants receive this order. There is no paired-version or comparat
 ## Primary observable classification
 
 Denominator: the first five eligible, consented main-cohort cases, including mixed/insufficient accounts. Do not replace cases because they are ambiguous or inconvenient. Report screened, eligible, classified/mixed, excluded and withdrawn counts separately. If consent withdrawal prevents using a case, report the reduced analyzable count and do not apply the five-case rule.
+
+For both live and written modes, reserve places in screening-plus-retention-consent order under the amendment. No-answer nonresponses remain missing reserved places, not feedback rows or classified cases. Report partial/missing cases and mode separately; do not apply the five-case rule with fewer than five analyzable reserved cases. Public recommendation replies are adjacent evidence and cannot enter this denominator.
 
 - **Problem-positive:** names a concrete correction/handoff failure on that completed project; describes a material consequence in their own terms (e.g. additional rework, missed deadline, blocked approval); explains why the present workflow leaves it unresolved. A delivered video can qualify if the participant describes recurring material rework as an unresolved workflow burden, with a concrete example. Record the finished correction and unresolved burden separately. Link each criterion to a note/excerpt; record repeat-task evidence separately. A vague “editing takes time” is insufficient.
 - **Adequate incumbent:** says the delivered result met the task and gives a concrete reason for retaining the workflow; any correction was acceptably resolved and the participant does not identify a material unresolved workflow burden. Do not interpret unknowns as adequacy.

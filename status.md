@@ -5,9 +5,9 @@ Updated: 2026-10-03 (Asia/Kolkata). Interim work unit; project not complete.
 | Phase | State | Notes |
 |---|---|---|
 | 0 | Complete | Existing private repository/access record preserved |
-| 1 | Reconciled public baseline | 20 Google; 12 completed AI; 46 source records; 8 alternatives; scoped limitations retained |
+| 1 | Reconciled public baseline | 20 Google; 12 completed AI; 53 source records; 8 alternatives; scoped limitations retained |
 | 2 | Provisional decision prepared | Task-based SaaS research cohort, competing hypotheses and Titash's T02 judgment; buyer validation pending |
-| 3 | Test/research prepared; unrun | EX01 protocol, guide, v1, result/case templates, 5 uncontacted/unverified leads; zero responses; AAARRR map only |
+| 3 | EX01 prepared/unrun; public observation launched | EX01 protocol, guide, v1, result/case templates, 5 uncontacted/unverified leads; zero participant responses; two public posts await Monday snapshot; AAARRR map only |
 | 4 | First asset prepared | One initial brief/article and decision-aid v1; feedback/revision and remaining four briefs/drafts pending |
 | 5 | Interim packaging | README/review/checklist updated; final project acceptance not met |
 | 6 | Pending deck; interim note drafted | Founder route verified and message unsent; no presentation yet |
@@ -18,12 +18,12 @@ Completed research: product/technical/competitor/coverage/public-discussion audi
 
 Scoped limitations: no Cardboard account/product test, keyword exports/volumes, internal metrics or company implementation (D003). Google geography unknown and full result lists lost; preserved field notes remain limited. Public roles/output/date/affiliation often unverified. Mobile is first-screen only; no field performance claim.
 
-Open checks/actions: permitted recruitment route and exact audience/destination/draft authorization; eligible participants/consent; Titash moderation/interpretation; actual EX01 results and buyer-driven v2. L03 original/related account checked, then L04/L01; all unscreened/uncontacted. r/SaaS Rule 5 restricts the proposed cold-DM route; logged-out profiles cannot establish chat settings. See research/lead-route-check.md. Prepared test is not completed.
+Open checks/actions: Monday public-reply snapshot for RP01/RP02 (one-time October 5 10:00 Asia/Kolkata heartbeat configured); permitted private-participant recruitment route and exact audience/destination/draft authorization; eligible participants/consent; Titash moderation/interpretation; actual EX01 results and buyer-driven v2. L03 original/related account checked, then L04/L01; all unscreened/uncontacted. r/SaaS Rule 5 restricts the proposed cold-DM route; earlier logged-out profiles could not establish chat settings. Signed-in session subsequently verified for authorized publishing (D014); the community DM restriction remains. See research/lead-route-check.md. Prepared test is not completed.
 
 Missing final outputs: feedback/revision, remaining four briefs/articles, detailed event/experiment backlog and conversion proof page, final repository review, presentation. First priority asset precedes remaining content. Phase 7 excluded.
 
 Work-unit checks completed: collector offline checks, count/schema reconciliation, source/editorial/critical method review and local link checks. Initial v1 preserved; v1.1 internal correction is prepared for collection, not buyer-driven revision.
 
-Next unblocked task: amend EX01 for staged asynchronous participation before collection; Titash can review outreach/participant-invitation-L03.md. L03 is selected for screening but no permitted recruitment destination exists yet. Rehearsal must remain distinct from buyer data. Once a permitted route is authorized and participants consent, collect recent behavior, analyze the preregistered rule, ask Titash to interpret a case, and revise the aid/article and later briefs. Do not restart research or request inputs denied in D003.
+EX01 v1.2 staged asynchronous amendment is prepared, still unrun. Two authorized public questions are published with exact readback in research/reddit-publication-record.md; no Monday results yet. Next unblocked task: selectively verify the already observed content_marketing Cardboard-use discussion, separately from replies to our posts; Monday collect actual public replies and ask Titash to interpret the strongest finding. Titash can still review outreach/participant-invitation-L03.md. L03 is selected for screening but no permitted recruitment destination exists yet. Rehearsal must remain distinct from buyer data. Once a permitted route is authorized and participants consent, collect recent behavior, analyze the preregistered rule, ask Titash to interpret a case, and revise the aid/article and later briefs. Do not restart research or request inputs denied in D003.
 
-Pushed work-unit commits so far: fa2e4f2 (research/capture), 10d6fe2 (strategy/test), 9171cc3 (brief), 8044f55 (article). Packaging follows in the related commit; no test responses collected.
+Pushed work-unit commits so far: fa2e4f2 (research/capture), 10d6fe2 (strategy/test), 9171cc3 (brief), 8044f55 (article). e1fbc7b adds lead/rule verification; the current coherent update adds async preparation and authorized publication/monitoring evidence. No test responses collected.

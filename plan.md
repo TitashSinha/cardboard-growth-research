@@ -55,6 +55,8 @@ Titash's October 3 decision: investigate H03 first through the most recent video
 
 ## Buyer research and selected independent test
 
+October 3 continuation: EX01 supports staged written participation under [v1.2 amendment](experiments/workflow-fit/async-amendment.md), still unrun. Separately, the user approved a warmer public recommendation question and posting in relevant permitted communities, followed by a Monday October 5 reply snapshot. [Rules review](research/reddit-community-review.md), [copy](outreach/reddit-question-drafts.md), [observation plan](research/reddit-response-plan.md). Public comments are adjacent evidence, not consented buyer interviews or a completed experiment. Cardboard mentions are a secondary observation; H03 remains the main L03 question.
+
 Initial aim: five relevant conversations, a practical learning target rather than representative research. Ask about the last video actually produced: deadline, steps, tools, corrections, spending, approval/handoff and why the workflow was kept/replaced. Avoid hypothetical purchases and leading with Cardboard.
 
 Prepare candidate IDs, public context, destination and eligibility gaps. Leads remain uncontacted. Before recruiting, present exact audience/destination/message for authorization; authorization for one route does not authorize others. Participation, recording and use of excerpts require separate consent.
@@ -71,7 +73,7 @@ Preserve the initial workflow decision aid; revise only after actual feedback, w
 
 Retain Awareness, Acquisition, Activation, Retention, Revenue and Referral. Independent public research and buyer tests inform discovery/evaluation; they do not measure company funnel outcomes. The eventual event specification needs identities, properties, denominators, eligibility windows, cohort maturity, attribution/consent and failure handling. A useful first export as activation remains a hypothesis.
 
-Choose primary/supporting channels provisionally after segment review. Articles/demos connect buyer questions to credible proof and truthful next action. Community distribution remains a draft until authorized. No paid acquisition. Activation, repeat use, payments and referrals require company access; prepare the handoff without simulated results.
+Choose primary/supporting channels provisionally after segment review. Articles/demos connect buyer questions to credible proof and truthful next action. The two community questions in research/reddit-publication-record.md are authorized and published; Monday observation is scheduled, results pending. Other distribution requires its own authorization. No paid acquisition. Activation, repeat use, payments and referrals require company access; prepare the handoff without simulated results.
 
 ## Required outcome gates
 

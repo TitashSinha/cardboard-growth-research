@@ -2,6 +2,8 @@
 
 2026-10-03. Prepared, not used. Start from [public evidence classification](buyer-evidence-review.md) and [EX01 protocol](../experiments/workflow-fit/protocol.md); public posts do not establish eligibility or consent.
 
+Live or written participation follows the precollection [v1.2 amendment](../experiments/workflow-fit/async-amendment.md). Written: consent/screen first; questions 1–5 then 6–10; behavior notes before named familiarity/aid; factual readback and excerpt permission last. Public recommendation comments are a separate evidence stream, not consented EX01 responses.
+
 ## Screen and consent
 
 “I’m preparing an independent growth work sample about SaaS video workflows. This is voluntary and unpaid. May I take anonymized notes? Separately, may I retain a de-identified summary in my private GitHub repository and hiring work sample? I’ll ask separately about any short excerpt. You can skip questions, stop, or withdraw permission for retained material. Please avoid private customer data.” Record permission for each scope; no retained summary without retention consent.

@@ -10,6 +10,9 @@ Updated 2026-10-03. Checked items prove only their stated scope; preparation is 
 - [x] EX01 [protocol](../experiments/workflow-fit/protocol.md), neutral guide, initial aid, result and case templates prepared before responses.
 - [x] Five public leads and invitation draft [prepared](../research/participant-sourcing.md); all uncontacted, unscreened and unconsented.
 - [x] L03 → L04 → L01 [source/contact/rule checks](../research/lead-route-check.md) retained; no eligibility or permission inferred; [specific invitation](../outreach/participant-invitation-L03.md) unsent.
+- [x] EX01 [written protocol amendment](../experiments/workflow-fit/async-amendment.md) prepared before collection; zero participant rows.
+- [x] User-approved [public questions](../research/reddit-publication-record.md) published with verified readback; community rules critically checked and Monday read-only review scheduled.
+- [ ] Monday public-reply evidence collected, counted and interpreted; public comments remain separate from EX01.
 - [ ] Recruitment authorized for exact audience/destination/message; consent obtained; real eligible behavior evidence collected.
 - [ ] EX01 actually executed and analyzed with counts, contradictions, eligibility/familiarity and limitations. Current usable responses: zero.
 - [ ] Titash moderates, interprets an actual case/result or performs another inspectable workflow action; record actual contribution.
