@@ -2,6 +2,8 @@
 
 Public convenience sample, accessed 2026-10-02. No interviews. No verified paying-customer sample.
 
+October3 reread: [buyer-evidence-review.md](buyer-evidence-review.md) adds source classification, self-reported historical Cardboard use, correction detail and incumbent counterevidence. Earlier month labels below describe the initial reading; conflicting relative-date extraction means exact post dates remain unresolved. Do not treat these as verified recent participant accounts. Vendor promotion is separated in the reread.
+
 | Evidence | Who / scope | Observed concern, paraphrased | Growth implication, inferred |
 |---|---|---|---|
 | E011 | Cardboard HN launch discussion, historical | A participant asked to compare raw material with finished examples; founder pointed to sample projects | Show provenance and corrections, rather than only polished outputs |

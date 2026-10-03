@@ -2,7 +2,7 @@
 
 Date: 2026-10-02, Asia/Kolkata. Independent convenience sample, not a market census.
 
-Continuation: 2026-10-03. E025 rows retain their actual observation dates. October3 runs use Medium effort as visible in the composer/model menu. The unread October2 seventh submission is excluded; its prompt was rerun. Original Google field notes are retained, but full heading lists were lost from temporary browser state; independent auditing of every absent result is therefore limited.
+Continuation: 2026-10-03. E025 rows retain their actual observation dates. AI07–AI11 show Medium effort; AI12 shows Instant and was verified in the model menu. The unread October2 seventh submission is excluded; its prompt was rerun. Original Google field notes are retained, but full heading lists were lost from temporary browser state; independent auditing of every absent result is therefore limited. AI12 was already read before the plan revision and is retained, not a new quota-driven check. No further discovery expansion is planned without a decision-changing question.
 
 ## Google (E026)
 
@@ -18,11 +18,13 @@ Existing account, Chat mode, fresh temporary unpersonalized conversation per pro
 
 Results are summarized as observed brand ordering and visible citation URLs. No private account/sidebar content is saved. Temporary conversations may expire; reproduce with the exact prompt and settings in the CSV. Answers themselves are not capability evidence: follow primary sources before reusing factual claims.
 
+Schema: mention, recommendation and citation flags refer specifically to Cardboard. The citation_url column contains visible sources for the whole answer, including competitors; it is not the Cardboard citation list. URL tracking parameters are removed. Requested geography reflects the prompt, not account location; observed geography is unknown. Cohort/date/effort are retained per row. AI10–AI11 are branded retrieval controls; AI12 repeats AI01 with different effort and is not a controlled comparison. Cross-cohort results must not become a universal visibility score.
+
 ## Public website (E008–E010)
 
 `python analysis/collect_public.py` captures HTTP status, final URL, canonical, robots, titles, links and body hashes with four independent requests at a time. It reads only public pages and stores metadata, not full copyrighted pages. No production modification. UTC capture timestamps are retained in JSON; project dates use Asia/Kolkata. Sitemap counts describe listed URLs, not indexed pages. Browser readback resolves interactive pricing and FAQ states.
 
-The October3 parser revision aggregates nested text per H1. Original `public-metadata.json` is retained unchanged; reruns write `public-metadata-refresh.json`. Original H1 arrays are fragments and must not be counted as elements. Neither HTML heading capture proves visual mobile behavior.
+The October3 parser revision aggregates nested text per H1. Original `public-metadata.json` and the existing `public-metadata-refresh.json` are retained unchanged. Future runs use timestamped UTC files in `research/captures/`, or a new explicit `--output` path; existing paths are refused before requests. Original H1 arrays are fragments and must not be counted as elements. Neither HTML heading capture proves visual mobile behavior.
 
 ## Buyer evidence
 

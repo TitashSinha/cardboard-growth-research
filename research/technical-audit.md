@@ -12,7 +12,7 @@ Observed 2026-10-02. Scope: sampled public pages and sitemap, not GSC or server 
 | Blog navigation (E023) | Same eight article routes found in blog links and sitemap | No dedicated SaaS launch workflow page found in inspected inventory; avoid claiming sitewide absence |
 | Headings | Homepage/desktop include headings inside product mockups | Low-priority semantics review; not a demonstrated ranking blocker |
 | llms.txt | Public file accessible and linked from robots comment | Existing; no reason to prioritize adding one |
-| Mobile | Pending narrow visual check | No Core Web Vitals or field-performance claim |
+| Mobile (E027; Oct3) | Homepage inspected at 390×844 CSS pixels; hero and Get started readable; document width380 versus viewport390; horizontal category chips partially visible | First-screen responsive observation only; no product use, physical-device test or Core Web Vitals claim |
 
 ## Recommendations with failure checks
 
@@ -21,3 +21,5 @@ Observed 2026-10-02. Scope: sampled public pages and sitemap, not GSC or server 
 3. **Keep public pages crawlable and readable.** Validate OAI-SearchBot against actual logs/WAF later. Google recommends standard SEO and useful content; OpenAI separates search crawling from training (E015–E016). Do not promise inclusion or change training permissions as a prerequisite for search.
 
 No invented SEO health score, mandatory passage length, FAQ rich-result promise, or llms.txt citation trick. The imported GEO checklist mislabels GPTBot's purpose; the current official documentation takes precedence. Proposed Article/Organization markup should reflect visible content and pass the relevant validators if company implementation proceeds.
+
+Mobile evaluation note: the homepage offers a creation prompt and CTA in the first viewport, while the device FAQ says phones/tablets are unsupported. A proposed improvement is to explain desktop eligibility near the mobile CTA or offer a return-on-desktop path. This is a comprehension hypothesis, not an observed signup failure. Viewport override was reset after inspection.

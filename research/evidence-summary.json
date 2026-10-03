@@ -1,0 +1,48 @@
+{
+  "google_observations": 20,
+  "google_nonbrand_observations": 16,
+  "google_nonbrand_with_official_result_in_inspected_headings": 0,
+  "chatgpt_completed_observations": 12,
+  "chatgpt_nonbrand_observations_including_repeat": 10,
+  "chatgpt_nonbrand_cardboard_mentions": 0,
+  "chatgpt_cohorts": [
+    {
+      "date": "2026-10-02",
+      "model": "GPT-5.6 Sol",
+      "effort": "Instant",
+      "observations": 5
+    },
+    {
+      "date": "2026-10-02",
+      "model": "GPT-5.6 Sol",
+      "effort": "Medium",
+      "observations": 1
+    },
+    {
+      "date": "2026-10-03",
+      "model": "GPT-5.6 Sol",
+      "effort": "Instant",
+      "observations": 1
+    },
+    {
+      "date": "2026-10-03",
+      "model": "GPT-5.6 Sol",
+      "effort": "Medium",
+      "observations": 5
+    }
+  ],
+  "source_entries": 43,
+  "unique_source_ids": 43,
+  "competitor_alternatives": 8,
+  "sitemap_urls_in_retained_refresh": 22,
+  "blog_urls_in_retained_refresh": 8,
+  "blog_drafts": 1,
+  "briefs": 1,
+  "participant_feedback_records": 0,
+  "limits": [
+    "Google field notes lack full result lists; location unknown.",
+    "AI cohorts differ in date/effort; two branded prompts excluded from unaided observations.",
+    "AI12 repeats AI01 with different effort; not a matched comparison.",
+    "Counts are inventory/sample observations, not demand or business outcomes."
+  ]
+}

@@ -31,6 +31,10 @@ The comparison table differentiates export and generation allowances; unlimited 
 
 These are three specifically checked articles, not a claim that every article is wrong. Cached search output initially showed an older pricing page too; refreshed live pricing agreed with the homepage. Fix the live content inconsistency, then monitor snippets after recrawl. We cannot tell whether it currently reduces purchases.
 
+### Branded AI retrieval check, October 3
+
+AI10 (E025) correctly repeated the new monthly ladder, but also attributed an older $32/$120 schedule to the pricing page and reported a three-day web trial from official sources. The live pricing observation disagrees with that older schedule; the current web trial remains unverified. The answer hypothesized a pricing transition, which this project has not established. This is one observed mixed answer, not proof that the blog inconsistencies caused it. Cache age, retrieval choices and actual checkout terms remain unresolved. Separate this accuracy test from unaided discovery tests.
+
 ## Proof and first use
 
 The stronger hypothesis is **make existing proof easier to evaluate for one buyer job**. A historical HN participant wanted raw assets alongside outputs; the founder replied that sample projects and prompts existed (E011). That is counterevidence to a claim that proof never existed. The old demo URL now redirects to the homepage (E017). We did not establish whether equivalent samples remain available after signup.

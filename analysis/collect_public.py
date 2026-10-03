@@ -1,5 +1,5 @@
 """Read-only public-site metadata capture. Standard library; no credentials."""
-import csv, json, urllib.request, urllib.error, hashlib
+import argparse, json, urllib.request, urllib.error, hashlib
 from html.parser import HTMLParser
 from pathlib import Path
 from datetime import datetime, timezone
@@ -46,10 +46,34 @@ def get(url):
     except Exception as e: record['error']=str(e)
     return record
 
-if __name__=='__main__':
+def output_path(output=None):
+    if output is not None:
+        return Path(output).expanduser().resolve()
+    timestamp=datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%S.%fZ')
+    return ROOT/'research'/'captures'/f'public-metadata-{timestamp}.json'
+
+def save_capture(records, dest):
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    # Exclusive creation also protects against a file appearing during capture.
+    with dest.open('x', encoding='utf-8') as capture:
+        json.dump(records, capture, indent=2)
+        capture.write('\n')
+
+def main(argv=None):
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--output', help='New JSON file path; default: timestamped UTC file in research/captures/. Existing files are never overwritten.')
+    args=parser.parse_args(argv)
+    dest=output_path(args.output)
+    if dest.exists():
+        parser.error(f'Refusing to overwrite existing capture: {dest}')
     urls=['https://www.cardboard.ai/robots.txt','https://www.cardboard.ai/sitemap.xml','https://cardboard.ai/','http://www.cardboard.ai/','https://www.cardboard.ai/','https://www.cardboard.ai/pricing','https://www.cardboard.ai/blog','https://www.cardboard.ai/careers','https://www.cardboard.ai/desktop','https://www.cardboard.ai/blog/how-to-make-a-promo-video','https://www.cardboard.ai/blog/best-ai-video-editors']
     with ThreadPoolExecutor(max_workers=4) as ex: records=list(ex.map(get,urls))
-    dest=ROOT/'research'/'public-metadata-refresh.json';dest.write_text(json.dumps(records,indent=2),encoding='utf-8')
-    for r in records: print(json.dumps({k:v for k,v in r.items() if k not in ['links','locations']}))
-    for r in records:
-        if 'locations' in r: print('SITEMAP',len(r['locations']),json.dumps(r['locations']))
+    try:
+        save_capture(records, dest)
+    except FileExistsError:
+        parser.error(f'Refusing to overwrite existing capture: {dest}')
+    print(f'Saved {len(records)} records ({sum("error" in r for r in records)} errors) to {dest}')
+    return 0
+
+if __name__=='__main__':
+    raise SystemExit(main())
