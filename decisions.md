@@ -121,3 +121,9 @@
 - Alternatives: new onboarding/referral feature without observing the app, another generic tools list, universal free-trial CTA or claiming an internal edit is buyer-driven iteration (rejected). Reuse existing proof/content if adequate.
 - Outcome: strategy/growth-opportunities.md contains three cards with counterevidence, mechanism, confidence, test/decision rule and access boundary. content/conversion/offer-explanation-v1.md is a small editorial sample, not a complete conversion page or tested result. Titash supplied the access challenge; rankings/copy are AI preparation pending his review.
 - Next: Titash can explain keep/defer/reject reasoning on the cards/sample; Monday public observations and separately authorized EX01 feedback can revise priorities/first asset. Detailed instrumentation, genuine proof, buyer-driven revision, four remaining drafts and presentation remain open.
+
+## D018 — 2026-10-04 — Keep one-time Monday review; preserve preliminary reply lead
+- Evidence: Titash asks to review once tomorrow only and supplies a favored reply describing a generator/editor split. No original permalink, author, date or affiliation provided. Existing heartbeat remains active for October 5 at 10:00 IST with one occurrence.
+- Choice: retain that schedule without an earlier snapshot or duplicate monitor. Save the excerpt's claims as an unverified user-supplied lead; match and classify at Monday review.
+- Alternatives: accept render/time/performance numbers as benchmarks, endorse the named tool, pool UGC with SaaS buyers or treat this as EX01 feedback (rejected).
+- Outcome: research/user-supplied-reply-2026-10-04.md preserves claims, counterchecks and provenance limits. No reply counts, new verified sources, buyer validation or growth result added. No public action taken.
