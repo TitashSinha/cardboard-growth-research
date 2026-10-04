@@ -18,6 +18,8 @@ Titash challenged incumbent adequacy first: clearer pricing/proof may not justif
 
 **EX01, prepared and unrun:** a neutral recent-project workflow test, followed by a prototype decision-aid task. It records concrete correction/handoff problems, incumbent strengths and reasons to keep or investigate the workflow. Offer comprehension is a conditional next test. No Cardboard output is generated or evaluated. [Preregistered protocol](experiments/workflow-fit/protocol.md), [research guide](research/buyer-research-guide.md), [uncontacted lead sourcing and unsent invitation](research/participant-sourcing.md).
 
+[Three prioritized opportunities](strategy/growth-opportunities.md): offer consistency, existing-proof evaluation and task-specific discovery. They are public-evidence proposals with explicit counterevidence and test/access limits. The [offer before/after sample](content/conversion/offer-explanation-v1.md) is an internal factual revision, not buyer feedback or a complete conversion page.
+
 ## Result → revision → next action
 
 Actual participant responses: **0**. Result: not available. Buyer-driven revision: not performed. [Empty result template](experiments/workflow-fit/results.csv), [case template](experiments/workflow-fit/case-template.md), [revision record](experiments/workflow-fit/revision-log.md).

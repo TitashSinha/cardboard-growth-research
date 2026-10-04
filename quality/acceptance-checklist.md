@@ -5,6 +5,8 @@ Updated 2026-10-04. Checked items prove only their stated scope; preparation is 
 - [x] Phase 0: existing private repository, [access readiness](../research/access-readiness.md), decisions/logs and pushed history.
 - [x] Phase 1: public baseline and audits exist; [sampling/retention gaps](../research/collection-method.md) explicit; [derived inventory](../research/evidence-summary.json) reconciled.
 - [x] Provisional segment comparison and eligibility defined in [positioning](../strategy/positioning.md); competing hypotheses in [single register](../assumptions.md).
+- [x] [Three prioritized opportunities](../strategy/growth-opportunities.md) prepared with evidence/confidence, counterevidence, mechanisms, tests and company dependencies; no missing-app-feature claim.
+- [x] [Public offer before/after block](../content/conversion/offer-explanation-v1.md) source-checked as an internal revision; complete page and buyer-driven after version still pending.
 - [x] Actual Titash judgment changes a decision; AI preparation and unperformed human work separated in [contribution log](../strategy/contribution-log.md).
 - [x] Buyer-source classification/counterevidence in [review](../research/buyer-evidence-review.md); no public comment counted as participant feedback.
 - [x] EX01 [protocol](../experiments/workflow-fit/protocol.md), neutral guide, initial aid, result and case templates prepared before responses.

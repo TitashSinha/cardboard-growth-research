@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-04: Prepared three public-evidence growth opportunities and internal offer before/after block (D017); each distinguishes observations, hypotheses, counterevidence, mechanisms and validation/dependencies. Preserved H03-first learning and open full-page/feedback gates. Recorded Titash’s actual access challenge as T06; rankings/copy remain AI-assisted preparation.
+
 - 2026-10-04: Titash challenged unseen-product feature recommendations (D016). Refreshed the exact pricing route and three inconsistent articles (E028–E031); retained public-text scope and unverified current web-trial terms. Inventory57 sources, not more buyers or discovery tests. Public opportunities and internal sample follow.
 
 - 2026-10-04: Registered six distinct Reddit posts (D015), removed duplicate supplied link and resolved AI_UGC_Marketing community URL. Retained exact platform dates/titles and two removal notices without inferring their commercial meaning. Extended Monday read-only review; credited Titash’s reported manual distribution separately from AI publishing and pending analysis.

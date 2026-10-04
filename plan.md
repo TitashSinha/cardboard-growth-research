@@ -1,6 +1,6 @@
 # Cardboard growth research and application plan
 
-Owner: Titash Sinha. Created October 2; revised October 3, 2026 (D007).
+Owner: Titash Sinha. Created October 2; revised October 3–4, 2026 (D007/D016–D017).
 
 ## Objective and hiring evidence
 
@@ -68,6 +68,10 @@ Before collecting responses, define eligibility, H03, materials, neutral tasks/q
 Primary observable result: eligible participants with a specific unresolved correction/handoff problem in their recent project, versus those whose current workflow met the task adequately. Count only responses satisfying the preregistered evidence criteria; preserve contradictory and missing evidence. No signup-conversion, revenue, product-quality or willingness-to-pay inference. Tiny counts cannot establish market prevalence.
 
 Preserve the initial workflow decision aid; revise only after actual feedback, with a change log linking feedback to reasoning. Internal factual/editorial checks may improve a prototype, but cannot satisfy the completed experiment or buyer-driven revision gate. Statuses: prepared → authorized → collecting → analyzed → revised, each requiring evidence.
+
+## Three growth opportunities within access
+
+[O01–O03](strategy/growth-opportunities.md) rank public offer consistency, existing-proof evaluation and task-specific discovery, with evidence/confidence, counterevidence, mechanisms, tests and company dependencies. This is preparation priority; EX01/H03 remains first buyer learning. No missing app feature or paywall change diagnosed without use. A [small offer before/after block](content/conversion/offer-explanation-v1.md) is an internal source-led sample; complete conversion page and buyer-driven revision remain pending.
 
 ## AAARRR and distribution
 
