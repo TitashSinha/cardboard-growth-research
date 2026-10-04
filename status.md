@@ -5,10 +5,10 @@ Updated: 2026-10-04 (Asia/Kolkata). Interim work unit; project not complete.
 | Phase | State | Notes |
 |---|---|---|
 | 0 | Complete | Existing private repository/access record preserved |
-| 1 | Reconciled public baseline | 20 Google; 12 completed AI; 57 source records; 8 alternatives; scoped limitations retained |
+| 1 | Reconciled public baseline | 20 Google; 12 completed AI; 60 source records including three SEO/AI guidance checks; 8 alternatives; limitations retained |
 | 2 | Provisional decision prepared | Task-based SaaS cohort, competing hypotheses and three prioritized public opportunities O01–O03; T02/T06 judgment retained; buyer validation pending |
 | 3 | EX01 prepared/unrun; public observation launched; measurement specified | EX01 protocol, guide, v1, result/case templates, 5 uncontacted/unverified leads; zero participant responses; six tracked posts await Monday; two currently removed; AAARRR map plus proposed measurement/event contract |
-| 4 | First asset prepared | One brief/article and decision-aid v1; internal offer before/after block prepared; full page, buyer-driven revision and four drafts pending |
+| 4 | First asset and SEO/GEO preparation | One distinct article/brief, original and internal SEO v1.1; decision aid and offer block; full page, buyer-driven revision and four drafts pending |
 | 5 | Interim packaging | README/review/checklist updated; final project acceptance not met |
 | 6 | Pending deck; interim note drafted | Founder route verified and message unsent; no presentation yet |
 
@@ -25,6 +25,8 @@ Missing final outputs: feedback/revision, remaining four briefs/articles, detail
 D018: Titash reconfirmed one review tomorrow only; existing October 5 10:00 IST one-occurrence schedule retained. A favored generator/editor reply is saved in research/user-supplied-reply-2026-10-04.md as unverified user-supplied text, not a Reddit snapshot or EX01 case. Original permalink/author/date/affiliation and numerical claims await source matching at that review. No early thread review performed; counts unchanged.
 
 D019: strategy/measurement-plan.md and strategy/measurement-events.csv passed internal method/schema/link review and were pushed in afc4902. Independent observations reuse existing records/rules; twelve company events are proposals only. Rejection, unmatched billing, outcome boundaries, eligibility, mature denominators and provisional seven-/30-day windows are explicit. No tracking installed, new data collected or H03 result inferred; later protocols/company semantics require approval before collection. Titash authorized preparation; AI assistance is disclosed.
+
+D020: three current official SEO/AI-search guidance records added (E032–E034), not new queries/buyers. quality/seo-geo-editorial-gates.md sets standards for all five eventual assets; content/briefs/01-workflow-switch.md has explicit keyword/intent evidence labels and links to content/revisions/01-workflow-switch-seo-v1.1.md. Original article v1 preserved; internal variant is one article's revision, not a second finished article or actual feedback. Exact-primary-query results, demand/competition, buyer review and company publication/access checks remain open. No article is marked SEO/GEO-complete and no ranking/citation effect claimed. EX01 and Monday-only collection unchanged.
 
 Work-unit checks completed: collector offline checks, count/schema reconciliation, source/editorial/critical method review and local link checks. Initial v1 preserved; v1.1 internal correction is prepared for collection, not buyer-driven revision.
 

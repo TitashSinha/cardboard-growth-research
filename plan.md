@@ -1,6 +1,6 @@
 # Cardboard growth research and application plan
 
-Owner: Titash Sinha. Created October 2; revised October 3–4, 2026 (D007/D016–D019).
+Owner: Titash Sinha. Created October 2; revised October 3–4, 2026 (D007/D016–D020).
 
 ## Objective and hiring evidence
 
@@ -88,6 +88,7 @@ Choose primary/supporting channels provisionally after segment review. Articles/
 - **Inspectable before/after asset:** v1 + actual feedback + revision + reasoning; prototypes visibly labeled. A storyboard is not product output.
 - **Bounded Titash contribution:** deliverables, measurement, dependencies and limits based on abilities actually demonstrated here. Credit AI preparation and Titash's actual decisions/actions separately.
 - **Five articles:** briefs need audience, intent, unique contribution, overlap, sources, funnel role, CTA and links. Drafts need title/slug/meta, answer-first opening, useful examples and sources; aim for 600–900 useful words, shorter if complete. First priority asset/brief precedes the remaining four. Later briefs stay provisional until feedback; if five distinct assets lack evidence, record the conflict.
+- **SEO/GEO readiness:** apply [editorial gates](quality/seo-geo-editorial-gates.md) to each eventual brief/draft. Select primary/supporting query hypotheses with evidence status; verify exact-query intent/competing pages before company publishing and review overlap. Use natural metadata/headings, useful sourced answers and truthful next actions. Preserve original v1 and labeled internal variants; they do not satisfy buyer-driven revision. No rank/citation guarantees or invented demand data; company publication/access/authority checks are separate.
 
 ## Completion and resume
 

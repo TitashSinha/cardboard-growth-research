@@ -22,6 +22,8 @@ Updated 2026-10-04. Checked items prove only their stated scope; preparation is 
 - [x] Initial [before asset](../experiments/workflow-fit/materials/decision-aid-v1.md) preserved and labeled prototype.
 - [ ] Feedback → v2 → documented reasoning; [revision record](../experiments/workflow-fit/revision-log.md) currently states pending.
 - [x] First priority [brief](../content/briefs/01-workflow-switch.md) and [article v1](../content/blogs/01-workflow-switch.md) prepared before remaining four.
+- [x] [SEO/GEO editorial gates](seo-geo-editorial-gates.md) prepared; first brief labels primary/supporting query hypotheses and retained observation limits; original and [internal SEO v1.1](../content/revisions/01-workflow-switch-seo-v1.1.md) distinguished.
+- [ ] Each final article meets SEO/GEO editorial gates, verified intent/overlap and source/buyer review. Company publication and public visibility are separate future dependencies, excluded from independent completion.
 - [ ] Five distinct briefs and five source-checked, feedback-informed drafts; document any evidence/overlap conflict rather than invent topics.
 - [x] Complete six-stage [AAARRR map](../strategy/funnel.md), externally testable versus company-dependent work distinct.
 - [x] [Measurement specification](../strategy/measurement-plan.md) and [12 proposed event contracts](../strategy/measurement-events.csv) prepared: independent decision rules, identities, provisional windows, mature denominators, attribution and failures; no implemented company tracking or results implied.

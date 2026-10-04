@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-04: Added SEO/GEO editorial gates, three primary guidance records and first-brief keyword/intent supplement (D020). Preserved article v1; prepared a separate internal SEO v1.1, still one distinct article without buyer feedback. Inventory60 sources; discovery20/12 and participant rows unchanged. Exact-query/competitor intent and public performance remain unverified; no early Reddit review, site edits or rank guarantees.
+
 - 2026-10-04: Prepared decision-linked AAARRR measurement specification and twelve proposed company event contracts (D019, afc4902). Preserved EX01 and the one-time Monday review; distinguished public/interview/company units, eligibility, mature windows, attribution and failure handling. Method review corrected rejection capture, unmatched billing and outcome boundaries; company implementation/results and later experiment backlog remain pending. Reconciled README/plan/status/acceptance and AI contribution disclosure.
 
 - 2026-10-04: Retained Titash's one-time Monday review instruction and preliminary favored reply (D018). Kept generator/editor interpretation separate from unverified performance figures, source identity and EX01; no early Reddit review or new monitor.
