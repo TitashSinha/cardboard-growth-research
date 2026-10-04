@@ -88,3 +88,5 @@ Choose primary/supporting channels provisionally after segment review. Articles/
 ## Completion and resume
 
 Use acceptance-checklist.md for gates; document creation alone does not complete feedback-dependent phases. Update status before stopping and at phase transitions. End this work unit with changes, provisional segment, selected test/rationale, prepared artifacts, human actions still needed, commits/push and next unblocked task. Final presentation remains downstream of repository review and honest feedback/revision status.
+
+October 4 tracker continuation (D015): six unique Reddit posts registered after Titash reported additional manual publication, chiefly video-editing communities. Monday review covers all six, preserving two current removal states, per-thread timing and wording, author/bot exclusions and editor/UGC versus SaaS context. This supplements buyer discovery and leaves EX01/feedback-driven revision gates open.

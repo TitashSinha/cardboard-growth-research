@@ -13,3 +13,7 @@ Record other recommended tools, reasons, concrete correction burden, current-too
 Do not infer impressions, recommendation rates in the market, signup conversion, revenue or product quality. No statistical claim. Do not treat public comments as consented EX01 interviews or asset feedback. No private messages or interview recruitment follows automatically. Any later brand-prompted question is a separate cohort and cannot be counted as spontaneous.
 
 Result record: [publication ledger](reddit-posts.csv), later dated source notes and decision update. Monday monitoring is read-only and should report actual counts/context, source links and evidence gaps. No public follow-up, edits or messages without appropriate authorization.
+
+## October 4 scope update — D015
+
+Track all six distinct post URLs in reddit-posts.csv, including removed posts. Deduplicated the supplied content_marketing URL and resolved AI_UGC_Marketing to its specific post. Preserve per-thread audience, title/body variants, publication times and moderation states; compare no pooled market prevalence. Author replies are excluded from response counts. Brand exposure in author follow-ups must be checked before calling a later mention spontaneous. Registration capture is partial and is not Monday result data; capture complete visible replies with URLs at the scheduled snapshot. See reddit-tracker-update-2026-10-04.md.

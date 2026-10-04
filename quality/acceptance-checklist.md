@@ -1,6 +1,6 @@
 # Acceptance checklist
 
-Updated 2026-10-03. Checked items prove only their stated scope; preparation is not experiment execution.
+Updated 2026-10-04. Checked items prove only their stated scope; preparation is not experiment execution.
 
 - [x] Phase 0: existing private repository, [access readiness](../research/access-readiness.md), decisions/logs and pushed history.
 - [x] Phase 1: public baseline and audits exist; [sampling/retention gaps](../research/collection-method.md) explicit; [derived inventory](../research/evidence-summary.json) reconciled.
@@ -12,6 +12,7 @@ Updated 2026-10-03. Checked items prove only their stated scope; preparation is 
 - [x] L03 → L04 → L01 [source/contact/rule checks](../research/lead-route-check.md) retained; no eligibility or permission inferred; [specific invitation](../outreach/participant-invitation-L03.md) unsent.
 - [x] EX01 [written protocol amendment](../experiments/workflow-fit/async-amendment.md) prepared before collection; zero participant rows.
 - [x] User-approved [public questions](../research/reddit-publication-record.md) published with verified readback; community rules critically checked and Monday read-only review scheduled.
+- [x] [October 4 tracker](../research/reddit-tracker-update-2026-10-04.md) registers six unique posts, resolves community URL and preserves moderation states; manual human publication credited separately.
 - [ ] Monday public-reply evidence collected, counted and interpreted; public comments remain separate from EX01.
 - [ ] Recruitment authorized for exact audience/destination/message; consent obtained; real eligible behavior evidence collected.
 - [ ] EX01 actually executed and analyzed with counts, contradictions, eligibility/familiarity and limitations. Current usable responses: zero.

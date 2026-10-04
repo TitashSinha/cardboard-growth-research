@@ -1,6 +1,6 @@
 # Contribution and authorship
 
-Updated 2026-10-03. This record separates actual human judgment from AI assistance and unperformed work.
+Updated 2026-10-04. This record separates actual human judgment from AI assistance and unperformed work.
 
 | Date / ID | Contributor | Actual action | Evidence and limits |
 |---|---|---|---|
@@ -8,6 +8,7 @@ Updated 2026-10-03. This record separates actual human judgment from AI assistan
 | 2026-10-03 / T02 | Titash | Prioritized current-workflow adequacy ahead of pricing/proof; proposed asking about the last video, time lost and corrections | Direct response summarized in D009 and plan.md. His stated reason: clarity alone may not justify switching if the incumbent meets the need. This changed the selected test. |
 | 2026-10-03 / T03 | Titash | Selected L03 first because an apparently adequate workflow could challenge assumed need for an alternative; requested source/route checks and L04 → L01 fallback | Direct instruction; lead-selection judgment, not screening or buyer feedback. Requested written or 15–20-minute participation and explicitly prohibited sending. |
 | 2026-10-03 / T04 | Titash | Replaced formal recruitment copy with a warm firsthand editor question, approved publication and requested Monday Cardboard-mention counts | Direct copy feedback and posting instruction (D014). This is audience/copy judgment and authorization, not personally operated publishing or buyer feedback. |
+| 2026-10-04 / T05 | Titash | Reported manually publishing additional questions and prioritized video-editing communities; supplied tracking URLs | Exact matching pages inspected (D015); four additional posts registered, two with removal notices. This demonstrates distribution action and audience choice; no response analysis, buyer eligibility or growth result credited. |
 | 2026-10-02–03 / AI01 | Codex with delegated research/review | Collected public evidence, drafted analysis/materials, ran direct discovery observations, corrected extraction/data labels and prepared the repository | Sources, collection method, review log and Git history. These are AI-assisted preparation, not Titash-operated interviews or experiments. |
 | 2026-10-03 / AI02 | Root Codex critical review | Checked delegated source claims; caught Clueso free-quota conflict; checked buyer classifications, collector and hygiene work | quality/review-log.md; AI review is not independent buyer feedback. |
 

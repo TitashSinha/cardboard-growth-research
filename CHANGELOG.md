@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-04: Registered six distinct Reddit posts (D015), removed duplicate supplied link and resolved AI_UGC_Marketing community URL. Retained exact platform dates/titles and two removal notices without inferring their commercial meaning. Extended Monday read-only review; credited Titash’s reported manual distribution separately from AI publishing and pending analysis.
+
 - 2026-10-03: Prepared EX01 v1.2 written participation amendment before responses (D013). User revised and approved warmer public question, authorized permitted community posts and requested Monday Cardboard-mention check (D014). Prepared distinct public-observation plan; no public replies counted as EX01 feedback. Community tracks critically reviewed; Published RP01/RP02 with verified readback; scheduled one-time Monday October 5 review. Added seven community-rule sources (53 total), which are not buyer evidence. EX01 remains unrun.
 
 - 2026-10-03: Verified L03 original/related comments, then L04/L01 fallbacks, public contact controls and community rules (D012). r/SaaS prohibits cold DMs and requires research-post vetting; no permitted route verified or outreach sent. Saved unsent invitation and Titash's T03 lead-selection reasoning. Inventory increases to 46 source records, not additional participant responses. Async amendment follows before collection.
