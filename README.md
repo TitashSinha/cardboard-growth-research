@@ -30,7 +30,7 @@ Next action: Monday October 5, 10:00 Asia/Kolkata, review all six [tracked publi
 
 ## Scope and supporting artifacts
 
-- [AAARRR map](strategy/funnel.md): public research/testable questions separated from company-dependent activation, retention, revenue and referral metrics. Detailed event implementation remains future work.
+- [AAARRR map](strategy/funnel.md), [measurement plan](strategy/measurement-plan.md) and [12 proposed event definitions](strategy/measurement-events.csv): decision rules, independent versus company measures, identity/denominator/window/attribution and failure handling. Measurement design is prepared; actual instrumentation, company baselines and effects are unavailable. EX01 is unchanged, and follow-on tests are conditional.
 - [Product audit](research/product-audit.md), [technical evidence](research/technical-audit.md), [competitors](research/competitors.csv), [content coverage](research/coverage-matrix.md).
 - [Verified founder route](research/founder-route.md), [interim unsent message](outreach/founder-message.md). Two Codex-operated questions and four additional Titash-reported manual posts are tracked; two additional posts currently show removal notices. No private recruitment, founder messages, applications or company changes have occurred.
 - [Plan](plan.md), [status](status.md), [decisions](decisions.md), [acceptance gates](quality/acceptance-checklist.md), [critical review](quality/review-log.md).

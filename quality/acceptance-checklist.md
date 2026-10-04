@@ -24,7 +24,8 @@ Updated 2026-10-04. Checked items prove only their stated scope; preparation is 
 - [x] First priority [brief](../content/briefs/01-workflow-switch.md) and [article v1](../content/blogs/01-workflow-switch.md) prepared before remaining four.
 - [ ] Five distinct briefs and five source-checked, feedback-informed drafts; document any evidence/overlap conflict rather than invent topics.
 - [x] Complete six-stage [AAARRR map](../strategy/funnel.md), externally testable versus company-dependent work distinct.
-- [ ] Detailed events, identities, windows, denominators/attribution; prioritized later experiment backlog and conversion proof sample.
+- [x] [Measurement specification](../strategy/measurement-plan.md) and [12 proposed event contracts](../strategy/measurement-events.csv) prepared: independent decision rules, identities, provisional windows, mature denominators, attribution and failures; no implemented company tracking or results implied.
+- [ ] Prioritized detailed later experiment backlog and complete conversion proof sample; measurement design alone does not complete these outputs.
 - [x] Prioritized [hygiene audit](../research/website-hygiene.md) distinguishes confirmed discrepancy, optional improvements and open checks.
 - [x] Founder name/role and published route [verified](../research/founder-route.md); interim [message](../outreach/founder-message.md) drafted and unsent.
 - [x] [Interim README](../README.md) follows observation → buyer evidence → intervention → experiment → result → revision → next action, with absent results explicit.

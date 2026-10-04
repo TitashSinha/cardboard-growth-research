@@ -1,6 +1,6 @@
 # Cardboard growth research and application plan
 
-Owner: Titash Sinha. Created October 2; revised October 3–4, 2026 (D007/D016–D017).
+Owner: Titash Sinha. Created October 2; revised October 3–4, 2026 (D007/D016–D019).
 
 ## Objective and hiring evidence
 
@@ -75,9 +75,9 @@ Preserve the initial workflow decision aid; revise only after actual feedback, w
 
 ## AAARRR and distribution
 
-Retain Awareness, Acquisition, Activation, Retention, Revenue and Referral. Independent public research and buyer tests inform discovery/evaluation; they do not measure company funnel outcomes. The eventual event specification needs identities, properties, denominators, eligibility windows, cohort maturity, attribution/consent and failure handling. A useful first export as activation remains a hypothesis.
+Retain Awareness, Acquisition, Activation, Retention, Revenue and Referral. Independent public research and buyer tests inform discovery/evaluation; they do not measure company funnel outcomes. The [measurement specification](strategy/measurement-plan.md) and [twelve proposed event contracts](strategy/measurement-events.csv) now define identities, properties, denominators, provisional windows, cohort maturity, attribution/consent and failure handling. Actual company implementation/baselines are unavailable; useful first delivery and repeat cadence remain hypotheses. Payment may precede useful value. Company must approve semantics/windows before collection; preparation is not instrumentation or result.
 
-Choose primary/supporting channels provisionally after segment review. Articles/demos connect buyer questions to credible proof and truthful next action. The two community questions in research/reddit-publication-record.md are authorized and published; Monday observation is scheduled, results pending. Other distribution requires its own authorization. No paid acquisition. Activation, repeat use, payments and referrals require company access; prepare the handoff without simulated results.
+Choose primary/supporting channels provisionally after segment review. Articles/demos connect buyer questions to credible proof and truthful next action. Six distinct public questions are tracked after the October 4 expansion; the one-time Monday observation is scheduled, results pending. Other distribution requires its own authorization. No paid acquisition. Activation, repeat use, payments and referrals require company access; prepare the handoff without simulated results. Independent follow-on comprehension/proof/article tasks require their own frozen protocols and authorization; EX01 is unchanged. Detailed later experiment backlog remains pending.
 
 ## Required outcome gates
 

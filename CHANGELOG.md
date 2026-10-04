@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-04: Prepared decision-linked AAARRR measurement specification and twelve proposed company event contracts (D019, afc4902). Preserved EX01 and the one-time Monday review; distinguished public/interview/company units, eligibility, mature windows, attribution and failure handling. Method review corrected rejection capture, unmatched billing and outcome boundaries; company implementation/results and later experiment backlog remain pending. Reconciled README/plan/status/acceptance and AI contribution disclosure.
+
 - 2026-10-04: Retained Titash's one-time Monday review instruction and preliminary favored reply (D018). Kept generator/editor interpretation separate from unverified performance figures, source identity and EX01; no early Reddit review or new monitor.
 
 - 2026-10-04: Prepared three public-evidence growth opportunities and internal offer before/after block (D017); each distinguishes observations, hypotheses, counterevidence, mechanisms and validation/dependencies. Preserved H03-first learning and open full-page/feedback gates. Recorded Titash’s actual access challenge as T06; rankings/copy remain AI-assisted preparation.

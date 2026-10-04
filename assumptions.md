@@ -16,3 +16,5 @@ Record test observations in the experiment files, then update these statuses wit
 2026-10-03 / D014: RP01/RP02 publication is execution evidence, not buyer validation. Monday response collection remains pending; spontaneous Cardboard mentions are secondary. A tool-recommendation prompt selects AI users/recommenders and cannot by itself resolve H03 or validate H04. See research/reddit-response-plan.md.
 
 October 4 / D017: [O01–O03](strategy/growth-opportunities.md) are proposals mapped to H01/H02/H04–H05, not a second assumption register. The offer block is an internal factual revision. No comprehension, switch, product performance or growth result validates these hypotheses; H03/EX01 learning stays first. No missing in-app feature inferred.
+
+October 4 / D019: [measurement definitions](strategy/measurement-plan.md) operationalize H01–H06 without validating them. Company identity model, access/eligibility, useful-result confirmation and repeat cadence remain unknown. Seven-/30-day windows are provisional design conventions, not observed behavior or targets; approve/revise before cohort collection. No new public or participant result; EX01 rules unchanged.
