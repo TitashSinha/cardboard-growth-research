@@ -44,3 +44,7 @@ Proposed test: one real SaaS recording, exact prompt, unedited input, finished o
 ## Careers route
 
 The careers page invites work-led unsolicited ideas and links to an Ashby general-interest route. Its visible named roles are technical/design roles; it is not evidence of an advertised growth internship. The public founder contact route is founders@cardboard.ai (E007). This project prepares an unsent note; no submission is authorized.
+
+## Targeted October 4 refresh
+
+[E028–E031](offer-refresh-2026-10-04.md) recheck only the pricing route and three conflicting articles. Their differing price claims remain in public extraction; articles also disagree about trial duration. Monthly cards/table retain the earlier ladder. Free-plan FAQ not expanded and checkout not inspected; no current universal web trial established. Original snapshots above remain historical. This supports factual cleanup, not measured conversion loss or an app-feature diagnosis.

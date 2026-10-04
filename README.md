@@ -4,11 +4,11 @@ Independent application project by Titash Sinha, with disclosed AI assistance. Z
 
 ## Verified observation → buyer evidence
 
-October 2–3, 2026: three specifically checked official articles contain pricing/trial claims that differ from the inspected current offer. This establishes information inconsistency, not lost revenue or a conversion problem. [Exact comparison](research/product-audit.md), [prioritized hygiene audit](research/website-hygiene.md), [sources](research/sources.csv).
+October 2–4, 2026: three specifically checked official articles contain price claims that differ from the inspected pricing display. Trial claims also disagree between articles; the current correct trial remains unverified. This establishes information inconsistency, not lost revenue or a conversion problem. [Exact comparison](research/product-audit.md), [October 4 refresh](research/offer-refresh-2026-10-04.md), [prioritized hygiene audit](research/website-hygiene.md), [sources](research/sources.csv).
 
 Public buyer-language research includes a historical self-reported Cardboard-use account, real-interface concerns, correction sequences and adequate-incumbent counterevidence. Roles, payment, outputs and exact dates are not independently verified. Vendor promotion is separated. [Buyer evidence review](research/buyer-evidence-review.md).
 
-The retained baseline has **20 Google observations, 12 completed ChatGPT observations and 53 source records**. The review base 929c0d5 had 9 AI observations and 36 sources; later observations and source rereads are now retained. Additional records include rereads, role/contact routes and seven community-rule pages; they are not new buyers. The Google location is unknown and full result lists were not preserved. AI dates/efforts differ; two prompts are branded controls and one repeats an earlier prompt with different effort. These are scoped field observations, not market-wide visibility or demand. [Method](research/collection-method.md), [derived counts](research/evidence-summary.json).
+The retained baseline has **20 Google observations, 12 completed ChatGPT observations and 57 source records**. The review base 929c0d5 had 9 AI observations and 36 sources; later observations and source rereads are now retained. Additional records include rereads, role/contact routes and seven community-rule pages; they are not new buyers. The Google location is unknown and full result lists were not preserved. AI dates/efforts differ; two prompts are branded controls and one repeats an earlier prompt with different effort. These are scoped field observations, not market-wide visibility or demand. [Method](research/collection-method.md), [derived counts](research/evidence-summary.json).
 
 ## Chosen intervention → experiment
 

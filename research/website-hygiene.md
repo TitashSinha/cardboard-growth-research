@@ -34,3 +34,5 @@ A useful founder discussion would state the three named article inconsistencies,
 ## Scoped limitations and stopping rule
 
 No GSC, analytics, WAF/server logs, checkout, product account, real output, physical device or field-performance data. Avoid expanding the crawl for completeness alone. Revisit an open check when it can change a specific decision: offer authority before final copy, sample availability before a proof recommendation, and actual crawler blocking before a technical change. No company-site edits, account setup, outreach or spending were performed.
+
+October 4 targeted update: [E028–E031](offer-refresh-2026-10-04.md) refresh W01’s four named routes; offer inconsistencies persist in the retrieved public text. This is not a recrawl or revalidation of W02–W05. Actual current trial terms remain open; use company confirmation before replacement claims.

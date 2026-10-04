@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-04: Titash challenged unseen-product feature recommendations (D016). Refreshed the exact pricing route and three inconsistent articles (E028–E031); retained public-text scope and unverified current web-trial terms. Inventory57 sources, not more buyers or discovery tests. Public opportunities and internal sample follow.
+
 - 2026-10-04: Registered six distinct Reddit posts (D015), removed duplicate supplied link and resolved AI_UGC_Marketing community URL. Retained exact platform dates/titles and two removal notices without inferring their commercial meaning. Extended Monday read-only review; credited Titash’s reported manual distribution separately from AI publishing and pending analysis.
 
 - 2026-10-03: Prepared EX01 v1.2 written participation amendment before responses (D013). User revised and approved warmer public question, authorized permitted community posts and requested Monday Cardboard-mention check (D014). Prepared distinct public-observation plan; no public replies counted as EX01 feedback. Community tracks critically reviewed; Published RP01/RP02 with verified readback; scheduled one-time Monday October 5 review. Added seven community-rule sources (53 total), which are not buyer evidence. EX01 remains unrun.
