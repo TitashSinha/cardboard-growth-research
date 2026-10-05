@@ -1,6 +1,6 @@
 # Cardboard growth research and application plan
 
-Owner: Titash Sinha. Created October 2; revised October 3–4, 2026 (D007/D016–D020).
+Owner: Titash Sinha. Created October 2; revised October 3–5, 2026 (D007/D016–D022).
 
 ## Objective and hiring evidence
 
@@ -77,7 +77,7 @@ Preserve the initial workflow decision aid; revise only after actual feedback, w
 
 Retain Awareness, Acquisition, Activation, Retention, Revenue and Referral. Independent public research and buyer tests inform discovery/evaluation; they do not measure company funnel outcomes. The [measurement specification](strategy/measurement-plan.md) and [twelve proposed event contracts](strategy/measurement-events.csv) now define identities, properties, denominators, provisional windows, cohort maturity, attribution/consent and failure handling. Actual company implementation/baselines are unavailable; useful first delivery and repeat cadence remain hypotheses. Payment may precede useful value. Company must approve semantics/windows before collection; preparation is not instrumentation or result.
 
-Choose primary/supporting channels provisionally after segment review. Articles/demos connect buyer questions to credible proof and truthful next action. Six distinct public questions are tracked after the October 4 expansion; the one-time Monday observation is scheduled, results pending. Other distribution requires its own authorization. No paid acquisition. Activation, repeat use, payments and referrals require company access; prepare the handoff without simulated results. Independent follow-on comprehension/proof/article tasks require their own frozen protocols and authorization; EX01 is unchanged. Detailed later experiment backlog remains pending.
+Choose primary/supporting channels provisionally after segment review. Articles/demos connect buyer questions to credible proof and truthful next action. Six distinct public questions are tracked after the October 4 expansion; the one-time Monday observation is complete within retained-visible scope (D021); EX01 remains unrun. Other distribution requires its own authorization. No paid acquisition. Activation, repeat use, payments and referrals require company access; prepare the handoff without simulated results. Independent follow-on comprehension/proof/article tasks require their own frozen protocols and authorization; EX01 is unchanged. Detailed later experiment backlog remains pending.
 
 ## Required outcome gates
 
@@ -95,3 +95,5 @@ Choose primary/supporting channels provisionally after segment review. Articles/
 Use acceptance-checklist.md for gates; document creation alone does not complete feedback-dependent phases. Update status before stopping and at phase transitions. End this work unit with changes, provisional segment, selected test/rationale, prepared artifacts, human actions still needed, commits/push and next unblocked task. Final presentation remains downstream of repository review and honest feedback/revision status.
 
 October 4 tracker continuation (D015): six unique Reddit posts registered after Titash reported additional manual publication, chiefly video-editing communities. Monday review covers all six, preserving two current removal states, per-thread timing and wording, author/bot exclusions and editor/UGC versus SaaS context. This supplements buyer discovery and leaves EX01/feedback-driven revision gates open.
+
+October 5 continuation (D021/D022): the one-time six-post Reddit review is complete within retained-visible scope, original favorite source matched and duplicate automation retired. Public workflow usefulness and correction claims supplement H02/H03 without screening buyers or executing EX01. Titash interpreted the snapshot and authorized a separate five-query India/English page-one/two check; YC brand retrieval challenges blanket absence, while owned-site headings remain absent in the inspected set. Retain observation → public buyer evidence → intervention hypothesis → prepared EX01 → absent participant result → pending buyer-driven revision → next action. Do not turn this public observation into a completed independent asset test or produce four unsupported topics. Next unblocked asset/brief refinement can use sourced task distinctions; participant authorization/consent gates persist.

@@ -1,0 +1,11 @@
+query_id,query,page,captured_utc,country_requested,country_observed,heading_count,official_cardboard_headings,thirdparty_cardboard_headings,thirdparty_urls,local_capture
+G01,AI video editor,1,2026-10-05T03:39:30.145Z,India; gl=in,India,9,0,0,,captures/google-india-2026-10-05/G01-p1.json
+G01,AI video editor,2,2026-10-05T03:40:42.654Z,India; gl=in,India,10,0,0,,captures/google-india-2026-10-05/G01-p2.json
+G02,agentic video editor,1,2026-10-05T03:39:30.148Z,India; gl=in,India,8,0,1,https://www.ycombinator.com/companies/cardboard,captures/google-india-2026-10-05/G02-p1.json
+G02,agentic video editor,2,2026-10-05T03:40:42.848Z,India; gl=in,India,10,0,0,,captures/google-india-2026-10-05/G02-p2.json
+G03,AI video editor for SaaS product demos,1,2026-10-05T03:39:30.150Z,India; gl=in,India,8,0,0,,captures/google-india-2026-10-05/G03-p1.json
+G03,AI video editor for SaaS product demos,2,2026-10-05T03:40:42.822Z,India; gl=in,India,10,0,0,,captures/google-india-2026-10-05/G03-p2.json
+G04,turn screen recording into launch video,1,2026-10-05T03:39:30.149Z,India; gl=in,India,9,0,0,,captures/google-india-2026-10-05/G04-p1.json
+G04,turn screen recording into launch video,2,2026-10-05T03:40:43.041Z,India; gl=in,India,10,0,0,,captures/google-india-2026-10-05/G04-p2.json
+G05,AI video editor natural language timeline,1,2026-10-05T03:39:30.153Z,India; gl=in,India,8,0,0,,captures/google-india-2026-10-05/G05-p1.json
+G05,AI video editor natural language timeline,2,2026-10-05T03:40:42.827Z,India; gl=in,India,10,0,0,,captures/google-india-2026-10-05/G05-p2.json

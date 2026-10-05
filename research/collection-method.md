@@ -29,3 +29,7 @@ The October3 parser revision aggregates nested text per H1. Original `public-met
 ## Buyer evidence
 
 Purposive public discussions include Cardboard's historical HN launch and adjacent SaaS workflows. Contributors are not verified customers; promotional bias and survivorship bias are possible. One statement does not establish prevalence or willingness to pay. Quotes are short and linked; interpretations are labeled hypotheses.
+
+## October 5 targeted Google follow-up — D022
+
+User requested five query-specific checks through page two after interpreting the public reply snapshot. [Separate India cohort and exact retention scope](google-followup-review-2026-10-05.md): five queries, ten page captures, signed-in Chrome, hl=en/gl=in/pws=0, country India/nonpersonalized notice observed. Linked H3 result lists saved promptly; Page 2 navigated via observed controls and start10 verified. Tracking/viewport parameters normalized in saved page-two URLs. Original 20 field notes remain unchanged. Heading order is not a universal rank; unexpanded AI Overviews are not a complete citation audit; our own RP01 result is not independent corroboration. No volumes/trend/causal effects inferred.

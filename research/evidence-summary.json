@@ -1,5 +1,9 @@
 {
   "google_observations": 20,
+  "google_india_followup_queries_separate_cohort": 5,
+  "google_india_followup_page_captures": 10,
+  "google_india_followup_official_cardboard_headings": 0,
+  "google_india_followup_thirdparty_cardboard_headings": 1,
   "google_nonbrand_observations": 16,
   "google_nonbrand_with_official_result_in_inspected_headings": 0,
   "chatgpt_completed_observations": 12,
@@ -31,8 +35,8 @@
       "observations": 5
     }
   ],
-  "source_entries": 66,
-  "unique_source_ids": 66,
+  "source_entries": 71,
+  "unique_source_ids": 71,
   "competitor_alternatives": 8,
   "sitemap_urls_in_retained_refresh": 22,
   "blog_urls_in_retained_refresh": 8,

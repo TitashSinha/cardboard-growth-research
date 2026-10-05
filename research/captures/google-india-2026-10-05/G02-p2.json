@@ -1,0 +1,71 @@
+{
+  "id": "G02",
+  "requested_query": "agentic video editor",
+  "captured_utc": "2026-10-05T03:40:42.848Z",
+  "headings": [
+    {
+      "ordinal": 1,
+      "title": "Prompt-Driven Agentic Video Editing System",
+      "url": "https://arxiv.org/html/2509.16811v1"
+    },
+    {
+      "ordinal": 2,
+      "title": "What Is Agentic Video Editing?",
+      "url": "https://cutback.video/blog/what-is-agentic-video-editing"
+    },
+    {
+      "ordinal": 3,
+      "title": "Agentic video editing: what an AI editing agent does - Sume",
+      "url": "https://www.sume.com/blog/agentic-video-editing"
+    },
+    {
+      "ordinal": 4,
+      "title": "Video & Media Production",
+      "url": "https://agentic.ai/c/video-media-production"
+    },
+    {
+      "ordinal": 5,
+      "title": "Loopdesk: The World's First Truly Agentic Video Editor",
+      "url": "https://loopdesk.ai/"
+    },
+    {
+      "ordinal": 6,
+      "title": "Samanyou Garg's Post",
+      "url": "https://www.linkedin.com/posts/samanyougarg_day-5-of-building-an-agentic-video-editor-activity-7419805572117590018-vdeL"
+    },
+    {
+      "ordinal": 7,
+      "title": "Why AI Video Editing Needs to Learn from Agentic Coding",
+      "url": "https://hyperdev.matsuoka.com/p/when-prompting-replaces-tooling"
+    },
+    {
+      "ordinal": 8,
+      "title": "Building SAM - Agentic Video Editor : r/SideProject",
+      "url": "https://www.reddit.com/r/SideProject/comments/1rzjatf/building_sam_agentic_video_editor/"
+    },
+    {
+      "ordinal": 9,
+      "title": "Agentic AI-Based Smart Video Editor: A Multi ...",
+      "url": "https://ijirt.org/article?manuscript=186042"
+    },
+    {
+      "ordinal": 10,
+      "title": "invideo Editor - Create videos without limits",
+      "url": "https://invideo.io/"
+    }
+  ],
+  "page": 2,
+  "url": "https://www.google.com/search?q=agentic%20video%20editor&hl=en&gl=in&pws=0&start=10",
+  "url_note": "Normalized to query/settings/start; actual navigation followed the observed Page 2 link and browser URL contained start=10; tracking/viewport parameters omitted.",
+  "country_requested": "India; gl=in",
+  "country_observed": "India",
+  "language_requested": "English; hl=en",
+  "session": "Chrome desktop; signed in; pws=0",
+  "personalization_notice": "Results are not personalised",
+  "ai_overview_state": "No AI Overview label observed",
+  "cardboard_text_lines": [],
+  "limits": [
+    "All #rso h3 linked headings retained; ordinal is captured heading order, not a universal organic rank. Modules may mix types.",
+    "Precise location and account details excluded; no beyond-page-two claim."
+  ]
+}

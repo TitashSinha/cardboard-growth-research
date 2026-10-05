@@ -1,0 +1,65 @@
+{
+  "id": "G01",
+  "requested_query": "AI video editor",
+  "captured_utc": "2026-10-05T03:39:30.145Z",
+  "headings": [
+    {
+      "ordinal": 1,
+      "title": "Free AI Video Editor: Edit Videos with AI",
+      "url": "https://invideo.io/make/ai-video-editor/"
+    },
+    {
+      "ordinal": 2,
+      "title": "Free AI Video Editor Online - Create & Edit Videos with AI",
+      "url": "https://www.veed.io/tools/ai-video/ai-video-editor"
+    },
+    {
+      "ordinal": 3,
+      "title": "AI Video Editor - Create & Edit Videos with AI",
+      "url": "https://www.canva.com/video-editor/ai/"
+    },
+    {
+      "ordinal": 4,
+      "title": "AI Video Editor - Vidma Cut AI – Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=vidma.video.editor.videomaker&hl=en_IN"
+    },
+    {
+      "ordinal": 5,
+      "title": "AI video editor: edit any video with AI",
+      "url": "https://runway.com/product/ai-video-editor"
+    },
+    {
+      "ordinal": 6,
+      "title": "AI Video Editor - Create Studio-Quality Videos with AI",
+      "url": "https://picsart.com/ai-video-editor/"
+    },
+    {
+      "ordinal": 7,
+      "title": "AI Video Editor - Edit, Enhance & Restyle Video by Text",
+      "url": "https://higgsfield.ai/ai-video-editor"
+    },
+    {
+      "ordinal": 8,
+      "title": "Free AI Video Editor - Adobe Firefly India",
+      "url": "https://www.adobe.com/in/products/firefly/features/ai-video-editor.html"
+    },
+    {
+      "ordinal": 9,
+      "title": "AI Video Editor: Create & Edit Videos with AI",
+      "url": "https://kling.ai/feature/ai-video-editor"
+    }
+  ],
+  "page": 1,
+  "url": "https://www.google.com/search?q=AI%20video%20editor&hl=en&gl=in&pws=0",
+  "country_requested": "India; gl=in",
+  "country_observed": "India",
+  "language_requested": "English; hl=en",
+  "session": "Chrome desktop; signed in; pws=0",
+  "personalization_notice": "Results are not personalised",
+  "ai_overview_state": "AI Overview present; not expanded",
+  "cardboard_text_lines": [],
+  "limits": [
+    "All #rso h3 linked headings retained; ordinal is captured heading order, not a universal organic rank. Modules may mix types.",
+    "AI Overview unexpanded; not a full citation audit. Precise location and account details excluded."
+  ]
+}

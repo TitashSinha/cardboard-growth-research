@@ -1,6 +1,6 @@
 # Acceptance checklist
 
-Updated 2026-10-04. Checked items prove only their stated scope; preparation is not experiment execution.
+Updated 2026-10-05. Checked items prove only their stated scope; preparation is not experiment execution.
 
 - [x] Phase 0: existing private repository, [access readiness](../research/access-readiness.md), decisions/logs and pushed history.
 - [x] Phase 1: public baseline and audits exist; [sampling/retention gaps](../research/collection-method.md) explicit; [derived inventory](../research/evidence-summary.json) reconciled.
@@ -15,10 +15,10 @@ Updated 2026-10-04. Checked items prove only their stated scope; preparation is 
 - [x] EX01 [written protocol amendment](../experiments/workflow-fit/async-amendment.md) prepared before collection; zero participant rows.
 - [x] User-approved [public questions](../research/reddit-publication-record.md) published with verified readback; community rules critically checked and Monday read-only review scheduled.
 - [x] [October 4 tracker](../research/reddit-tracker-update-2026-10-04.md) registers six unique posts, resolves community URL and preserves moderation states; manual human publication credited separately.
-- [ ] Monday public-reply evidence collected, counted and interpreted; public comments remain separate from EX01.
+- [x] [Monday public-reply review](../research/reddit-reply-review-2026-10-05.md) retained all six inspected threads, reproducible visible counts, original favored-reply provenance and critical interpretation; seven badge-gap comments unavailable, not a full census. Public comments remain separate from EX01; one-time automation retired.
 - [ ] Recruitment authorized for exact audience/destination/message; consent obtained; real eligible behavior evidence collected.
 - [ ] EX01 actually executed and analyzed with counts, contradictions, eligibility/familiarity and limitations. Current usable responses: zero.
-- [ ] Titash moderates, interprets an actual case/result or performs another inspectable workflow action; record actual contribution.
+- [x] Titash interpreted the actual public snapshot and requested a query-specific independent check (T08/D022); [counterexample retained](../research/google-followup-review-2026-10-05.md). This demonstrates a public-result judgment/verification request; participant moderation or eligible EX01 case interpretation remains unperformed.
 - [x] Initial [before asset](../experiments/workflow-fit/materials/decision-aid-v1.md) preserved and labeled prototype.
 - [ ] Feedback → v2 → documented reasoning; [revision record](../experiments/workflow-fit/revision-log.md) currently states pending.
 - [x] First priority [brief](../content/briefs/01-workflow-switch.md) and [article v1](../content/blogs/01-workflow-switch.md) prepared before remaining four.

@@ -8,7 +8,11 @@ October 2–4, 2026: three specifically checked official articles contain price 
 
 Public buyer-language research includes a historical self-reported Cardboard-use account, real-interface concerns, correction sequences and adequate-incumbent counterevidence. Roles, payment, outputs and exact dates are not independently verified. Vendor promotion is separated. [Buyer evidence review](research/buyer-evidence-review.md).
 
-The retained baseline has **20 Google observations, 12 completed ChatGPT observations and 60 source records**. The review base 929c0d5 had 9 AI observations and 36 sources; later observations and source rereads are now retained. Additional records include rereads, role/contact routes, seven community-rule pages and three SEO/AI-search guidance checks; they are not new buyers. The Google location is unknown and full result lists were not preserved. AI dates/efforts differ; two prompts are branded controls and one repeats an earlier prompt with different effort. These are scoped field observations, not market-wide visibility or demand. [Method](research/collection-method.md), [derived counts](research/evidence-summary.json).
+Research inventory contains **20 original Google observations, 12 completed ChatGPT observations and 71 current source records**. The review base 929c0d5 had 9 AI observations and 36 sources; later observations and source rereads are now retained. Additional records include rereads, role/contact routes, seven community-rule pages and three SEO/AI-search guidance checks; they are not new buyers. The Google location is unknown and full result lists were not preserved. AI dates/efforts differ; two prompts are branded controls and one repeats an earlier prompt with different effort. These are scoped field observations, not market-wide visibility or demand. [Method](research/collection-method.md), [derived counts](research/evidence-summary.json). The original Google limits apply to that baseline; October 5 adds a separate India/English cohort of five queries and ten retained page captures, not a comparable ranking trend.
+
+October 5: [Monday review](research/reddit-reply-review-2026-10-05.md) retained 15 apparently human non-author comments across six tracked posts, including 7 first-person top-level accounts and zero Cardboard mentions. Two posts remain removed; badges exceed retained nodes by seven. Useful incumbents coexist with manual corrections; these are adjacent public self-reports, not screened SaaS buyers or EX01 results. Original favored reply source matched; its numerical claims remain unverified.
+
+[Google follow-up](research/google-followup-review-2026-10-05.md): no Cardboard-owned link among 92 captured headings across the first two pages of five India/English queries. The YC Cardboard listing appears on page one for “agentic video editor,” so universal invisibility is not established. Titash’s own microsaas post also appears for the SaaS-demo query; this is our distribution artifact, not independent buyer corroboration or observed traffic.
 
 ## Chosen intervention → experiment
 
@@ -28,7 +32,7 @@ Before version: [decision aid v1](experiments/workflow-fit/materials/decision-ai
 
 [SEO/GEO gates](quality/seo-geo-editorial-gates.md) now require intent, query hypotheses, useful evidence, natural metadata/headings, publication checks and measurable next actions. The first article has a separate [internal SEO v1.1](content/revisions/01-workflow-switch-seo-v1.1.md); original preserved. It remains one distinct draft, not a second article or buyer-driven revision. Exact-query demand/competition, publication readiness and rankings are unverified; private drafts cannot demonstrate organic or AI-search lift.
 
-Next action: Monday October 5, 10:00 Asia/Kolkata, review all six [tracked public questions](research/reddit-tracker-update-2026-10-04.md) using the [preregistered observation method](research/reddit-response-plan.md). Count spontaneous Cardboard mentions separately from firsthand recommendations; public replies cannot settle H03 alone. The [L03 invitation](outreach/participant-invitation-L03.md) remains unsent. [Route checks](research/lead-route-check.md) found that r/SaaS restricts cold DMs; L04/L01 share that constraint. A permitted opt-in route and exact authorization are needed before screening volunteers or collecting responses. Titash can demonstrate moderation and result interpretation; update the hypotheses and revise v1 before developing remaining articles. Until then, source/editorial checks and a truthful interim package can proceed.
+Next action: use the public workflow contradictions to refine first-asset/brief decisions while H03 remains first; then execute EX01 only after a permitted opt-in route, exact recruitment authorization and consent. The one-time Monday review is complete and its duplicate automation deleted. Titash interpreted the public snapshot as a visibility concern and requested the Google check; the check supplies a counterexample rather than validating universal absence. [L03 invitation](outreach/participant-invitation-L03.md) remains unsent; [route constraints](research/lead-route-check.md) persist. Buyer-driven revision and remaining four articles are still open.
 
 ## Scope and supporting artifacts
 
@@ -45,6 +49,8 @@ Run with existing Python; standard library only:
 
     python analysis/summarize_evidence.py --output research/evidence-summary.json
     python analysis/check_collector.py
+    python analysis/summarize_reddit_review.py
+    python analysis/summarize_google_followup.py
 
 The collector reads public pages only. A new run saves a UTC timestamped capture; an explicit new destination is also supported:
 

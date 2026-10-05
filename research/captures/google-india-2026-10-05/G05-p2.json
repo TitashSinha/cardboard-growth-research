@@ -1,0 +1,71 @@
+{
+  "id": "G05",
+  "requested_query": "AI video editor natural language timeline",
+  "captured_utc": "2026-10-05T03:40:42.827Z",
+  "headings": [
+    {
+      "ordinal": 1,
+      "title": "AI Shifts Post-Production to Natural Language",
+      "url": "https://www.linkedin.com/posts/tobi-aworefa-6b473223a_the-timeline-used-to-be-the-video-editors-activity-7508072090642780163-K_m3"
+    },
+    {
+      "ordinal": 2,
+      "title": "YouTube's conversational video editing tool lets creators ...",
+      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/"
+    },
+    {
+      "ordinal": 3,
+      "title": "5 Best AI Video Editors for Next-Level Video Creation in 2026",
+      "url": "https://softcircles.com/blog/best-ai-video-editors-2026"
+    },
+    {
+      "ordinal": 4,
+      "title": "AI video editor for editing and publishing videos",
+      "url": "https://www.heygen.com/en-au/tool/ai-video-editor"
+    },
+    {
+      "ordinal": 5,
+      "title": "Timeline Studio — Browser AI Video Editor",
+      "url": "https://github.com/MartinDelophy/ai-video-editor"
+    },
+    {
+      "ordinal": 6,
+      "title": "What Is Natural Language Editing? Definition & ...",
+      "url": "https://loopdesk.ai/glossary/natural-language-editing"
+    },
+    {
+      "ordinal": 7,
+      "title": "The 5 Best AI Video Editing Assistants",
+      "url": "https://www.kapwing.com/resources/5-best-ai-video-editing-assistants/"
+    },
+    {
+      "ordinal": 8,
+      "title": "How Creators Use AI to Replace Manual Timeline Editing ...",
+      "url": "https://ourcodeworld.com/articles/read/4920/how-creators-replace-manual-timeline-edits-with-text-prompts"
+    },
+    {
+      "ordinal": 9,
+      "title": "Kling O3 Video Edit: Edit Videos with Natural Language",
+      "url": "https://kolbo.ai/blog/kling-o3-video-edit-natural-language"
+    },
+    {
+      "ordinal": 10,
+      "title": "Video Editing with Natural Language and Sketching",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/3640543.3645164"
+    }
+  ],
+  "page": 2,
+  "url": "https://www.google.com/search?q=AI%20video%20editor%20natural%20language%20timeline&hl=en&gl=in&pws=0&start=10",
+  "url_note": "Normalized to query/settings/start; actual navigation followed the observed Page 2 link and browser URL contained start=10; tracking/viewport parameters omitted.",
+  "country_requested": "India; gl=in",
+  "country_observed": "India",
+  "language_requested": "English; hl=en",
+  "session": "Chrome desktop; signed in; pws=0",
+  "personalization_notice": "Results are not personalised",
+  "ai_overview_state": "No AI Overview label observed",
+  "cardboard_text_lines": [],
+  "limits": [
+    "All #rso h3 linked headings retained; ordinal is captured heading order, not a universal organic rank. Modules may mix types.",
+    "Precise location and account details excluded; no beyond-page-two claim."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "G01",
+  "requested_query": "AI video editor",
+  "captured_utc": "2026-10-05T03:40:42.654Z",
+  "headings": [
+    {
+      "ordinal": 1,
+      "title": "AI Video Editor: Effortless Video Creation",
+      "url": "https://www.capcut.com/tools/ai-video-editor"
+    },
+    {
+      "ordinal": 2,
+      "title": "LightCut - AI Video Editor - App Store - Apple",
+      "url": "https://apps.apple.com/us/app/lightcut-ai-video-editor/id1575860488"
+    },
+    {
+      "ordinal": 3,
+      "title": "AI Video Editor, No Editing Skills Needed - OpusClip",
+      "url": "https://www.opus.pro/ai-video-editor"
+    },
+    {
+      "ordinal": 4,
+      "title": "AI Edit | Make Fully Edited Videos in Minutes",
+      "url": "https://captions.ai/features/edit-with-ai"
+    },
+    {
+      "ordinal": 5,
+      "title": "AI Video Editor Free: Edit Videos With Text Prompt Online",
+      "url": "https://pollo.ai/ai-video-editor"
+    },
+    {
+      "ordinal": 6,
+      "title": "Free AI Video Editor Online: Edit, Trim & Add AI Effects",
+      "url": "https://www.vidu.com/create/video-edit"
+    },
+    {
+      "ordinal": 7,
+      "title": "Online video editor by Microsoft Clipchamp",
+      "url": "https://clipchamp.com/en/"
+    },
+    {
+      "ordinal": 8,
+      "title": "This One AI TOOL Has Changed Video Editing Forever!",
+      "url": "https://www.youtube.com/watch?v=VzZaxKG-Zd4"
+    },
+    {
+      "ordinal": 9,
+      "title": "Free AI Video Editor – Generate, Edit & Export Online",
+      "url": "https://www.renderforest.com/ai-video-editor"
+    },
+    {
+      "ordinal": 10,
+      "title": "Best Online Video Editor & Maker | Free AI Software with ...",
+      "url": "https://vimeo.com/features/video-editor"
+    }
+  ],
+  "page": 2,
+  "url": "https://www.google.com/search?q=AI%20video%20editor&hl=en&gl=in&pws=0&start=10",
+  "url_note": "Normalized to query/settings/start; actual navigation followed the observed Page 2 link and browser URL contained start=10; tracking/viewport parameters omitted.",
+  "country_requested": "India; gl=in",
+  "country_observed": "India",
+  "language_requested": "English; hl=en",
+  "session": "Chrome desktop; signed in; pws=0",
+  "personalization_notice": "Results are not personalised",
+  "ai_overview_state": "No AI Overview label observed",
+  "cardboard_text_lines": [],
+  "limits": [
+    "All #rso h3 linked headings retained; ordinal is captured heading order, not a universal organic rank. Modules may mix types.",
+    "Precise location and account details excluded; no beyond-page-two claim."
+  ]
+}

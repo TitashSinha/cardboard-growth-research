@@ -2,6 +2,7 @@
 import argparse, csv, json
 from collections import Counter
 from pathlib import Path
+from summarize_google_followup import summarize as summarize_google_followup
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -21,8 +22,13 @@ def summarize():
     # Explicitly chosen exclusions are part of the sampling definition, not a classifier.
     nonbrand_google = [r for r in google if r['query_id'] not in {'Q06','Q07','Q08','Q20'}]
     nonbrand_ai = [r for r in complete if r['test_id'] not in {'AI10','AI11'}]
+    followup = summarize_google_followup()
     return {
         'google_observations': len(google),
+        'google_india_followup_queries_separate_cohort': followup['queries'],
+        'google_india_followup_page_captures': followup['page_captures'],
+        'google_india_followup_official_cardboard_headings': followup['official_cardboard_headings'],
+        'google_india_followup_thirdparty_cardboard_headings': followup['thirdparty_cardboard_headings'],
         'google_nonbrand_observations': len(nonbrand_google),
         'google_nonbrand_with_official_result_in_inspected_headings': sum(bool(r['official_cardboard_positions']) for r in nonbrand_google),
         'chatgpt_completed_observations': len(complete),

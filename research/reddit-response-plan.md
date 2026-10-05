@@ -17,3 +17,7 @@ Result record: [publication ledger](reddit-posts.csv), later dated source notes 
 ## October 4 scope update — D015
 
 Track all six distinct post URLs in reddit-posts.csv, including removed posts. Deduplicated the supplied content_marketing URL and resolved AI_UGC_Marketing to its specific post. Preserve per-thread audience, title/body variants, publication times and moderation states; compare no pooled market prevalence. Author replies are excluded from response counts. Brand exposure in author follow-ups must be checked before calling a later mention spontaneous. Registration capture is partial and is not Monday result data; capture complete visible replies with URLs at the scheduled snapshot. See reddit-tracker-update-2026-10-04.md.
+
+## October 5 execution readback — D021
+
+Titash requested the Monday review at the current session; collection occurred 03:24–03:32 UTC before the planned10:00 IST time. [Actual review](reddit-reply-review-2026-10-05.md), [classified comments](reddit-reply-classification-2026-10-05.csv) and [derived counts](reddit-reply-summary-2026-10-05.json) supersede pending language above. Six posts inspected once; badge gaps explicit, public cases separate from EX01. The one-occurrence automation was successfully deleted to prevent another run. No repeat review scheduled or public action performed.

@@ -1,0 +1,71 @@
+{
+  "id": "G04",
+  "requested_query": "turn screen recording into launch video",
+  "captured_utc": "2026-10-05T03:40:43.041Z",
+  "headings": [
+    {
+      "ordinal": 1,
+      "title": "I built a tool that turns screen recordings into demo videos in",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1rmf4db/i_built_a_tool_that_turns_screen_recordings_into/"
+    },
+    {
+      "ordinal": 2,
+      "title": "How LaunchReel Turns Any Website Into Launch Videos ...",
+      "url": "https://timchosen.medium.com/stop-recording-your-screen-how-launchreel-turns-any-website-into-launch-videos-automatically-3536d3463588"
+    },
+    {
+      "ordinal": 3,
+      "title": "AI screen recorder | Record and edit your videos with AI",
+      "url": "https://www.heygen.com/en-in/tool/screen-recorder"
+    },
+    {
+      "ordinal": 4,
+      "title": "Convert Screen Recording to AI Product Demo Videos for SaaS",
+      "url": "https://www.youtube.com/watch?v=ukXPCcOB0Ig"
+    },
+    {
+      "ordinal": 5,
+      "title": "Online Screen Recorder: Conveniently Record & Share ...",
+      "url": "https://vimeo.com/features/screen-recorder"
+    },
+    {
+      "ordinal": 6,
+      "title": "Cap — Free Screen Recorder & Open Source Loom Alternative",
+      "url": "https://cap.so/"
+    },
+    {
+      "ordinal": 7,
+      "title": "Vmaker AI - Create & Edit Videos in Minutes with AI",
+      "url": "https://www.vmaker.com/"
+    },
+    {
+      "ordinal": 8,
+      "title": "Screen Recorder | Free & Online",
+      "url": "https://screen-recorder.com/"
+    },
+    {
+      "ordinal": 9,
+      "title": "Kite – Screen recorder for stunning demo videos",
+      "url": "https://kite.video/"
+    },
+    {
+      "ordinal": 10,
+      "title": "Video link generator",
+      "url": "https://screenpal.com/tool/video-link"
+    }
+  ],
+  "page": 2,
+  "url": "https://www.google.com/search?q=turn%20screen%20recording%20into%20launch%20video&hl=en&gl=in&pws=0&start=10",
+  "url_note": "Normalized to query/settings/start; actual navigation followed the observed Page 2 link and browser URL contained start=10; tracking/viewport parameters omitted.",
+  "country_requested": "India; gl=in",
+  "country_observed": "India",
+  "language_requested": "English; hl=en",
+  "session": "Chrome desktop; signed in; pws=0",
+  "personalization_notice": "Results are not personalised",
+  "ai_overview_state": "No AI Overview label observed",
+  "cardboard_text_lines": [],
+  "limits": [
+    "All #rso h3 linked headings retained; ordinal is captured heading order, not a universal organic rank. Modules may mix types.",
+    "Precise location and account details excluded; no beyond-page-two claim."
+  ]
+}
