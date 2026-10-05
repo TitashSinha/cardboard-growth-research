@@ -1,5 +1,7 @@
 # Contribution and authorship
 
+October 5 / D031: Titash supplies invitation/monitoring authorization and learning framing, reports CapCut use and reserves personal-reply approval. Codex checks forty profiles, sends/verifies 29 exact notes, skips eleven existing states, maintains private operational evidence and configures two-hour draft-only reply checks. One pre-existing reply baselined with an unsent draft. Invitation execution is not human interview moderation, consented workflow analysis or validated demand.
+
 Updated 2026-10-05. This record separates actual human judgment from AI assistance and unperformed work.
 
 | Date / ID | Contributor | Actual action | Evidence and limits |
