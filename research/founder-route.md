@@ -16,3 +16,7 @@ The user's spelling “Sakshaam” differs from the published **Saksham**. Use �
 Lead with the narrow dated observation in W01 of [website-hygiene.md](website-hygiene.md): three checked articles have price/trial claims that disagree with the inspected current pricing page. State what this establishes—information inconsistency—and what it does not establish—buyer confusion, lost revenue or conversion effects. A proposed intervention is a company-confirmed source of offer truth and updates to those pages/CTAs. The independent test can assess reader comprehension; company analytics would be required to assess commercial effects later.
 
 Titash's current evidence supports a research/content/SEO contribution and prepared independent experimentation work. Do not credit Titash with participant interviews, actual Cardboard use or demonstrated conversion improvement before those happen. The eventual pitch should follow observation → buyer evidence → intervention → experiment status/results → documented revision → proposed next action, with open stages labeled honestly.
+
+## User-supplied intended destination — October 5, 2026
+
+Titash supplies **saksham@usecardboard.com** as the founder email and intended eventual project destination. Recorded as user-supplied, not independently verified ownership or deliverability. Retain F001/F002 and the official published route above as dated evidence. No email, application or project sharing sent; eventual draft/access review remains pending.

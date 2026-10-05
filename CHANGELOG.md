@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-05: Recorded Titash's separate LinkedIn outreach report (20 contacted/five inputs), provenance/readiness checks and unresolved eligibility/consent/protocol status (D025). Saved user-supplied intended founder email without independently validating it or sending. No participant rows, private identities or claims of completed EX01 added.
+
 - 2026-10-05: Authorized initial Reddit-followup batch executed (D023): 11 exact openers sent/visible, 1 user-reported prior contact excluded,2 profiles with no recipient contact option unsent. Documented initial-contact consent boundary before sending; private mapping outside Git, no committed reply content or EX01 cases, no automatic follow-ups. Preserved user draft. D024 adds a public-role/possible-association qualification to the favored reply (E046);72 source entries, earlier snapshots preserved.
 
 - 2026-10-05: Completed the user-requested one-time Monday Reddit review (D021; evidence commit 3f3a991 pushed): six public captures, 21 retained nodes, 15 apparently human comments, 7 first-person top-level claims, zero Cardboard mentions; seven badge-gap comments unavailable and two posts remain removed. Matched original favored reply; figures still self-reported. Independent reviewer/root checks, reproducible classification/summary, six source records and automation retirement retained. No EX01 case or public action.

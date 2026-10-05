@@ -174,3 +174,9 @@
 - Choice: retain possible brand/community association as a qualification to the favored reply, without declaring the writer an employee/owner or the community officially affiliated. Preserve original snapshot/classification as dated history; do not silently rewrite earlier counts or treat this as independent buyer proof.
 - Alternatives: ignore a material public conflict signal, assert undisclosed paid promotion, or adopt self-reported timing/re-render/advertising figures (rejected).
 - Outcome/status: narrow public role observation retained; relationship and promotional intent unknown. Numerical/product claims unverified; H03-first and EX01 rule unchanged. No new participant data. Next: keep this context distinct if later feedback is authorized and consented.
+
+## D025 — 2026-10-05 — LinkedIn input provenance and intended founder destination
+- Evidence: Titash reports reaching 20 SaaS video makers on LinkedIn and receiving five inputs; supplies saksham@usecardboard.com as the founder destination. Originals, screening, permission and protocol sequence not inspected; email supplied by user, not independently verified.
+- Choice: retain a separate user-reported LinkedIn cohort; prepare provenance/readiness checks without adding participant identities or result rows. Save the intended email for later authorized sending, preserving the previously verified official route as history.
+- Alternatives: count all inputs as completed EX01, mix channels, invent response rates, expose identities to prove authenticity or send the founder message now (rejected).
+- Outcome/status: research/linkedin-input-readiness-2026-10-05.md prepared; actual cases remain unreviewed. Protocol deviations stay exploratory; missing tasks can be completed prospectively, never backdated. Next: review permission-safe originals/questions/dates and confirm screening before analysis/revision. No new messaging or sending authorization inferred.

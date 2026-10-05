@@ -35,3 +35,5 @@ Updated 2026-10-05. Checked items prove only their stated scope; preparation is 
 - [ ] Presentation created only after repository review; every number sourced; editable deck rendered and visually inspected.
 
 No company growth result is required for the independent work sample, but genuine execution/feedback/revision may not be replaced by prepared documents. Phase 7 remains a future permission-dependent handoff.
+
+October 5 readiness update / D025: Titash reports 20 LinkedIn contacts/five inputs. Provenance, eligibility, consent and protocol sequence await review under research/linkedin-input-readiness-2026-10-05.md. This separate uninspected cohort does not check the EX01 execution or buyer-driven revision gates; committed participant rows remain zero.
