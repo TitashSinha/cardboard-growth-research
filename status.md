@@ -1,5 +1,7 @@
 # Status
 
+Latest sourcing unit / D026: twenty individual LinkedIn authors with visible video posts shortlisted, per Titash's browser-only research instruction. Private profile/details list saved outside Git; four possible SaaS-task/team leads and sixteen creator/service-provider context leads, all unscreened. User will deduplicate against previous outreach. [Aggregate sourcing record](research/linkedin-prospect-sourcing-2026-10-05.md) retains method/limits; no messages sent and no EX01 rows added. Next: user review/deduplication, then authorized contact and eligibility/consent before research cases.
+
 Updated: 2026-10-05 (Asia/Kolkata). Initial follow-up sending unit complete within available routes; project not complete.
 
 Latest user report: Titash contacted 20 SaaS video makers on LinkedIn and has five inputs. These are a separate, uninspected cohort; eligibility, permission, questions/dates and EX01 stages remain unknown. [Provenance/readiness record](research/linkedin-input-readiness-2026-10-05.md) defines the next review. Zero committed consented EX01 rows remains the verified file state, not a claim that nobody has replied. User-supplied intended founder email saved separately; no message sent.

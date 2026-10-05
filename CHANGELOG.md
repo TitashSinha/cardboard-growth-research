@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-05: Browser-sourced twenty personal-profile video posters (D026), with private shortlist and committed aggregate method/limitations. Individual-only/video-post requirements checked; four possible SaaS-task leads and sixteen context prospects remain unscreened. User handles prior-contact duplicates. No contact, private-message reading, eligibility claim or EX01 result. Retention gaps/browser recovery documented.
+
 - 2026-10-05: Recorded Titash's separate LinkedIn outreach report (20 contacted/five inputs), provenance/readiness checks and unresolved eligibility/consent/protocol status (D025). Saved user-supplied intended founder email without independently validating it or sending. No participant rows, private identities or claims of completed EX01 added.
 
 - 2026-10-05: Authorized initial Reddit-followup batch executed (D023): 11 exact openers sent/visible, 1 user-reported prior contact excluded,2 profiles with no recipient contact option unsent. Documented initial-contact consent boundary before sending; private mapping outside Git, no committed reply content or EX01 cases, no automatic follow-ups. Preserved user draft. D024 adds a public-role/possible-association qualification to the favored reply (E046);72 source entries, earlier snapshots preserved.

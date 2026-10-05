@@ -37,3 +37,5 @@ Updated 2026-10-05. Checked items prove only their stated scope; preparation is 
 No company growth result is required for the independent work sample, but genuine execution/feedback/revision may not be replaced by prepared documents. Phase 7 remains a future permission-dependent handoff.
 
 October 5 readiness update / D025: Titash reports 20 LinkedIn contacts/five inputs. Provenance, eligibility, consent and protocol sequence await review under research/linkedin-input-readiness-2026-10-05.md. This separate uninspected cohort does not check the EX01 execution or buyer-driven revision gates; committed participant rows remain zero.
+
+October 5 D026: Twenty individual LinkedIn video posters shortlisted through the browser; private list outside Git and aggregate record in research/linkedin-prospect-sourcing-2026-10-05.md. Sourcing is complete within the requested individual/video-post scope; user deduplication, eligibility, consent and EX01 execution remain open. Four possible main-cohort screening leads and sixteen context leads must not be reported as twenty validated buyers.
