@@ -1,0 +1,24 @@
+{
+  "registry_id": "RP02",
+  "captured_utc": "2026-10-05T03:24:08.361Z",
+  "method": "Authenticated Chrome; public post/comment DOM only; Best sort; automated comment expanded; no actions sent",
+  "url": "https://www.reddit.com/r/content_marketing/comments/1wwns9y/which_ai_video_editor_do_you_recommend_for/",
+  "title": "Which AI video editor do you recommend for product demos, UGC and montages?",
+  "post": {
+    "id": "t3_1wwns9y",
+    "author": "ScientistMajestic",
+    "created_utc": "2026-10-03T13:51:50.745000+0000",
+    "body": "Hi guys! I’m looking for an AI video editor for SaaS product demos, UGC and montages. I can’t afford to pay for several tools just to find out which one works, so I’d really appreciate some firsthand advice. 🙏\n\nIf you’ve actually used one, which editor would you recommend, and why? What worked well, and what did you still need to fix manually?",
+    "platform_comment_count": "8"
+  },
+  "comments": [
+    {"comment_id":"t1_pdm0e19","author":"AutoModerator","created_utc":"2026-10-03T13:51:50.930000+0000","depth":"0","parent_id":null,"permalink":"/r/content_marketing/comments/1wwns9y/comment/pdm0e19/","expanded":true,"body":"If this post doesn't follow the rules report it to the mods. Join our community Discord!\n\nI am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."},
+    {"comment_id":"t1_pdm400l","author":"Curious_Penguin84","created_utc":"2026-10-03T14:09:46.413000+0000","depth":"0","parent_id":null,"permalink":"/r/content_marketing/comments/1wwns9y/comment/pdm400l/","expanded":true,"body":"We use CapCut"},
+    {"comment_id":"t1_pdqtcnj","author":"ScientistMajestic","created_utc":"2026-10-04T04:11:45.024000+0000","depth":"1","parent_id":"t1_pdm400l","permalink":"/r/content_marketing/comments/1wwns9y/comment/pdqtcnj/","expanded":true,"body":"Okay, yeah, CapCut is great, but I am from India, and I wanted to use its advanced AI features, but the app is blocked in India; hence the payments as well. I don't want to get a headache trying to find a solution rather, I'd use another app, tbh"},
+    {"comment_id":"t1_pdmc2m3","author":"dmdbGroup","created_utc":"2026-10-03T14:48:24.054000+0000","depth":"0","parent_id":null,"permalink":"/r/content_marketing/comments/1wwns9y/comment/pdmc2m3/","expanded":true,"body":"The question is slightly wrong, and correcting it will save you money. No single tool does demos, UGC, and montages well. Everyone I know shipping volume splits it: a generator for the footage, a real editor for assembly.\n\nFor AI UGC style demos and talking head clips I use hermoso.ai. You prompt the scene and the product and it renders a spokesperson style video. A usable draft lands in about 10 minutes versus booking a creator for 2 weeks. The catch: review every clip, because about 1 in 4 needs a re-render for weird hands or a mispronounced product name.\n\nFor montages and final cuts use CapCut or Premiere with AI captions. Pacing and cuts still beat every AI editor I have tested for watch through rate.\n\nBudget the way I do: 30 renders per winning ad, and winners usually show up around render 15, not the first perfect draft.\n\nRule of thumb: pick the generator by the footage type you need most (spokesperson vs product only), and pick the editor by how fast you can cut. Render to cut speed is the only bottleneck that matters."},
+    {"comment_id":"t1_pdqt4gi","author":"ScientistMajestic","created_utc":"2026-10-04T04:10:17.143000+0000","depth":"1","parent_id":"t1_pdmc2m3","permalink":"/r/content_marketing/comments/1wwns9y/comment/pdqt4gi/","expanded":true,"body":"Hey, thanks for the advice my man :)"},
+    {"comment_id":"t1_pdn0jlv","author":"Candid_Treat_7364","created_utc":"2026-10-03T16:38:56.378000+0000","depth":"0","parent_id":null,"permalink":"/r/content_marketing/comments/1wwns9y/comment/pdn0jlv/","expanded":true,"body":"for this mix, i would separate the decision into generation quality and editing speed. use the same 20 second SaaS demo as a test in each tool, then compare usable output cost, reference control, caption cleanup, and how much timeline work is still needed. UGC usually needs tighter control over speech and product shots, while montages live or die on pacing, so the cheapest credit price can still be the expensive option. i would keep CapCut or Resolve for the final cut and judge the AI tool by how much clean source material it gives you."}
+  ],
+  "notice_lines": ["AutoModerator", "I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."],
+  "limits": ["Platform badge says eight comments; six public comment nodes retained. Unrendered/removed difference is unexplained and not reconstructed.", "No Cardboard mention in retained author follow-ups or respondent text; claims and affiliation remain unverified."]
+}

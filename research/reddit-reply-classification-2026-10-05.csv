@@ -1,0 +1,22 @@
+post_id,comment_id,kind,substantive_top_level,explicit_firsthand_top_level,affiliation,detail,reason
+RP01,t1_pdm11um,human,yes,yes,unknown,behavioral,Own side-project use last year; unnamed tools and manual pacing; recent eligibility unverified
+RP01,t1_pdob304,human,yes,no,disclosed_builder,behavioral,Intactshot builder disclosure; task distinction and promotion rather than buyer use
+RP01,t1_pdonv11,human,yes,no,disclosed_builder,behavioral,Vunoblade builder disclosure; asks editing versus generation; no personal use in this top-level comment
+RP01,t1_pdoodvb,human,no,no,disclosed_builder,behavioral,Nested vendor self-use and links; repeated author; videos not inspected
+RP01,t1_pdqu48o,author,no,no,author_context,behavioral,Post author context only; not a new screened buyer
+RP01,t1_pdqu6ge,author,no,no,author_context,sparse,Post author acknowledgement
+RP01,t1_pdrxedm,human,yes,yes,unknown,behavioral,Uses Revid for short promo clips; distinguishes screen recording capture
+RP02,t1_pdm0e19,bot,no,no,automated,sparse,Explicit AutoModerator bot disclaimer
+RP02,t1_pdm400l,human,yes,yes,unknown,sparse,We use CapCut is explicit use but no recent task or reason
+RP02,t1_pdqtcnj,author,no,no,author_context,behavioral,Author reports India access obstacle; not independently verified or buyer sample
+RP02,t1_pdmc2m3,human,yes,yes,unknown,behavioral,Generator and assembly account; all speed rerender and performance figures unverified
+RP02,t1_pdqt4gi,author,no,no,author_context,sparse,Author thanks; no brand exposure
+RP02,t1_pdn0jlv,human,yes,no,unknown,behavioral,Would separate and would keep are advice not explicit firsthand use
+RP03,t1_pdr6bek,human,yes,no,unknown,sparse,Highfield and kie.ai advice; spelling preserved; use not claimed
+RP03,t1_pdwhxam,human,yes,no,unknown,sparse,Claude plus vidtl mcp suggestion; no use context
+RP05,t1_pdqv779,bot,no,no,automated,sparse,Read The Rules explicitly automated removal notice
+RP06,t1_pdswrjd,human,yes,yes,unknown,behavioral,Own CapCut use with captions templates and manual pacing corrections
+RP06,t1_pdt85cy,human,yes,yes,unknown,behavioral,Own trndsttr use for UGC; workflow speed is self-report not measured
+RP06,t1_pdui15n,human,yes,no,unknown,sparse,VideoDraft promotion-style suggestion; free claim not independently verified
+RP06,t1_pdva89r,human,yes,yes,possible_brand_association,behavioral,In my experience asserts correction work; handle matches promoted VideoRouter brand; affiliation unconfirmed
+RP06,t1_pdqvk0u,human,yes,no,unknown,sparse,Higgsfield broad suggestion; no firsthand claim or task evidence

@@ -1,0 +1,22 @@
+{
+  "registry_id": "RP06",
+  "captured_utc": "2026-10-05T03:32:33.934Z",
+  "url": "https://www.reddit.com/r/AI_UGC_Marketing/comments/1wx6hei/i_need_ai_video_editing_app_that_helps_to_genrate/",
+  "title": "I need AI video editing app that helps to genrate for product demos, UGC and montages quickly",
+  "post": {
+    "id": "t3_1wx6hei",
+    "author": "ScientistMajestic",
+    "created_utc": "2026-10-04T04:20:01.067000+0000",
+    "body": "Hi guys! I’m looking for an AI video editor for SaaS product demos, UGC and montages. I can’t afford to pay for several tools just to find out which one works, so I’d really appreciate some firsthand advice. 🙏\n\nIf you’ve actually used one, which editor would you recommend, and why? What worked well, and what did you still need to fix manually? Thanks",
+    "platform_comment_count": "6"
+  },
+  "comments": [
+    {"comment_id":"t1_pdswrjd","author":"Odd_Campaign_8134","created_utc":"2026-10-04T13:17:06.749000+0000","depth":"0","parent_id":null,"permalink":"/r/AI_UGC_Marketing/comments/1wx6hei/comment/pdswrjd/","expanded":true,"body":"CapCut has been my go to for quick UGC and montages. The auto captions and templates save a ton of time, and the desktop version is surprisingly capable for product demos too. Main thing I still fix manually is pacing, the AI cuts can feel a bit generic so I usually tweak transitions and timing myself."},
+    {"comment_id":"t1_pdt85cy","author":"dbzunicorn","created_utc":"2026-10-04T14:13:35.575000+0000","depth":"0","parent_id":null,"permalink":"/r/AI_UGC_Marketing/comments/1wx6hei/comment/pdt85cy/","expanded":true,"body":"I used trndsttr .io to make AI UGC vids. All i do is upload a product image and select a hook, no prompting at all. Speeds up my workflow a lot"},
+    {"comment_id":"t1_pdui15n","author":"alpha_merge","created_utc":"2026-10-04T17:31:48.375000+0000","depth":"0","parent_id":null,"permalink":"/r/AI_UGC_Marketing/comments/1wx6hei/comment/pdui15n/","expanded":true,"body":"Checkout VideoDraft. Free and works with your own claude and codex subscription"},
+    {"comment_id":"t1_pdva89r","author":"videorouter","created_utc":"2026-10-04T19:24:25.271000+0000","depth":"0","parent_id":null,"permalink":"/r/AI_UGC_Marketing/comments/1wx6hei/comment/pdva89r/","expanded":true,"body":"For SaaS demos and UGC, I’d prioritize an editor that gets the first draft right quickly rather than one with the most AI features.\n\nFor product demos, things like automatic screen/zoom emphasis, captions, and clean pacing are especially useful. For UGC, good hook variations and easy trimming usually matter more. In my experience, you’ll still want to manually fix the final 10–20% because AI tends to make questionable choices about pacing and what should be emphasized.\n\nIf you’re also comparing the underlying video generation models, VideoRouter.sh can be useful for testing different providers without paying for each one separately."},
+    {"comment_id":"t1_pdqvk0u","author":"takshit2","created_utc":"2026-10-04T04:26:22.817000+0000","depth":"0","parent_id":null,"permalink":"/r/AI_UGC_Marketing/comments/1wx6hei/comment/pdqvk0u/","expanded":true,"body":"Higgsfield has all the tools you need to make marketing videos."}
+  ],
+  "notice_lines": [],
+  "limitations": ["Platform comment badge is 6; 5 comment nodes retained. No missing comment reconstructed. First-person claims and advertised capabilities are not independently tested; affiliation unknown unless disclosed."]
+}

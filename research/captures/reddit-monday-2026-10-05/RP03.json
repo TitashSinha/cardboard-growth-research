@@ -1,0 +1,13 @@
+{
+  "registry_id":"RP03","captured_utc":"2026-10-05T03:26:44.845Z",
+  "method":"Authenticated Chrome; public post/comment DOM only; initial Best ordering; no actions sent",
+  "url":"https://www.reddit.com/r/VideoEditors/comments/1wx6d6m/which_ai_video_editor_do_you_recommend_for/",
+  "title":"Which AI video editor do you recommend for product demos, UGC and montages?",
+  "post":{"id":"t3_1wx6d6m","author":"ScientistMajestic","created_utc":"2026-10-04T04:13:19.441000+0000","platform_comment_count":"4","body":"Hi guys! I’m looking for an AI video editor for SaaS product demos, UGC and montages. I can’t afford to pay for several tools just to find out which one works, so I’d really appreciate some firsthand advice. 🙏\n\nIf you’ve actually used one, which editor would you recommend, and why? What worked well, and what did you still need to fix manually?"},
+  "comments":[
+    {"comment_id":"t1_pdr6bek","author":"Spiritual_Coyote127","created_utc":"2026-10-04T05:44:28.170000+0000","depth":"0","parent_id":null,"permalink":"/r/VideoEditors/comments/1wx6d6m/comment/pdr6bek/","expanded":true,"body":"Highfield but if yu're lookin for cheaper option go with kie.ai"},
+    {"comment_id":"t1_pdwhxam","author":"ShadyShroomz","created_utc":"2026-10-04T22:35:07.888000+0000","depth":"0","parent_id":null,"permalink":"/r/VideoEditors/comments/1wx6d6m/comment/pdwhxam/","expanded":true,"body":"Claude + vidtl mcp."}
+  ],
+  "notice_lines":[],
+  "limits":["Platform badge four versus two retained comment nodes; unexplained difference not reconstructed.","Recommendations name tools but lack explicit firsthand use accounts; Highfield spelling preserved without guessing the intended product."]
+}
