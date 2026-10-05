@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-05: User preapproved relevant replies and Send (D032); existing two-hour monitor changed from draft-only to supported reply sending. One pending answer verified sent and logged privately. Consent/EX01 boundaries unchanged.
+
 - 2026-10-05: Executed authorized forty-prospect invitation batch (D031): 29 exact-note requests verified, 10 pending/1 connected skipped unchanged. Private ledger/baseline/draft outside Git; active two-hour monitor drafts follow-ups only. No new research consent or EX01 result.
 
 - 2026-10-05: Consolidated forty distinct LinkedIn prospects into one private CSV with forty personalized connection drafts, character counts, source/profile/post references and screening gaps (D030). Existing source lists and D029 work preserved; missing data not inferred. Maximum draft length 173 characters. No sending, consent or EX01 execution.
