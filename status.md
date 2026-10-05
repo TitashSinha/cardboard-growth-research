@@ -1,10 +1,12 @@
 # Status
 
+Latest sourcing unit / D028: ten US-listed and ten UK-listed individual profiles with linked timeline-video evidence added privately, without overlap with LP01–LP20. Locations are profile self-reports; recent SaaS-task eligibility remains open. Older work, concepts, embedded posts and one tool-builder context lead flagged separately. [Aggregate US/UK sourcing record](research/linkedin-us-uk-sourcing-2026-10-05.md) retains method/limits; forty distinct assistant-sourced candidates across both lists are not forty buyers. No outreach or EX01 row added. Next: Titash reviews/deduplicates the private list, then screens voluntary respondents before consented cases.
+
 Latest drafting unit / D027: twenty personalized LinkedIn connection notes saved beside the private shortlist, using Titash's stated learning/transition framing and observed post topics. Drafted only; none sent. Notes avoid Cardboard/research-project references at initial contact; research-purpose/retention permission remains required before EX01 case recording. User handles duplication; next action is his review/manual use or a specific later sending instruction.
 
 Latest sourcing unit / D026: twenty individual LinkedIn authors with visible video posts shortlisted, per Titash's browser-only research instruction. Private profile/details list saved outside Git; four possible SaaS-task/team leads and sixteen creator/service-provider context leads, all unscreened. User will deduplicate against previous outreach. [Aggregate sourcing record](research/linkedin-prospect-sourcing-2026-10-05.md) retains method/limits; no messages sent and no EX01 rows added. Next: user review/deduplication, then authorized contact and eligibility/consent before research cases.
 
-Updated: 2026-10-05 (Asia/Kolkata). Initial follow-up sending unit complete within available routes; project not complete.
+Updated: 2026-10-05 (Asia/Kolkata). Additional geographic sourcing unit prepared; initial Reddit-followup sending unit complete within available routes; project not complete.
 
 Latest user report: Titash contacted 20 SaaS video makers on LinkedIn and has five inputs. These are a separate, uninspected cohort; eligibility, permission, questions/dates and EX01 stages remain unknown. [Provenance/readiness record](research/linkedin-input-readiness-2026-10-05.md) defines the next review. Zero committed consented EX01 rows remains the verified file state, not a claim that nobody has replied. User-supplied intended founder email saved separately; no message sent.
 
@@ -13,7 +15,7 @@ Latest user report: Titash contacted 20 SaaS video makers on LinkedIn and has fi
 | 0 | Complete | Existing private repository/access record preserved; main, incremental authorized pushes |
 | 1 | Reconciled public research | Original 20 Google and 12 ChatGPT; separate India follow-up 5 queries/10 pages; 72 source entries; 8 alternatives; scope/retention limits explicit |
 | 2 | Provisional | Task-based small-SaaS cohort and H01–H06; no validated positioning; O01–O03 public proposals |
-| 3 | Public review complete; initial follow-ups sent; EX01 prepared/unrun | All six Reddit threads inspected once;15 apparently human comments retained;0 participant responses; consent/eligible cases unavailable |
+| 3 | Public review complete; initial follow-ups sent; EX01 prepared/unrun | All six Reddit threads inspected once;15 apparently human comments retained;0 committed consented EX01 rows; reported private inputs remain unreviewed/unscreened |
 | 4 | First asset prepared | One distinct brief/article; original and internal SEO v1.1 preserved; full page, buyer-driven revision and four drafts pending |
 | 5 | Interim packaging reconciled | README/review/checklist current; final acceptance not met |
 | 6 | Pending presentation | Founder route and unsent interim message retained; no deck |

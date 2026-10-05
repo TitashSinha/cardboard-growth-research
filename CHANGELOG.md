@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-05: Added twenty further individual LinkedIn video-poster prospects (D028): ten US-listed/ten UK-listed, exact profile/post links and screening gaps privately retained outside Git. Forty distinct assistant-sourced candidates across both lists; no validated buyer count. Location is self-report; older/spec/shared work and one tool-builder context exception explicit. No messages, consent, EX01 feedback or revision added.
+
 - 2026-10-05: Prepared twenty individual connection-note drafts (D027) from retained post context and Titash's supplied learning/transition framing. Private copy outside Git; no sending, founder contact, participant consent or experiment result. Post observation is not a claim that videos were watched/tested.
 
 - 2026-10-05: Browser-sourced twenty personal-profile video posters (D026), with private shortlist and committed aggregate method/limitations. Individual-only/video-post requirements checked; four possible SaaS-task leads and sixteen context prospects remain unscreened. User handles prior-contact duplicates. No contact, private-message reading, eligibility claim or EX01 result. Retention gaps/browser recovery documented.

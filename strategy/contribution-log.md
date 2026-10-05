@@ -19,7 +19,7 @@ Updated 2026-10-05. This record separates actual human judgment from AI assistan
 
 October 5 / AI05: Codex collected public-only Reddit captures and the authorized five-query India Google follow-up, retained classifications, critically checked a read-only agent’s independent counts and reconciled claims. No participant testing, traffic measurement or company implementation was performed.
 
-Two original published public questions were operated by Codex with Titash’s approval; additional manual posts were reported by Titash (T05). Private participant recruitment remains unperformed. Still unperformed by Titash: moderation, participant analysis, actual product editing, revision from feedback and company instrumentation. Ask him to moderate or explain a real anonymized result at the next decision point; record his actual action before claiming that skill.
+Two original published public questions were operated by Codex with Titash’s approval; additional manual posts were reported by Titash (T05). Initial private outreach was subsequently operated/reported under T09–T10; consented EX01 collection remains unverified. Still unverified for Titash: protocol moderation, participant analysis, actual product editing, revision from feedback and company instrumentation. Ask him to moderate or explain a real anonymized result at the next decision point; record his actual action before claiming that skill.
 
 ## Bounded contribution proposed
 
@@ -42,3 +42,7 @@ October 5 / AI07: Codex browsed public LinkedIn posts, checked video controls/pe
 October 5 / T12: Titash supplies the learning/transition framing for personalized connection notes and requests omitting growth-project references at initial contact. This is actual copy direction, not participant research consent or a sending outcome.
 
 October 5 / AI08: Codex drafts twenty connection notes using retained public post topics and Titash's supplied phrasing. Notes do not claim videos were watched or tested; learning questions are separate from later consented EX01 collection. No message sent.
+
+October 5 / T13: Titash requests ten further US and ten UK individuals to broaden geographical sourcing beyond the earlier list, retaining timeline-video criteria. This is audience-sourcing direction, not validation of location, main-cohort eligibility or a participant result.
+
+October 5 / AI09: Codex inspected profiles and authored/shared video-post context, retained twenty additional exact post references privately, checked no overlap with LP01–LP20 and separated self-reported geography, spec/older work and one tool-builder context lead. AI prioritization and screening notes are preparation; no human interview, feedback interpretation or experiment execution credited.
