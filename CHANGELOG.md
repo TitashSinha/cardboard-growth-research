@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-05: Consolidated forty distinct LinkedIn prospects into one private CSV with forty personalized connection drafts, character counts, source/profile/post references and screening gaps (D030). Existing source lists and D029 work preserved; missing data not inferred. Maximum draft length 173 characters. No sending, consent or EX01 execution.
+
 - 2026-10-05: Mapped retained public workflow observations and the Google counterexample into first-article/remaining-topic decisions (D029). Preserved drafts and EX01 materials; four topics remain conditional on feedback, distinct intent and sources. No new contact, participant case, article or buyer-driven revision.
 
 - 2026-10-05: Added twenty further individual LinkedIn video-poster prospects (D028): ten US-listed/ten UK-listed, exact profile/post links and screening gaps privately retained outside Git. Forty distinct assistant-sourced candidates across both lists; no validated buyer count. Location is self-report; older/spec/shared work and one tool-builder context exception explicit. No messages, consent, EX01 feedback or revision added.
