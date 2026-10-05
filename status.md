@@ -1,5 +1,7 @@
 # Status
 
+Latest drafting unit / D027: twenty personalized LinkedIn connection notes saved beside the private shortlist, using Titash's stated learning/transition framing and observed post topics. Drafted only; none sent. Notes avoid Cardboard/research-project references at initial contact; research-purpose/retention permission remains required before EX01 case recording. User handles duplication; next action is his review/manual use or a specific later sending instruction.
+
 Latest sourcing unit / D026: twenty individual LinkedIn authors with visible video posts shortlisted, per Titash's browser-only research instruction. Private profile/details list saved outside Git; four possible SaaS-task/team leads and sixteen creator/service-provider context leads, all unscreened. User will deduplicate against previous outreach. [Aggregate sourcing record](research/linkedin-prospect-sourcing-2026-10-05.md) retains method/limits; no messages sent and no EX01 rows added. Next: user review/deduplication, then authorized contact and eligibility/consent before research cases.
 
 Updated: 2026-10-05 (Asia/Kolkata). Initial follow-up sending unit complete within available routes; project not complete.

@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-05: Prepared twenty individual connection-note drafts (D027) from retained post context and Titash's supplied learning/transition framing. Private copy outside Git; no sending, founder contact, participant consent or experiment result. Post observation is not a claim that videos were watched/tested.
+
 - 2026-10-05: Browser-sourced twenty personal-profile video posters (D026), with private shortlist and committed aggregate method/limitations. Individual-only/video-post requirements checked; four possible SaaS-task leads and sixteen context prospects remain unscreened. User handles prior-contact duplicates. No contact, private-message reading, eligibility claim or EX01 result. Retention gaps/browser recovery documented.
 
 - 2026-10-05: Recorded Titash's separate LinkedIn outreach report (20 contacted/five inputs), provenance/readiness checks and unresolved eligibility/consent/protocol status (D025). Saved user-supplied intended founder email without independently validating it or sending. No participant rows, private identities or claims of completed EX01 added.

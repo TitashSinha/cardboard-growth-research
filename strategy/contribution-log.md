@@ -38,3 +38,7 @@ October 5 / T10: Titash reports independently contacting 20 SaaS video makers on
 October 5 / T11: Titash requests twenty prospects through his browser, requires individual people with actual video posts and elects to handle duplication against his previous contacts. These are sourcing instructions, not evidence that any prospect qualifies or that new outreach has occurred.
 
 October 5 / AI07: Codex browsed public LinkedIn posts, checked video controls/personal-profile authors, prepared a private twenty-person shortlist with task signals and screening gaps, and retained an aggregate method record. Four possible main-cohort screening leads and sixteen creator/service-provider context leads are qualitative preparation categories. No participant validation, product testing or new contact credited; lost temporary captures and missing direct permalinks documented.
+
+October 5 / T12: Titash supplies the learning/transition framing for personalized connection notes and requests omitting growth-project references at initial contact. This is actual copy direction, not participant research consent or a sending outcome.
+
+October 5 / AI08: Codex drafts twenty connection notes using retained public post topics and Titash's supplied phrasing. Notes do not claim videos were watched or tested; learning questions are separate from later consented EX01 collection. No message sent.
