@@ -1,6 +1,6 @@
 # EX01 asynchronous amendment — prepared before collection
 
-Version 1.2, 2026-10-03, D013. Zero responses; collection not authorized. Applies only to consented participant research, not public recommendation replies. v1.1 is preserved in Git and the decision aid remains v1.1; no buyer-driven asset revision occurred.
+Version 1.2, 2026-10-03, D013. Zero consented EX01 result rows; structured collection not authorized without consent. Initial contacts later authorized under D023 below. Applies only to consented participant research, not public recommendation replies. v1.1 is preserved in Git and the decision aid remains v1.1; no buyer-driven asset revision occurred.
 
 ## Same eligibility, hypothesis and primary rule
 
@@ -22,3 +22,9 @@ Offer a seven-day initial written collection window from consent, with voluntary
 Record protocol version, mode (live/written/mixed), start/end dates or ongoing, behavior received date, aid exposure date or not shown, and collection status (partial/behavior-only/full/withdrawn). Keep identities and message logs outside Git; retain only consented de-identified summaries. Participant wording and paraphrase are distinct; excerpt consent still required for written text. If mode changes, retain sequence and record it.
 
 Report mode-specific counts/context and missingness; do not estimate a mode effect or pool public comments with participant data. Written responses permit reflection/external assistance and less spontaneous probing; live interviews involve interviewer/recall effects. Both are self-reports, not observed product performance. Prior questioning may prime aid answers. No completed experiment is inferred from preparing this amendment.
+
+## October 5 initial-contact clarification — D023, before new contacts
+
+Titash authorized his exact informal opener to all distinct human repliers on the six tracked posts and waived further community-rule checks. This authorizes initial conversations, not the full consented EX01 protocol, private-repository retention or excerpt use. Recipient mapping and message verification stay outside Git. Exclude bots/self and avoid duplicate contacts; platform restrictions remain binding and are not bypassed. Competing-tool builders may receive the authorized opener but belong in a separate context stratum if they respond.
+
+The opener asks about recent SaaS work and workflow. Treat any unsolicited detailed answer before purpose disclosure/consent as an informal lead response, not a retained EX01 case. Before the structured exchange, disclose the independent research/work-sample purpose, obtain separate participation/retention consent and confirm neutral behavior evidence under that agreement; do not backfill consent or retrospectively count earlier answers. Only then follow the staged behavior → familiarity → aid → readback/excerpt sequence above. Initial message responses, eligible consented cases and full aid-test completions remain distinct. Five responses is a practical aim, not a promised outcome or five eligible completed cases.

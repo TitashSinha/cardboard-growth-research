@@ -1,0 +1,11 @@
+{
+  "captured_utc": "2026-10-05T04:33:11Z",
+  "timestamp_scope": "Retention time; profile observed earlier during this initial-contact session",
+  "url": "https://www.reddit.com/user/dmdbGroup/",
+  "source_type": "public profile UI; Profile information region only",
+  "public_account": "dmdbGroup",
+  "observed_role_section": "MODERATOR OF THESE COMMUNITIES",
+  "observed_community": "r/HermosoAI",
+  "interpretation": "Possible association with the brand/community mentioned in the public favored reply; not proof of ownership, employment, payment or promotional intent",
+  "limits": ["Community's official brand status not independently verified", "Role does not verify product results or any numerical self-report", "No private chat data or sidebar content retained"]
+}

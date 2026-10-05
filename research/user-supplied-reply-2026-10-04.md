@@ -24,3 +24,7 @@ Only then decide whether the account changes a recommendation. Titash's preferen
 ## October 5 provenance addendum — D021
 
 At the authorized one-time Monday review the original was matched: [dmdbGroup's public comment](https://www.reddit.com/r/content_marketing/comments/1wwns9y/comment/pdmc2m3/), published 2026-10-03T14:48:24.054 UTC. Exact public text is retained in [RP02 capture](captures/reddit-monday-2026-10-05/RP02.json). This resolves original provenance; affiliation and all numerical/performance claims remain unverified. It is adjacent UGC/advertising evidence, not a screened SaaS buyer or EX01 response. Earlier pending language above records the October 4 state and is preserved as history; the review is complete within its retained-visible scope. See [Monday analysis](reddit-reply-review-2026-10-05.md).
+
+## Later October 5 public-role qualification — D024
+
+During contact-route inspection the [public author profile](https://www.reddit.com/user/dmdbGroup/) displayed moderator status for r/HermosoAI. [Dated public-only capture](captures/public-profile-affiliation-2026-10-05.json), E046. This is a possible brand/community association; official community status, employment/ownership/payment and promotional intent remain unverified. The October 5 Monday classification's unknown affiliation is its earlier snapshot state, preserved as history. Do not present this favored account as independently verified buyer testimony or adopt its numerical claims. No private contact outcome is linked to this public role record.

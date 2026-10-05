@@ -1,13 +1,13 @@
 # Status
 
-Updated: 2026-10-05 (Asia/Kolkata). Monday public-review work unit complete; project not complete.
+Updated: 2026-10-05 (Asia/Kolkata). Initial follow-up sending unit complete within available routes; project not complete.
 
 | Phase | State | Notes |
 |---|---|---|
 | 0 | Complete | Existing private repository/access record preserved; main, incremental authorized pushes |
-| 1 | Reconciled public research | Original 20 Google and 12 ChatGPT; separate India follow-up 5 queries/10 pages; 71 source entries; 8 alternatives; scope/retention limits explicit |
+| 1 | Reconciled public research | Original 20 Google and 12 ChatGPT; separate India follow-up 5 queries/10 pages; 72 source entries; 8 alternatives; scope/retention limits explicit |
 | 2 | Provisional | Task-based small-SaaS cohort and H01–H06; no validated positioning; O01–O03 public proposals |
-| 3 | Public observation reviewed; EX01 prepared/unrun | All six Reddit threads inspected once;15 apparently human comments retained;0 participant responses; consent/eligible cases unavailable |
+| 3 | Public review complete; initial follow-ups sent; EX01 prepared/unrun | All six Reddit threads inspected once;15 apparently human comments retained;0 participant responses; consent/eligible cases unavailable |
 | 4 | First asset prepared | One distinct brief/article; original and internal SEO v1.1 preserved; full page, buyer-driven revision and four drafts pending |
 | 5 | Interim packaging reconciled | README/review/checklist current; final acceptance not met |
 | 6 | Pending presentation | Founder route and unsent interim message retained; no deck |
@@ -24,14 +24,14 @@ The public evidence suggests distinguishing useful incumbents with tolerated cor
 
 Product/technical/competitor/coverage/buyer-language audits, prioritized hygiene, public metadata collector and captures, founder verification, AAARRR map, measurement plan and 12 proposed company event contracts retained. D020 editorial gates and first-article internal SEO revision are preparation, not buyer feedback, a second article or ranking results. No tracking installed or product video output generated. Reproduce inventories with analysis/summarize_evidence.py, analysis/summarize_reddit_review.py and analysis/summarize_google_followup.py.
 
-D003: zero new spending; no Cardboard setup/trial/internal access, keyword exports/volumes or repeated denied requests. No private outreach/recruitment, founder message, application, new public posting or company-site modification in this work unit. Original Google lists remain lost and geography unknown; separate current cohort does not repair that history. Public roles/dates/affiliation/claims remain limited. Mobile audit is first-screen only.
+D003: zero new spending; no Cardboard setup/trial/internal access, keyword exports/volumes or repeated denied requests. Initial private follow-ups are now specifically authorized under D023; 11 openers sent and visible. No founder message, application, new public posting or company-site modification in this sending unit. Original Google lists remain lost and geography unknown; separate current cohort does not repair that history. Public roles/dates/affiliation/claims remain limited. Mobile audit is first-screen only.
 
-Review base 929c0d5 and all newer work preserved. Evidence commit 3f3a991 pushed; current follow-up/reconciliation commit is recorded in Git/CHANGELOG when complete. No force-push.
+Review base 929c0d5 and all newer work preserved. Evidence commit 3f3a991 pushed; Google/reconciliation commit 4d95cff is pushed. D023/D024 outcomes follow in the current related commit; Git records the final push state. No force-push.
 
 ## Open actions and missing outputs
 
 - Next unblocked work: map the sourced stage/correction distinctions and visibility counterexample into the first-asset/remaining-brief decisions. Public evidence may inform an internal revision; it cannot satisfy buyer-tested acceptance.
-- Obtain a permitted opt-in recruitment route and exact audience/destination/draft authorization, then screen/consent before EX01 collection. L03/L04/L01 remain uncontacted/unscreened; r/SaaS cold-DM restriction persists. The specific L03 invitation remains unsent; no new outreach authorization inferred.
+- D023 authorizes initial follow-ups to retained repliers, with 11 sent/visible, one user-reported previous contact skipped and two no-visible-contact-option profiles unsent. Before EX01 collection, disclose purpose, complete screening and obtain participation/retention consent. L03/L04/L01 remain uncontacted/unscreened; r/SaaS cold-DM restriction persists. The specific L03 invitation remains unsent; no new outreach authorization inferred.
 - Titash can moderate/interpret an eligible recent workflow case. Public T08 interpretation is inspectable contribution, not participant analysis or a verified rank diagnosis.
 - Collect honest EX01 feedback, apply preregistered decision rule, document buyer-driven v2, revise remaining briefs and create four distinct source-backed drafts. Resolve overlap/evidence conflicts instead of manufacturing topics.
 - Complete conversion proof page, prioritized later experiment backlog, final repository acceptance/review and rendered traceable presentation. Measurement design is prepared; company implementation/metrics remain dependent on future access. Phase 7 excluded.
@@ -39,3 +39,5 @@ Review base 929c0d5 and all newer work preserved. Evidence commit 3f3a991 pushed
 ## Verification
 
 Read-only agent independently reproduced Reddit/Google counts; root checked exact texts, classification, self-created source contamination and limits. Derived inventory/schema/local-link/diff checks passed. Final commit/push and clean-state readback are recorded in Git and the session before stopping. No completed experiment or full-project claim is made.
+
+D023 latest execution: [initial-followup aggregate record](research/reddit-initial-followups-2026-10-05.md) accounts for all 14 distinct snapshot repliers: 11 agent sent/visible, 1 user-reported prior contact skipped, 2 without visible contact options unsent. Initial responses may arrive, but no private answers/identity mapping or EX01 cases are committed; at least one informal reply incidentally visible is not a reply census. User's draft preserved in the open chat. No automatic reminder/monitor created. D024 adds E046, a public moderation role suggesting possible association of the favored commenter with the named tool's community; affiliation/intent and numerical claims remain unverified. Original snapshot/classification retained as history. Current source inventory 72, main participant rows 0. Next action: voluntary response → research-purpose disclosure → screening/consent → neutral EX01 sequence.
