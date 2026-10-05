@@ -32,3 +32,7 @@ No volume, difficulty, complete competitor answer comparison or ranking advantag
 Internal changes in v1.1: narrower descriptive query/title/slug/meta, direct task answer, question-based sections, illustrative decision table, workflow-versus-single-tool distinction, updated access caveat and current prepared aid link. Source/buyer limits remain explicit. AI-readable explanations are editorial design choices, not proven citation levers. No product tests or early Reddit review used.
 
 Still pending: Titash's review, actual buyer feedback, exact-query/competing-page intent check and a distinct contribution supported by that review. Original title/structure were usable draft material, but v1 is not marked SEO/GEO-complete. v1.1 is also not publication-ready: links/deployment/eligibility and author approval are unresolved. No change to EX01 materials or protocol.
+
+## October 5 public-evidence decisions — D029
+
+[Source-to-content decision map](public-evidence-decisions-2026-10-05.md) links retained public replies and the separate India query check to this asset and the four later candidates. Retain workflow-stage and adequate-incumbent distinctions; corrections alone do not justify switching. Later topics remain conditional on distinct intent, sources and actual feedback. No new article version, completed brief, participant result or buyer-driven revision counted; original drafts and EX01 materials unchanged.

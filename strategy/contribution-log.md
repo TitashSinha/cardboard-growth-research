@@ -46,3 +46,5 @@ October 5 / AI08: Codex drafts twenty connection notes using retained public pos
 October 5 / T13: Titash requests ten further US and ten UK individuals to broaden geographical sourcing beyond the earlier list, retaining timeline-video criteria. This is audience-sourcing direction, not validation of location, main-cohort eligibility or a participant result.
 
 October 5 / AI09: Codex inspected profiles and authored/shared video-post context, retained twenty additional exact post references privately, checked no overlap with LP01–LP20 and separated self-reported geography, spec/older work and one tool-builder context lead. AI prioritization and screening notes are preparation; no human interview, feedback interpretation or experiment execution credited.
+
+October 5 / AI10: Codex resumed from 5dd06ab, read the existing plan/history and private US/UK shortlist, and mapped already-retained public evidence to first-article and four conditional topic decisions (D029). This is AI-assisted synthesis, not a new human positioning judgment, participant analysis, interview or buyer-driven revision. Original drafts/test materials preserved; no outreach performed.

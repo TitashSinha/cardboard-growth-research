@@ -36,6 +36,8 @@ Next action: use the public workflow contradictions to refine first-asset/brief 
 
 ## Scope and supporting artifacts
 
+October 5 continuation / D029: [public-evidence content decisions](content/briefs/public-evidence-decisions-2026-10-05.md) complete the mapping task above. Existing first-article distinctions retained; four later topics remain conditional. Next independent preparation is the conversion proof sample and conditional experiment backlog; actual input review, eligibility/consent and aid feedback remain the path to EX01 execution and buyer-driven revision. No additional article or participant result created.
+
 - [AAARRR map](strategy/funnel.md), [measurement plan](strategy/measurement-plan.md) and [12 proposed event definitions](strategy/measurement-events.csv): decision rules, independent versus company measures, identity/denominator/window/attribution and failure handling. Measurement design is prepared; actual instrumentation, company baselines and effects are unavailable. EX01 is unchanged, and follow-on tests are conditional.
 - [Product audit](research/product-audit.md), [technical evidence](research/technical-audit.md), [competitors](research/competitors.csv), [content coverage](research/coverage-matrix.md).
 - [Verified founder route](research/founder-route.md), [interim unsent message](outreach/founder-message.md). Two Codex-operated questions and four additional Titash-reported manual posts are tracked; two additional posts currently show removal notices. Specific private initial follow-ups were authorized and sent under D023; no founder messages, applications or company changes have occurred.

@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-05: Mapped retained public workflow observations and the Google counterexample into first-article/remaining-topic decisions (D029). Preserved drafts and EX01 materials; four topics remain conditional on feedback, distinct intent and sources. No new contact, participant case, article or buyer-driven revision.
+
 - 2026-10-05: Added twenty further individual LinkedIn video-poster prospects (D028): ten US-listed/ten UK-listed, exact profile/post links and screening gaps privately retained outside Git. Forty distinct assistant-sourced candidates across both lists; no validated buyer count. Location is self-report; older/spec/shared work and one tool-builder context exception explicit. No messages, consent, EX01 feedback or revision added.
 
 - 2026-10-05: Prepared twenty individual connection-note drafts (D027) from retained post context and Titash's supplied learning/transition framing. Private copy outside Git; no sending, founder contact, participant consent or experiment result. Post observation is not a claim that videos were watched/tested.

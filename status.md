@@ -1,5 +1,7 @@
 # Status
 
+Latest continuation unit / D029: [public-evidence content decisions](content/briefs/public-evidence-decisions-2026-10-05.md) complete the next unblocked mapping step using retained replies, Google counterexample and sourcing limits. First-article distinctions retained; four later slots conditional, with overlap/evidence gates explicit. No new article, private case, contact or buyer-driven revision. Next evidence-dependent action: review permission-safe actual LinkedIn inputs against provenance/eligibility/consent checks. Next independent preparation: conversion proof sample and conditional later experiment backlog.
+
 Latest sourcing unit / D028: ten US-listed and ten UK-listed individual profiles with linked timeline-video evidence added privately, without overlap with LP01–LP20. Locations are profile self-reports; recent SaaS-task eligibility remains open. Older work, concepts, embedded posts and one tool-builder context lead flagged separately. [Aggregate US/UK sourcing record](research/linkedin-us-uk-sourcing-2026-10-05.md) retains method/limits; forty distinct assistant-sourced candidates across both lists are not forty buyers. No outreach or EX01 row added. Next: Titash reviews/deduplicates the private list, then screens voluntary respondents before consented cases.
 
 Latest drafting unit / D027: twenty personalized LinkedIn connection notes saved beside the private shortlist, using Titash's stated learning/transition framing and observed post topics. Drafted only; none sent. Notes avoid Cardboard/research-project references at initial contact; research-purpose/retention permission remains required before EX01 case recording. User handles duplication; next action is his review/manual use or a specific later sending instruction.
@@ -38,7 +40,7 @@ Review base 929c0d5 and all newer work preserved. Evidence commit 3f3a991 pushed
 
 ## Open actions and missing outputs
 
-- Next unblocked work: map the sourced stage/correction distinctions and visibility counterexample into the first-asset/remaining-brief decisions. Public evidence may inform an internal revision; it cannot satisfy buyer-tested acceptance.
+- Public-evidence mapping complete under D029: [first-asset/remaining-topic decisions](content/briefs/public-evidence-decisions-2026-10-05.md). Next independent preparation: conversion proof sample and conditional later experiment backlog. Actual inputs, participant eligibility/consent and aid feedback remain required for EX01 and buyer-driven revision.
 - D023 authorizes initial follow-ups to retained repliers, with 11 sent/visible, one user-reported previous contact skipped and two no-visible-contact-option profiles unsent. Before EX01 collection, disclose purpose, complete screening and obtain participation/retention consent. L03/L04/L01 remain uncontacted/unscreened; r/SaaS cold-DM restriction persists. The specific L03 invitation remains unsent; no new outreach authorization inferred.
 - Titash can moderate/interpret an eligible recent workflow case. Public T08 interpretation is inspectable contribution, not participant analysis or a verified rank diagnosis.
 - Collect honest EX01 feedback, apply preregistered decision rule, document buyer-driven v2, revise remaining briefs and create four distinct source-backed drafts. Resolve overlap/evidence conflicts instead of manufacturing topics.
