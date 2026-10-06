@@ -351,3 +351,7 @@ Titash challenges treating an unused worksheet as a prerequisite for useful evid
 ## D051 — 2026-10-06 — Link the existing repository from the browser story
 
 Titash requests the repo link as well. Add an “Open the full project repository” link in the work section, using the verified origin URL: https://github.com/TitashSinha/cardboard-growth-research. Explain that the private repository requires view access. Preserve all five article links and repository visibility; this is a navigation addition, not permission to share, publish or send the project. Verify the target and commit/push.
+
+## D052 — 2026-10-06 — Add the repository link to the introduction
+
+Titash asks for the same repo link in the intro as well. Add a “View the repository” button beside the introductory navigation, with a private-access note. Keep the work-section repository link and all five article links; visibility and delivery authorization remain unchanged. Verify the intro target and commit/push.
