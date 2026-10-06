@@ -1,3 +1,12 @@
+# Current status — October 6
+
+D041 / checkpoint 2: Independent repository outputs complete and reviewed: five drafts/briefs, conversion copy, exploratory aid, prospective backlog, AAARRR measurement and final unsent pitch. [Repository review](quality/final-repository-review-2026-10-06.md), [editorial review](quality/final-editorial-review-2026-10-06.md). EX01 stopped/partial. Next: deck, PDF, visual review and final push.
+
+## Historical updates
+
+Earlier pending descriptions/phase tables below are dated history superseded by this summary for completed assets. Missing experiment stages remain missing.
+
+
 # Status
 
 Completion checkpoint 1 / D040, October 6: Titash authorizes completion and the conversion-page direction without further pauses. [Complete copy/rationale](content/conversion/saas-demo-evaluation-page-v1.md), [prospective experiment backlog](strategy/experiment-backlog.md) and [exploratory aid v2](experiments/workflow-fit/materials/decision-aid-v2-exploratory.md) prepared. Copy, storyboard and aid remain unpublished/untested; EX01 collection stays closed with missing stages disclosed. Next: final repository review/package, then editable deck/PDF and unsent pitch; checkpoint pushes required.

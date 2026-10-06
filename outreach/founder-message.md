@@ -1,20 +1,24 @@
-# Interim founder message — UNSENT
+# Final founder pitch — UNSENT
 
-Draft 2026-10-03. Published name/role: Saksham Aggarwal, Founder/CEO (F001); official route: founders@cardboard.ai (F002). No contact or application sent. Private repository access is not granted by this draft.
+October 6 / D041. Separately authorized delivery and actual private-repository access remain pending. [Earlier draft](founder-message-v1-2026-10-03.md) preserved. No email or application sent.
 
-Subject: A small Cardboard evaluation research work sample
+Subject: Cardboard workflow research and content work sample
 
 Hi Saksham,
 
-I’m building an independent Cardboard growth work sample as I move from six years in B2B content and SEO into growth.
+I put together an independent Cardboard work sample as I move from B2B content and SEO into growth.
 
-One specific finding: on October 2–3, three checked Cardboard articles contained pricing or trial claims that differed from the inspected pricing page. That establishes an information inconsistency; I haven’t measured buyer confusion or lost signups.
+One concrete finding: three official articles checked on October 2–4 contained offer claims that disagreed with the inspected pricing display or each other. That is an information-consistency issue; I haven't measured lost signups.
 
-My first research question is whether a recent SaaS video buyer has a meaningful reason to replace their current workflow. I’ve prepared a small behavior-led test and a decision aid, with offer comprehension as a possible next test. Recruitment, participant results and buyer-driven revision are still pending. The research and drafting are AI-assisted; the decision to challenge incumbent adequacy first is mine.
+Exploratory conversations with video makers pointed to different jobs: planning, real-interface graphics, animation, corrections and editable handoff. They also showed why an adequate existing editor may be worth keeping. The conversations were not a fully screened SaaS-buyer experiment, and I haven't used Cardboard or validated demand.
 
-The interim work sample is in a private repository: https://github.com/TitashSinha/cardboard-growth-research. Before sharing or sending, I need to arrange authorized access and update this note with actual test status. A bounded contribution I’d like to demonstrate is evaluation research, a revised first asset, and feedback-informed content under supervision.
+I used that learning to revise a workflow-choice article and assemble five task-specific article drafts, a SaaS-demo evaluation-page sample, an untested decision aid and a prioritized test backlog. The package includes an AAARRR measurement specification and a deck with explicit evidence limits. Research, synthesis and drafting were AI-assisted; my decisions and the assistance are documented separately.
 
-Best Regards,
+I'd be interested in contributing to evaluation research and content iteration under supervision. If useful, I can share the repository and deck for your review.
+
+Best regards,
 Titash Sinha
 
-Before eventual sending: refresh changing offer/role facts; replace the access-preparation sentence with an actually accessible authorized work-sample link; include real results/revision if available. Never imply the current prepared test is completed.
+## Delivery dependencies
+
+Confirm destination, authorize sending separately and arrange usable access first. Official published contact is founders@cardboard.ai; the user-supplied personal destination is not independently verified. Refresh changing facts again before later sending. No completed product test or growth effect implied.

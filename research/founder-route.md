@@ -1,3 +1,8 @@
+# October 6 route refresh
+
+[YC](https://www.ycombinator.com/companies/cardboard) still lists Saksham Aggarwal as Founder/CEO and Ishan Sharma as Founder/CTO. The [official homepage](https://www.cardboard.ai/) publishes founders@cardboard.ai. Public route verified, deliverability unknown. Original records below preserved; no sending or access change.
+
+
 # Verified founder identity and unsent contact route
 
 Verified 2026-10-03 through public sources. **No message, application or contact was sent.** Contact remains outside the authorized work unit.

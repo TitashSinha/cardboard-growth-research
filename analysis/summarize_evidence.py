@@ -23,6 +23,9 @@ def summarize():
     nonbrand_google = [r for r in google if r['query_id'] not in {'Q06','Q07','Q08','Q20'}]
     nonbrand_ai = [r for r in complete if r['test_id'] not in {'AI10','AI11'}]
     followup = summarize_google_followup()
+    manifest = json.loads((research / 'artifact-manifest.json').read_text(encoding='utf-8'))
+    for item in manifest['articles']:
+        assert (ROOT / item['current_draft']).is_file() and (ROOT / item['brief']).is_file()
     return {
         'google_observations': len(google),
         'google_india_followup_queries_separate_cohort': followup['queries'],
@@ -40,10 +43,12 @@ def summarize():
         'competitor_alternatives': len(rows(research / 'competitors.csv')),
         'sitemap_urls_in_retained_refresh': len(sitemap),
         'blog_urls_in_retained_refresh': sum('/blog/' in u for u in sitemap),
+        'current_distinct_article_drafts': len(manifest['articles']),
+        'current_article_brief_tasks': len(manifest['articles']),
         'blog_drafts': len(list((ROOT/'content/blogs').glob('*.md'))),
         'briefs': len(list((ROOT/'content/briefs').glob('*.md'))),
         'participant_feedback_records': len(rows(ROOT/'experiments/workflow-fit/results.csv')) if (ROOT/'experiments/workflow-fit/results.csv').exists() else 0,
-        'limits': ['Google field notes lack full result lists; location unknown.', 'AI cohorts differ in date/effort; two branded prompts excluded from unaided observations.', 'AI12 repeats AI01 with different effort; not a matched comparison.', 'Counts are inventory/sample observations, not demand or business outcomes.']
+        'limits': ['Google field notes lack full result lists; location unknown.', 'AI cohorts differ in date/effort; two branded prompts excluded from unaided observations.', 'AI12 repeats AI01 with different effort; not a matched comparison.', 'Counts are inventory/sample observations, not demand or business outcomes.', 'blog_drafts and briefs count stored Markdown files; current article/brief tasks use the explicit artifact manifest.']
     }
 
 if __name__ == '__main__':

@@ -11,11 +11,11 @@ October 6, 2026 / D040. Titash requests completion without further pauses and ch
 
 ## Checkpoint 2 — Review and package repository
 
-- [ ] Reconcile current article/brief counts without mixing historical versions or public-source cohorts.
-- [ ] Save `quality/final-editorial-review-2026-10-06.md` and `quality/final-repository-review-2026-10-06.md` separating completed local outputs from missing research stages and company release dependencies.
-- [ ] Replace stale top-level README/status/checklist framing with the final independent-package state; retain historical decision records.
-- [ ] Refresh public founder identity/route, write the final unsent pitch and preserve earlier copy.
-- [ ] Verify counts/links/privacy and push before creating the presentation.
+- [x] Reconcile current article/brief counts without mixing historical versions or public-source cohorts.
+- [x] Save `quality/final-editorial-review-2026-10-06.md` and `quality/final-repository-review-2026-10-06.md` separating completed local outputs from missing research stages and company release dependencies.
+- [x] Replace stale top-level README/status/checklist framing with the final independent-package state; retain historical decision records.
+- [x] Refresh public founder identity/route, write the final unsent pitch and preserve earlier copy.
+- [x] Verify counts/links/privacy and push before creating the presentation.
 
 ## Checkpoint 3 — Presentation and delivery
 

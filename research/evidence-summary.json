@@ -40,13 +40,16 @@
   "competitor_alternatives": 8,
   "sitemap_urls_in_retained_refresh": 22,
   "blog_urls_in_retained_refresh": 8,
-  "blog_drafts": 1,
-  "briefs": 1,
+  "current_distinct_article_drafts": 5,
+  "current_article_brief_tasks": 5,
+  "blog_drafts": 5,
+  "briefs": 3,
   "participant_feedback_records": 0,
   "limits": [
     "Google field notes lack full result lists; location unknown.",
     "AI cohorts differ in date/effort; two branded prompts excluded from unaided observations.",
     "AI12 repeats AI01 with different effort; not a matched comparison.",
-    "Counts are inventory/sample observations, not demand or business outcomes."
+    "Counts are inventory/sample observations, not demand or business outcomes.",
+    "blog_drafts and briefs count stored Markdown files; current article/brief tasks use the explicit artifact manifest."
   ]
 }
