@@ -1,5 +1,7 @@
 # Cardboard growth research and application plan
 
+Current collection state / D034, October 6: Titash requested a final reply check and outreach closure. The monitor is deleted; active conversations were closed, with no further discovery. [EX01 closeout](experiments/workflow-fit/collection-closeout-2026-10-06.md) records useful exploratory learning and missing screening, aid and readback stages. Original five-case test incomplete; no threshold verdict. Prior collection/monitor steps below remain historical or conditional and are not authorization to restart outreach.
+
 Current policy / D033, October 6: Participant consent is not required for de-identified EX01 analysis or work-sample summaries, per Titash (D033, 2026-10-06). This supersedes earlier participation, note-taking, retention and excerpt-permission gates. Identities, exact message contents, private mappings and screenshots remain outside Git. Do not record participant consent as obtained unless it actually was. Eligibility, evidence sufficiency and unperformed test stages remain separate. See [decision amendment](experiments/workflow-fit/consent-waiver-2026-10-06.md). Historical consent requirements below are superseded.
 
 Owner: Titash Sinha. Created October 2; revised October 3–5, 2026 (D007/D016–D022).

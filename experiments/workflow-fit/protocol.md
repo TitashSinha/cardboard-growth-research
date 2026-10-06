@@ -1,5 +1,7 @@
 # EX01 — Recent-project workflow fit test
 
+Collection state, October 6 / D034: **Stopped with partial exploratory evidence**, per Titash. See [closeout and evidence limits](collection-closeout-2026-10-06.md). No fully verified five-case cohort, decision-aid tasks or protocol readbacks; no threshold result. Frozen requirements below are preserved, not retrospectively satisfied. Monitor deleted; no new outreach authorized by this protocol.
+
 Version 1.3, amended 2026-10-06 under [D033](consent-waiver-2026-10-06.md); original v1.2 was preregistered 2026-10-03 (D011/D013). **Authorized private conversations exist; zero committed result rows; full aid test not completed. Participant consent is not required under D033.** D009 / H03. Existing free conversation and local-note tools; no new accounts, payment, product output or company implementation.
 
 ## Selection and rationale
