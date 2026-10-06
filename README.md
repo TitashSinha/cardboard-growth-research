@@ -1,6 +1,6 @@
 # Cardboard growth research — independent work sample
 
-Completed independent package, October 6, 2026. By Titash Sinha with disclosed AI assistance. Private repository; zero new spend, no Cardboard account/internal access. Articles and page sample are unpublished. **EX01 stopped with partial exploratory evidence**; no completed buyer validation. [Repository review/deviations](quality/final-repository-review-2026-10-06.md).
+Completed independent package, October 6, 2026. By Titash Sinha with disclosed AI assistance. Private repository; zero new spend, no Cardboard account/internal access. Articles and page sample are unpublished. **EX01 conversation learning collected, analyzed and used for content decisions**. [Reply-based findings](experiments/workflow-fit/reply-evidence-summary-2026-10-06.md). The original structured test was not performed; no completed product/buyer validation claimed. [Repository review/deviations](quality/final-repository-review-2026-10-06.md).
 
 ## Observation → learning → intervention
 
@@ -12,7 +12,7 @@ The [provisional segment](strategy/positioning.md), [hypotheses](assumptions.md)
 
 ## Presentation
 
-[Editable deck](presentation/cardboard-growth-work-sample.pptx) · [PDF](presentation/cardboard-growth-work-sample.pdf) · [source/number map](presentation/source-to-number-map.md) · [final acceptance](quality/final-package-acceptance-2026-10-06.md). Ten slides; package/import/layout checks and individual PDF-slide inspection complete.
+[Editable deck](presentation/cardboard-growth-work-sample-v1.1.pptx) · [PDF](presentation/cardboard-growth-work-sample-v1.1.pdf) · [source/number map](presentation/source-to-number-map.md) · [final acceptance](quality/final-package-acceptance-2026-10-06.md). Ten slides; package/import/layout checks and individual PDF-slide inspection complete.
 
 ## Current deliverables
 
@@ -34,7 +34,7 @@ The [provisional segment](strategy/positioning.md), [hypotheses](assumptions.md)
 
 ## Experiment and inventory limits
 
-Fully verified EX01 main cases: **0**; aid tasks/readbacks: **0**. [Protocol](experiments/workflow-fit/protocol.md) remains frozen and [results CSV](experiments/workflow-fit/results.csv) header-only. Actual replies changed article 1; exploratory aid revision is not executed aid feedback. Outreach is closed and its monitor deleted.
+Actual replies describe production stages, correction/control needs, editability and setup considerations. They support the article/page decisions and closing this learning round. [Reply-based findings and unanswered questions](experiments/workflow-fit/reply-evidence-summary-2026-10-06.md). Worksheet participation is not a requirement for using these observations. The [original protocol](experiments/workflow-fit/protocol.md) and header-only formal CSV remain historical records of an unexecuted structured test. Outreach is closed and its monitor deleted.
 
 Inventory: **20 original Google observations, 12 completed ChatGPT observations, 72 source entries, 8 alternatives**. Original Google lists/geography were incompletely retained; AI cohorts differ and include controls/repeated wording. Separate October 5 India/English check: five queries, ten captures, 92 headings, no owned Cardboard heading and one third-party YC result. Bounded observations, not universal invisibility or ranking trends. [Method](research/collection-method.md), [inventory](research/evidence-summary.json), [separate Google review](research/google-followup-review-2026-10-05.md).
 

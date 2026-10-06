@@ -1,3 +1,9 @@
+# Current interpretation / D043, October 6
+
+Actual replies are the evidence basis. [Conversation findings](reply-evidence-summary-2026-10-06.md) support completed workflow learning and the content decisions. The unused worksheet is not a requirement for counting useful evidence. Preserve the original structured test as unexecuted history, with unanswered switching/awareness/product questions stated individually. Collection remains closed; no demand or product-performance result invented.
+
+## Preserved earlier record
+
 # EX01 collection closeout — October 6, 2026
 
 **Collection stopped at Titash's request. Useful exploratory workflow evidence was collected; the original five-case EX01 test remains incomplete.** The two-hour LinkedIn/Reddit monitor was deleted. No further automated checks, recruitment or replies are planned.

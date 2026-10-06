@@ -1,3 +1,9 @@
+# Current interpretation / D043, October 6
+
+Actual replies are the evidence basis. [Conversation findings](experiments/workflow-fit/reply-evidence-summary-2026-10-06.md) support completed workflow learning and the content decisions. The unused worksheet is not a requirement for counting useful evidence. Preserve the original structured test as unexecuted history, with unanswered switching/awareness/product questions stated individually. Collection remains closed; no demand or product-performance result invented.
+
+## Preserved earlier record
+
 # Delivery status — October 6, 2026
 
 D042: Independent work-sample package complete with explicit deviations. [Final acceptance](quality/final-package-acceptance-2026-10-06.md); [deck/PDF/source map](presentation/README.md). Five briefs/drafts, conversion copy, exploratory aid, prospective backlog, measurement and final unsent pitch saved. Deck validation and all-slide PDF review complete. EX01 remains stopped/partial; outreach remains closed. Next business step is separately authorized founder handoff with usable access.

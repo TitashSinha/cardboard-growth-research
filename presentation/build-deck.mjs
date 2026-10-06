@@ -71,14 +71,12 @@ const stages=[['Planning + graphics','Ideas, storyboards and interface preparati
 stages.forEach(([a,b],i)=>{const y=228+i*86;box(s,a,64,y,345,44,28,C.ink,true);box(s,b,440,y,760,65,27);if(i<3)rect(s,64,y+68,1152,1,C.rule);});
 limit(s,'Useful context, not screened SaaS-buyer validation or evidence of Cardboard performance.');
 
-s=base('EX01 is closed with partial evidence.\nThe formal verdict is unavailable.','Experiment status',
-  'experiments/workflow-fit/collection-closeout-2026-10-06.md: zero fully verified main cases, zero aid tasks and protocol readbacks. results.csv header only. protocol.md unchanged. D033 removes consent requests for generalized summaries, not eligibility/stage requirements. D034 ends outreach and deletes monitor. Later named-brand prompt contaminates unaided awareness; keep awareness/use/interest separate.');
-box(s,'0',64,225,250,105,82,C.accent,true);box(s,'fully verified main cases',64,349,530,65,29,C.ink,true);
-box(s,'0',670,225,250,105,82,C.accent,true);box(s,'aid tasks / protocol readbacks',670,349,546,65,29,C.ink,true);
-rect(s,64,460,1152,112,'#E4E8DE');
-box(s,'Retain the learning. Do not apply the five-case threshold.',88,477,1090,48,29,C.ink,true);
-box(s,'Prompted brand opinions are separate from awareness, actual use and evaluation interest.',88,531,1080,33,23);
-limit(s,'No validated demand; no fabricated screening, product task or participant readback. Outreach stays closed.');
+s=base('EX01: what the replies helped us learn','Conversation findings',
+  'Current basis: experiments/workflow-fit/reply-evidence-summary-2026-10-06.md and D043. Retained private audit/ledger observations support generalized workflow learning. Exact replies and identities outside Git. Original structured protocol and closeout preserved, not executed as designed. Worksheet participation is not an admission criterion for this conversation synthesis. Named-brand questions yield prompted opinions, not unaided awareness. No Cardboard performance or purchase behavior established.');
+const findings=[['Workflow','Planning, animation and finishing need different help.'],['Switching considerations','Control, editability and setup matter when comparing methods.'],['Cardboard opinions','Keep stated non-use separate from opinions and ambiguous use.']];
+findings.forEach(([a,b],i)=>{const y=232+i*108;box(s,a,64,y,1130,41,29,C.ink,true);box(s,b,64,y+47,1120,55,27);});
+rect(s,64,571,1152,71,'#E4E8DE');
+box(s,'Enough to guide the content. Product performance and purchase intent remain unknown.',86,586,1110,48,23);
 
 s=base('Actual replies changed the first article.\nThe aid revision remains an untested prototype.','Result → editorial revision',
   'Article before: content/blogs/01-workflow-switch.md and content/revisions/01-workflow-switch-seo-v1.1.md. After: content/revisions/01-workflow-switch-evidence-v1.2.md. Reasoning: 01-workflow-switch-v1.2-notes.md. Aid v2: experiments/workflow-fit/materials/decision-aid-v2-exploratory.md; revision-log.md. Codex synthesized/drafted under Titash authorization. No respondent review or aid-task feedback.');
@@ -125,12 +123,12 @@ const staging=path.join(root,'.build/deck');await fs.mkdir(staging,{recursive:tr
 const candidate=path.join(staging,'candidate.pptx');
 await (await PresentationFile.exportPptx(p)).save(candidate);
 const result=await finalizePresentation({workspaceDir:root,candidatePath:candidate,
-  finalPath:path.join(root,'presentation/cardboard-growth-work-sample.pptx'),
+  finalPath:path.join(root,'presentation/cardboard-growth-work-sample-v1.1.pptx'),
   pythonExecutable:RUNTIME_PYTHON,
   integrityValidatorPath:path.join(SKILL_DIR,'container_tools/inspect_presentation_package_integrity.py'),
   layoutValidatorPath:path.join(SKILL_DIR,'container_tools/inspect_presentation_layout_geometry.py'),
   layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-bullet-geometry','--validate-heading-fit'],
   fontPolicy:{basis:'design',families:[family]},verifyArtifactToolImport:true,
   requiredNativeTableOwnerSlides:[],requiredNativeChartOwnerSlides:[],
-  receiptPath:path.join(staging,'validation.json')});
+  receiptPath:path.join(staging,'validation-v1.1.json')});
 console.log(JSON.stringify(result));

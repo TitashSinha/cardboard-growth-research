@@ -1,3 +1,7 @@
+# October 6 — Reply-based evidence reporting correction / D043
+
+Actual replies now lead EX01 reporting. Added findings/decision/unknown synthesis, corrected slide 5 and current package summaries, retained original method/deck history, validated and rendered v1.1. No worksheet required for usable conversation evidence, no fabricated formal result and no outreach restart.
+
 # October 6, 2026 — Independent package delivery
 
 - Completed conversion copy/rationale, exploratory aid v2 and five-test prospective backlog.

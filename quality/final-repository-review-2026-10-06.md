@@ -1,3 +1,9 @@
+# Current interpretation / D043, October 6
+
+Actual replies are the evidence basis. [Conversation findings](../experiments/workflow-fit/reply-evidence-summary-2026-10-06.md) support completed workflow learning and the content decisions. The unused worksheet is not a requirement for counting useful evidence. Preserve the original structured test as unexecuted history, with unanswered switching/awareness/product questions stated individually. Collection remains closed; no demand or product-performance result invented.
+
+## Preserved earlier record
+
 # Final repository review before presentation
 
 October 6 / D041. Independent package accepted for presentation preparation, with explicit deviations. Formal research execution is not complete.

@@ -1,3 +1,9 @@
+# Current interpretation / D043, October 6
+
+Actual replies are the evidence basis. [Conversation findings](experiments/workflow-fit/reply-evidence-summary-2026-10-06.md) support completed workflow learning and the content decisions. The unused worksheet is not a requirement for counting useful evidence. Preserve the original structured test as unexecuted history, with unanswered switching/awareness/product questions stated individually. Collection remains closed; no demand or product-performance result invented.
+
+## Preserved earlier record
+
 # Final delivery disposition — October 6
 
 D042 completes the independent artifact package under D040, with [final acceptance/deviations](quality/final-package-acceptance-2026-10-06.md). All three [completion checkpoints](quality/completion-plan-2026-10-06.md) are completed. Original formal EX01 stages were not executed and remain explicit deviations, not retroactively checked gates. Phase 7 is a future business action requiring separate authorization/access.

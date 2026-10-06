@@ -1,9 +1,13 @@
+# Current deck / v1.1, D043
+
+Slide 5 now reports findings from the actual replies. It removes the misleading zero-case/worksheet emphasis. Original v1 files remain preserved as historical artifacts. [Current evidence basis](../experiments/workflow-fit/reply-evidence-summary-2026-10-06.md).
+
 # Presentation handoff
 
 October 6, 2026. Ten slides, native editable text and shapes, 16:9, Arial. Research story: observation → exploratory learning → intervention → missing formal verdict → actual editorial revision → package → prospective tests.
 
-- [Editable PowerPoint](cardboard-growth-work-sample.pptx)
-- [Rendered PDF](cardboard-growth-work-sample.pdf)
+- [Editable PowerPoint](cardboard-growth-work-sample-v1.1.pptx)
+- [Rendered PDF](cardboard-growth-work-sample-v1.1.pdf)
 - [Claim and number map](source-to-number-map.md)
 - [Final package acceptance](../quality/final-package-acceptance-2026-10-06.md)
 
