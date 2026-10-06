@@ -1,5 +1,7 @@
 # Cardboard growth research and application plan
 
+Current policy / D033, October 6: Participant consent is not required for de-identified EX01 analysis or work-sample summaries, per Titash (D033, 2026-10-06). This supersedes earlier participation, note-taking, retention and excerpt-permission gates. Identities, exact message contents, private mappings and screenshots remain outside Git. Do not record participant consent as obtained unless it actually was. Eligibility, evidence sufficiency and unperformed test stages remain separate. See [decision amendment](experiments/workflow-fit/consent-waiver-2026-10-06.md). Historical consent requirements below are superseded.
+
 Owner: Titash Sinha. Created October 2; revised October 3–5, 2026 (D007/D016–D022).
 
 ## Objective and hiring evidence
@@ -28,7 +30,7 @@ Continue unblocked preparation while recruitment/feedback awaits authorization. 
 | 0 — Setup | Preserve existing private repository, access record and incremental history. Already complete. |
 | 1 — Reconcile evidence | Verify counts, resolve stale status/checklist items, retain sampling limits and preserve newer pending observations. Targeted checks only when they change a decision; no discovery quota. |
 | 2 — Provisional choice | Compare SaaS marketing teams, agencies and professional creators; define task, trigger, incumbent and eligibility. Keep competing hypotheses in assumptions.md. Record Titash's actual reasoning and challenges. |
-| 3 — Buyer research and independent test | Inspect public discussions; prepare guide, sourcing, outreach drafts, protocol, initial asset and result template. Select by consequential uncertainty and feasibility. Execute only after necessary recruitment authorization and actual consented participation. |
+| 3 — Buyer research and independent test | Inspect public discussions; prepare guide, sourcing, outreach drafts, protocol, initial asset and result template. Select by consequential uncertainty and feasibility. Execute only after necessary recruitment authorization and actual eligible participation under D033. |
 | 4 — Content and revision | Create the first priority brief and asset before the remaining four. Preserve v1; use actual feedback to revise the asset and later briefs. Five distinct articles remain required. Document rather than manufacture unsupported topics. |
 | 5 — Portfolio package | Review claims, links, figures, privacy and authorship. README distinguishes completed artifacts, prepared experiment, results, revision and gaps. Prepare an interim work sample now. |
 | 6 — Presentation and unsent pitch | After repository review, create/render an editable deck with traceable numbers and the evidence-to-revision narrative. Verify founder name/role/contact route before tailoring a draft. Do not send. |
@@ -42,7 +44,7 @@ Continue unblocked preparation while recruitment/feedback awaits authorization. 
 - research/collection-method.md explains discovery sampling. Cardboard mention/recommendation/citation flags concern Cardboard; the URL column lists visible sources for the whole answer. Separate dates/model/effort cohorts. New observations promptly retain exact prompt/query, date, model/effort, search state, requested/observed geography and result detail. Never reconstruct lost Google result lists.
 - analysis/summarize_evidence.py reproduces inventory counts. Metadata captures use unique timestamped or explicit destinations without overwriting earlier evidence. No dashboard without a named decision.
 - research/buyer-evidence-review.md separates direct Cardboard contexts, adjacent behavior, promotion and interpretation. AI personas/internal review are not buyer feedback.
-- experiments/workflow-fit/ owns protocol, materials, result template and revision history. Private identity mapping stays outside version control. Record participant IDs, dates, relevant experience, short consented excerpts, interpretations, contradictions and exclusions.
+- experiments/workflow-fit/ owns protocol, materials, result template and revision history. Private identity mapping stays outside version control. Record participant IDs, dates, relevant experience, de-identified paraphrases under D033, interpretations, contradictions and exclusions.
 - quality/review-log.md records corrections/critical review. quality/acceptance-checklist.md marks only evidence-backed criteria. status.md tracks actual phase/output state; CHANGELOG.md records milestones. strategy/contribution-log.md separates human decisions, AI work and independent checks.
 
 ## Competing hypotheses and provisional segment
@@ -59,7 +61,7 @@ October 3 continuation: EX01 supports staged written participation under [v1.2 a
 
 Initial aim: five relevant conversations, a practical learning target rather than representative research. Ask about the last video actually produced: deadline, steps, tools, corrections, spending, approval/handoff and why the workflow was kept/replaced. Avoid hypothetical purchases and leading with Cardboard.
 
-Prepare candidate IDs, public context, destination and eligibility gaps. Leads remain uncontacted. Before recruiting, present exact audience/destination/message for authorization; authorization for one route does not authorize others. Participation, recording and use of excerpts require separate consent.
+Prepare candidate IDs, public context, destination and eligibility gaps. Leads remain uncontacted. Before recruiting, present exact audience/destination/message for authorization; authorization for one route does not authorize others. D033 removes participant-consent gates for de-identified summaries; exact messages and any recordings remain outside Git.
 
 Compare offer comprehension, recent-workflow evaluation, storyboard evaluation and product testing. Current selected test: **recent-project workflow adequacy and friction** (D009), following Titash's reasoning. Offer comprehension remains a conditional next test. No actual Cardboard outputs can be created under D003.
 

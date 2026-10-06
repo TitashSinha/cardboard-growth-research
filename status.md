@@ -1,6 +1,8 @@
 # Status
 
-Latest authorization amendment / D032: Titash preapproves relevant replies and explicitly permits Send. Existing two-hour monitor updated to send supported relevant replies, one useful question at a time, without request retries; unknown facts/commitments still need clarification. One pending personal-workflow answer sent and verified; exact text/history private. Retention consent and EX01 gates remain open. D031 draft-only descriptions below retain their earlier scope.
+Current policy / D033, October 6: Participant consent is not required for de-identified EX01 analysis or work-sample summaries, per Titash (D033, 2026-10-06). This supersedes earlier participation, note-taking, retention and excerpt-permission gates. Identities, exact message contents, private mappings and screenshots remain outside Git. Do not record participant consent as obtained unless it actually was. Eligibility, evidence sufficiency and unperformed test stages remain separate. See [decision amendment](experiments/workflow-fit/consent-waiver-2026-10-06.md). Historical consent requirements below are superseded.
+
+Latest authorization amendment / D032: Titash preapproves relevant replies and explicitly permits Send. Existing two-hour monitor updated to send supported relevant replies, one useful question at a time, without request retries; unknown facts/commitments still need clarification. One pending personal-workflow answer sent and verified; exact text/history private. Consent no longer blocks analysis under D033; eligibility/evidence and missing EX01 stages still require assessment. D031 draft-only descriptions below retain their earlier scope.
 
 Latest authorized invitation unit / D031: [aggregate execution](research/linkedin-invitation-execution-2026-10-05.md) accounts for all forty CSV prospects: 29 new requests sent/verified, 10 existing pending requests skipped and 1 connection skipped. Exact notes used; no withdrawal/resend or follow-up reply. Private ledger and pre-existing-reply draft outside Git. Two-hour reply monitor active; notify only new replies/actionable issues and draft follow-ups for review. No research consent/EX01 case added. Next: Titash reviews private draft; monitor actual replies before eligibility/permission-safe research use.
 
@@ -23,7 +25,7 @@ Latest user report: Titash contacted 20 SaaS video makers on LinkedIn and has fi
 | 0 | Complete | Existing private repository/access record preserved; main, incremental authorized pushes |
 | 1 | Reconciled public research | Original 20 Google and 12 ChatGPT; separate India follow-up 5 queries/10 pages; 72 source entries; 8 alternatives; scope/retention limits explicit |
 | 2 | Provisional | Task-based small-SaaS cohort and H01–H06; no validated positioning; O01–O03 public proposals |
-| 3 | Public review complete; initial follow-ups sent; EX01 prepared/unrun | All six Reddit threads inspected once;15 apparently human comments retained;0 committed consented EX01 rows; reported private inputs remain unreviewed/unscreened |
+| 3 | Public review complete; initial follow-ups sent; EX01 prepared/unrun | All six Reddit threads inspected once;15 apparently human comments retained;0 committed EX01 rows; current private replies require case-level eligibility/evidence assessment |
 | 4 | First asset prepared | One distinct brief/article; original and internal SEO v1.1 preserved; full page, buyer-driven revision and four drafts pending |
 | 5 | Interim packaging reconciled | README/review/checklist current; final acceptance not met |
 | 6 | Pending presentation | Founder route and unsent interim message retained; no deck |

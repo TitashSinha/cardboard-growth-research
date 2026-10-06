@@ -2,7 +2,7 @@
 
 Template only. Do not count as a response. Keep private identity mapping outside Git.
 
-- Session date / consent version / note, retention and excerpt permission / withdrawal status:
+- Session date / D033 user retention authorization / actual participant-permission status (not obtained unless verified) / removal or withdrawal status:
 - Protocol version / mode (live, written, mixed) / start and end dates or ongoing / collection status:
 - Behavior received date / aid exposure date or not shown / readback confirmed or unconfirmed / missing stages:
 - Role, team context and relevant experience (generalized):
@@ -13,7 +13,7 @@ Template only. Do not count as a response. Keep private identity mapping outside
 - How it was resolved; what remains unresolved:
 - Actual spend/tool-selection behavior; missing or declined details:
 - Repeat-task evidence:
-- Short consented excerpt(s), or permitted paraphrase clearly labeled:
+- De-identified paraphrase clearly labeled; exact message contents remain outside Git:
 - Contradictions and participant corrections to notes:
 - Primary classification and evidence for each criterion:
 - Aid shown after interview? Familiarity/order/priming:
