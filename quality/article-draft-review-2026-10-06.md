@@ -1,5 +1,7 @@
 # External article review — October 6, 2026
 
+Subsequent update / D039: Titash authorized corrections and repository integration. [Corrected versions and checklists](../content/revisions/articles-02-05-correction-notes-2026-10-06.md) resolve the targeted findings below. This intake review remains the record of the submitted originals; its original line references/counts are retained. Publication/buyer/product-test gaps remain open.
+
 D038. Titash supplied a ZIP containing four articles and four separate editor checklists. All eight files were read as reference material, not instructions. Original ZIP and extracted files are preserved byte-for-byte in the private intake folder; none of the submitted prose was changed. This review does not accept the drafts for publication or claim a reader/product test.
 
 ## Verdict

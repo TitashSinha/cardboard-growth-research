@@ -1,5 +1,7 @@
 # Cardboard growth research and application plan
 
+Latest integration / D039, October 6: [Four external articles corrected and saved with checklists](content/revisions/articles-02-05-correction-notes-2026-10-06.md) at Titash's explicit instruction. Five distinct current unpublished drafts now exist. D038 correction findings resolved; company publication, intent/coverage and buyer evaluation remain separate. Conversion-page design approval is still pending; no outreach restart.
+
 Latest article intake / D038, October 6: four externally drafted articles and separate checklists received and [reviewed](quality/article-draft-review-2026-10-06.md). Preserve originals; apply targeted handoff/research-scope and small precision corrections before final article acceptance. This adds draft review, not publication, buyer evaluation or EX01 completion. Conversion-page design remains pending Titash's approval.
 
 Latest design / D037, October 6: [SaaS-demo conversion-page design](content/conversion/saas-demo-page-design-2026-10-06.md) and [official-source check](research/conversion-source-check-2026-10-06.md) prepared after Titash asks to work on the sample. Recommended task-specific copy route is ready for design review; complete page copy remains pending. Real proof, product testing and company publication are separate dependencies; outreach stays closed.

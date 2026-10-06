@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-06: Applied D038 corrections to four supplied articles and integrated them with updated editor checklists (D039), retaining the private originals. Five current distinct unpublished drafts now exist; source/format corrections do not complete buyer evaluation or publication gates. Conversion-page design and EX01 limits remain unchanged.
+
 - 2026-10-05: User preapproved relevant replies and Send (D032); existing two-hour monitor changed from draft-only to supported reply sending. One pending answer verified sent and logged privately. Consent/EX01 boundaries unchanged.
 
 - 2026-10-05: Executed authorized forty-prospect invitation batch (D031): 29 exact-note requests verified, 10 pending/1 connected skipped unchanged. Private ledger/baseline/draft outside Git; active two-hour monitor drafts follow-ups only. No new research consent or EX01 result.

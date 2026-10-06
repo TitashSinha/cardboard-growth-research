@@ -1,5 +1,7 @@
 # Contribution and authorship
 
+October 6 / D039: Titash explicitly authorizes the reviewed corrections, saving in the repository, commit and push. Codex applies the targeted edits to four external drafts, updates their editor checklists/counts, adds repository cross-links and records [revision notes](../content/revisions/articles-02-05-correction-notes-2026-10-06.md). Original files remain privately unchanged. This is editorial revision/integration, not product testing, reader feedback, public publishing or human authorship of every sentence.
+
 October 6 / D038: Titash supplies a ZIP with four external article drafts and checklists for review. The originating tool and its actual browsing history are not independently established. Codex reads all eight files, preserves them privately unchanged with hashes, checks the briefs/style/evidence boundaries, rereads seven primary routes and records targeted corrections. This credits article supply and review only, not Titash's authorship of every sentence, completed product/reader testing or final acceptance.
 
 October 6 / D037: Titash requests work on the conversion-page sample. Codex inspects existing scope/evidence, rereads three official routes, compares task-specific versus pricing-led/broad approaches and prepares the page design/source record for review. Design approval and finished copy are pending; no human endorsement, product test or conversion outcome inferred. Existing artifacts and closed outreach preserved.
