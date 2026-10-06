@@ -10,6 +10,10 @@ Exploratory maker accounts distinguish planning, graphics, animation, correction
 
 The [provisional segment](strategy/positioning.md), [hypotheses](assumptions.md) and [three opportunities](strategy/growth-opportunities.md) support identifying consequential unresolved work before investigating another editor. No demand or product-performance verdict follows.
 
+## Presentation
+
+[Editable deck](presentation/cardboard-growth-work-sample.pptx) · [PDF](presentation/cardboard-growth-work-sample.pdf) · [source/number map](presentation/source-to-number-map.md) · [final acceptance](quality/final-package-acceptance-2026-10-06.md). Ten slides; package/import/layout checks and individual PDF-slide inspection complete.
+
 ## Current deliverables
 
 | Output | Current artifact |

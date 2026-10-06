@@ -1,3 +1,21 @@
+# Delivery status — October 6, 2026
+
+D042: Independent work-sample package complete with explicit deviations. [Final acceptance](quality/final-package-acceptance-2026-10-06.md); [deck/PDF/source map](presentation/README.md). Five briefs/drafts, conversion copy, exploratory aid, prospective backlog, measurement and final unsent pitch saved. Deck validation and all-slide PDF review complete. EX01 remains stopped/partial; outreach remains closed. Next business step is separately authorized founder handoff with usable access.
+
+| Phase | Final disposition |
+|---|---|
+| 0–1 | Setup/research inventory complete; sampling limits preserved |
+| 2 | Provisional segment/hypotheses and priorities documented |
+| 3 | Collection closed with exploratory evidence; formal execution deviation |
+| 4 | Five drafts/briefs, reply-informed revision, page copy and untested aid complete |
+| 5 | Independent repository package reviewed/accepted with deviations |
+| 6 | Editable deck/PDF/number map and unsent pitch complete |
+| 7 | Future authorized company handoff; no sending, publishing or live outcomes |
+
+## Preserved dated history
+
+Earlier interim descriptions below are superseded for completed artifacts, not for missing research stages.
+
 # Current status — October 6
 
 D041 / checkpoint 2: Independent repository outputs complete and reviewed: five drafts/briefs, conversion copy, exploratory aid, prospective backlog, AAARRR measurement and final unsent pitch. [Repository review](quality/final-repository-review-2026-10-06.md), [editorial review](quality/final-editorial-review-2026-10-06.md). EX01 stopped/partial. Next: deck, PDF, visual review and final push.

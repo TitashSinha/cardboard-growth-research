@@ -19,8 +19,8 @@ October 6, 2026 / D040. Titash requests completion without further pauses and ch
 
 ## Checkpoint 3 — Presentation and delivery
 
-- [ ] Create an editable evidence-based deck using the bundled presentation runtime, with slide notes and a source-to-number map.
-- [ ] Validate the PPTX, render all slides, inspect the visuals and export a PDF.
-- [ ] Record final package acceptance and completion deviations; push and confirm a clean tree with HEAD matching origin/main.
+- [x] Create an editable evidence-based deck using the bundled presentation runtime, with slide notes and a source-to-number map.
+- [x] Validate the PPTX, render all slides, inspect the visuals and export a PDF.
+- [x] Record final package acceptance and completion deviations; push and confirm a clean tree with HEAD matching origin/main.
 
 Completion means the contracted independent artifacts are assembled and checked. EX01 eligibility, participant aid tasks/readbacks, product proof and company growth results cannot be retrospectively completed by drafting. Preserve those deviations visibly rather than checking unachieved research gates. Public publishing and founder sending remain outside this request.

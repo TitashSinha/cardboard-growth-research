@@ -7,8 +7,8 @@ D040/D041 complete artifacts with disclosed deviations. Historical unexecuted re
 - [x] Actual reply-informed article revision and exploratory aid v2; absent aid feedback explicit.
 - [x] Detailed prioritized EX02–EX06 backlog and measurement contracts; proposed, not run.
 - [x] Curated README/manifest/counts, refreshed route, final unsent pitch and [repository review](final-repository-review-2026-10-06.md).
-- [ ] Editable deck, sourced numbers, validated package and all-slide visual review.
-- [ ] Final acceptance receipt and clean pushed state.
+- [x] Editable deck, sourced numbers, validated package and all-slide visual review; [receipt](final-package-acceptance-2026-10-06.md).
+- [x] Final acceptance receipt and verified checkpoint pushes/clean state.
 
 Deviations: EX01 screening/aid/readbacks/verdict, respondent testing, genuine product output and company release/metrics remain unavailable. Independent artifact acceptance does not establish formal validation or publication readiness.
 

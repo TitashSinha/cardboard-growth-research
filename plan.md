@@ -1,3 +1,9 @@
+# Final delivery disposition — October 6
+
+D042 completes the independent artifact package under D040, with [final acceptance/deviations](quality/final-package-acceptance-2026-10-06.md). All three [completion checkpoints](quality/completion-plan-2026-10-06.md) are completed. Original formal EX01 stages were not executed and remain explicit deviations, not retroactively checked gates. Phase 7 is a future business action requiring separate authorization/access.
+
+## Preserved plan and scope
+
 # Cardboard growth research and application plan
 
 Completion directive / D040, October 6: Titash authorizes the remaining local work without further pauses, including the D037 conversion direction. [Checkpoint plan](quality/completion-plan-2026-10-06.md) controls final asset/repository/deck delivery. Copy and prospective backlog now prepared; original EX01 gaps and future company release dependencies remain explicit. No new outreach, product access or public sending/publishing is authorized.

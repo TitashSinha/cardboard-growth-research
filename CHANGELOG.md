@@ -1,3 +1,13 @@
+# October 6, 2026 — Independent package delivery
+
+- Completed conversion copy/rationale, exploratory aid v2 and five-test prospective backlog.
+- Corrected/integrated five current article drafts; reconciled manifests, inventories and final reviews.
+- Preserved partial EX01 status and missing formal stages; actual exploratory replies informed article revision.
+- Added ten-slide editable deck, PDF, source/number map and final acceptance; refreshed founder route and final unsent pitch.
+- Checkpoint commits pushed; no publishing, founder sending or outreach restart.
+
+## Earlier milestones
+
 # Changelog
 
 - 2026-10-06: Applied D038 corrections to four supplied articles and integrated them with updated editor checklists (D039), retaining the private originals. Five current distinct unpublished drafts now exist; source/format corrections do not complete buyer evaluation or publication gates. Conversion-page design and EX01 limits remain unchanged.
