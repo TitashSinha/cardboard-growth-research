@@ -1,6 +1,10 @@
 # Acceptance checklist
 
-Updated 2026-10-05. Checked items prove only their stated scope; preparation is not experiment execution.
+Current update / October 6, D033–D035: Outreach closed; generalized reply analysis authorized without participant-consent requests. EX01 remains partial because eligibility/aid/readback requirements were not completed. Historical participation/consent wording below is superseded; it does not negate usable exploratory replies.
+
+- [x] Actual exploratory maker replies → [first-article v1.2](../content/revisions/01-workflow-switch-evidence-v1.2.md) → [documented editorial reasoning](../content/revisions/01-workflow-switch-v1.2-notes.md). One distinct article; earlier versions retained. This does not complete screened-cohort testing, decision-aid v2, respondent article review or publication gates.
+
+Updated 2026-10-06. Checked items prove only their stated scope; preparation is not experiment execution.
 
 - [x] Phase 0: existing private repository, [access readiness](../research/access-readiness.md), decisions/logs and pushed history.
 - [x] Phase 1: public baseline and audits exist; [sampling/retention gaps](../research/collection-method.md) explicit; [derived inventory](../research/evidence-summary.json) reconciled.
@@ -16,11 +20,11 @@ Updated 2026-10-05. Checked items prove only their stated scope; preparation is 
 - [x] User-approved [public questions](../research/reddit-publication-record.md) published with verified readback; community rules critically checked and Monday read-only review scheduled.
 - [x] [October 4 tracker](../research/reddit-tracker-update-2026-10-04.md) registers six unique posts, resolves community URL and preserves moderation states; manual human publication credited separately.
 - [x] [Monday public-reply review](../research/reddit-reply-review-2026-10-05.md) retained all six inspected threads, reproducible visible counts, original favored-reply provenance and critical interpretation; seven badge-gap comments unavailable, not a full census. Public comments remain separate from EX01; one-time automation retired.
-- [ ] [Initial contact authorized and executed](../research/reddit-initial-followups-2026-10-05.md) for exact retained-replier pool/Reddit opener (11 verified); this combined gate remains open because participation/retention consent and eligible main-cohort evidence are missing.
-- [ ] EX01 actually executed and analyzed with counts, contradictions, eligibility/familiarity and limitations. Current usable responses: zero.
+- [x] Initial contact authorized and executed under its stated scope; [Reddit batch](../research/reddit-initial-followups-2026-10-05.md) and later LinkedIn execution preserved. D034 closes outreach; D033 removes the earlier participant-consent gate for de-identified analysis. These actions do not verify main-cohort eligibility.
+- [ ] EX01 fully executed and analyzed under the frozen protocol. [Exploratory evidence collected](../experiments/workflow-fit/collection-closeout-2026-10-06.md); zero fully verified main cases, decision-aid tasks or protocol readbacks. Threshold rule not applied.
 - [x] Titash interpreted the actual public snapshot and requested a query-specific independent check (T08/D022); [counterexample retained](../research/google-followup-review-2026-10-05.md). This demonstrates a public-result judgment/verification request; participant moderation or eligible EX01 case interpretation remains unperformed.
 - [x] Initial [before asset](../experiments/workflow-fit/materials/decision-aid-v1.md) preserved and labeled prototype.
-- [ ] Feedback → v2 → documented reasoning; [revision record](../experiments/workflow-fit/revision-log.md) currently states pending.
+- [ ] Participant aid feedback → decision-aid v2 → documented reasoning; [revision record](../experiments/workflow-fit/revision-log.md). Article v1.2 is revised from exploratory replies; the aid evaluation/revision gate remains open.
 - [x] First priority [brief](../content/briefs/01-workflow-switch.md) and [article v1](../content/blogs/01-workflow-switch.md) prepared before remaining four.
 - [x] [SEO/GEO editorial gates](seo-geo-editorial-gates.md) prepared; first brief labels primary/supporting query hypotheses and retained observation limits; original and [internal SEO v1.1](../content/revisions/01-workflow-switch-seo-v1.1.md) distinguished.
 - [ ] Each final article meets SEO/GEO editorial gates, verified intent/overlap and source/buyer review. Company publication and public visibility are separate future dependencies, excluded from independent completion.

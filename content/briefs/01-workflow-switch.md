@@ -1,5 +1,7 @@
 # First priority brief — evaluate the existing workflow
 
+Latest revision / October 6, D035: [reply-informed article v1.2](../revisions/01-workflow-switch-evidence-v1.2.md) and [change reasoning](../revisions/01-workflow-switch-v1.2-notes.md). Actual exploratory maker replies now inform stage diagnosis, editability, motion control and whole-project correction criteria. Preserve the same primary query hypothesis, guide intent and first-asset count. Original brief history below remains intact; respondent review, exact-query intent/overlap checks and publication readiness are still open. EX01 remains partial; no tested decision-aid revision.
+
 Prepared 2026-10-03; D009/H03. Initial brief; buyer feedback pending. This is the first priority asset. Remaining four briefs are deferred until actual feedback.
 
 - Audience: provisional small SaaS marketing cohort with a recently completed feature/launch video; not a validated customer segment.

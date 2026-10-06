@@ -1,5 +1,7 @@
 # Status
 
+Latest asset unit / D035, October 6: [first-article v1.2](content/revisions/01-workflow-switch-evidence-v1.2.md) revises the guide using actual exploratory maker replies. [Change reasoning](content/revisions/01-workflow-switch-v1.2-notes.md) records stage diagnosis, editability, motion control and correction criteria; three official routes narrowly reread. Original v1/internal SEO v1.1 and EX01 materials preserved. One distinct article, unpublished; no eligible-cohort result, aid test, product performance or content effect. Next independent deliverable: conversion proof-page sample. Outreach remains closed.
+
 Latest unit / D034, October 6: Final LinkedIn/Reddit check and outreach closure complete. Seven LinkedIn and three Reddit closing messages sent and verified; two-hour monitor deleted. Private evidence audit covers 14 LinkedIn reply accounts, eight Reddit chat accounts and two public follow-up threads, without treating these as eligible buyer counts. [EX01 closeout](experiments/workflow-fit/collection-closeout-2026-10-06.md): stopped with partial exploratory evidence; zero fully verified main cases, aid tasks or protocol readbacks. No five-case threshold verdict or validated demand. One post-closure personal question left to Titash. Next: use bounded findings for analysis/packaging; no further outreach or automatic checks. Older active-monitor and consent-gated next steps below retain their historical scope and are superseded by D033/D034.
 
 Current policy / D033, October 6: Participant consent is not required for de-identified EX01 analysis or work-sample summaries, per Titash (D033, 2026-10-06). This supersedes earlier participation, note-taking, retention and excerpt-permission gates. Identities, exact message contents, private mappings and screenshots remain outside Git. Do not record participant consent as obtained unless it actually was. Eligibility, evidence sufficiency and unperformed test stages remain separate. See [decision amendment](experiments/workflow-fit/consent-waiver-2026-10-06.md). Historical consent requirements below are superseded.
@@ -28,7 +30,7 @@ Latest user report: Titash contacted 20 SaaS video makers on LinkedIn and has fi
 | 1 | Reconciled public research | Original 20 Google and 12 ChatGPT; separate India follow-up 5 queries/10 pages; 72 source entries; 8 alternatives; scope/retention limits explicit |
 | 2 | Provisional | Task-based small-SaaS cohort and H01–H06; no validated positioning; O01–O03 public proposals |
 | 3 | Outreach closed; EX01 stopped with partial exploratory evidence | Public review preserved; private LinkedIn/Reddit replies assessed; zero fully verified main cases/aid tasks/readbacks; threshold rule not applied; monitor deleted |
-| 4 | First asset prepared | One distinct brief/article; original and internal SEO v1.1 preserved; full page, buyer-driven revision and four drafts pending |
+| 4 | First article revised from exploratory replies | One distinct article; v1/internal SEO v1.1 preserved; reply-informed v1.2 documented. Full conversion page, respondent/intent review and four distinct drafts pending; aid v2 unperformed |
 | 5 | Interim packaging reconciled | README/review/checklist current; final acceptance not met |
 | 6 | Pending presentation | Founder route and unsent interim message retained; no deck |
 
