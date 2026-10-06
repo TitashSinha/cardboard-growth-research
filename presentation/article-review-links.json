@@ -1,0 +1,143 @@
+{
+  "created_date": "2026-10-06",
+  "status": "Private review drafts; awaiting Titash review",
+  "folder_url": "https://drive.google.com/drive/folders/1_1g-hLL_sCaJtNO0Bc9GyzBKbrz6bEt6",
+  "sync_policy": "Google Docs edits are not automatically applied to repo sources; reconcile after Titash review.",
+  "internal_links": "Article-to-project references retain labels and paths as plain text; approved external destinations remain a publication dependency.",
+  "articles": [
+    {
+      "article": 1,
+      "title": "Cardboard — Article 1 — How to choose a video editor for SaaS product demos — REVIEW DRAFT",
+      "source": "content/revisions/01-workflow-switch-evidence-v1.2.md",
+      "source_version": "v1.2",
+      "url": "https://docs.google.com/document/d/1AMuUosAWKAkylGIpsriJNStMt4_NYPWI8olNWKBV3iQ",
+      "mime_type": "application/vnd.google-apps.document",
+      "shared": false,
+      "verification": {
+        "article": 1,
+        "fullTextMatches": true,
+        "editorialNotes": 1,
+        "headings": 7,
+        "tables": [
+          [
+            5,
+            2
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        "lists": 0,
+        "dateChips": 1,
+        "peopleChips": 1,
+        "expectedChars": 5937,
+        "actualChars": 5937
+      }
+    },
+    {
+      "article": 2,
+      "title": "Cardboard — Article 2 — SaaS product demo QA: check the interface, captions and sequence before publishing — REVIEW DRAFT",
+      "source": "content/blogs/02-saas-product-demo-quality-checklist.md",
+      "source_version": "v1.1",
+      "url": "https://docs.google.com/document/d/1Z_QL5LdynE3Cktnh1QFWp9UVwOIAx_U03dZLJixB-1Y",
+      "mime_type": "application/vnd.google-apps.document",
+      "shared": false,
+      "verification": {
+        "article": 2,
+        "fullTextMatches": true,
+        "editorialNotes": 1,
+        "headings": 7,
+        "tables": [
+          [
+            2,
+            5
+          ]
+        ],
+        "lists": 12,
+        "dateChips": 2,
+        "peopleChips": 1,
+        "expectedChars": 4482,
+        "actualChars": 4482
+      }
+    },
+    {
+      "article": 3,
+      "title": "Cardboard — Article 3 — AI-generated clips to an editable SaaS video: plan the handoff — REVIEW DRAFT",
+      "source": "content/blogs/03-ai-generated-video-editable-handoff.md",
+      "source_version": "v1.1",
+      "url": "https://docs.google.com/document/d/1U1H--9SaYtYzvI2UxBFUYwogiYmsKp4AMN4J9IqbQm8",
+      "mime_type": "application/vnd.google-apps.document",
+      "shared": false,
+      "verification": {
+        "article": 3,
+        "fullTextMatches": true,
+        "editorialNotes": 1,
+        "headings": 7,
+        "tables": [
+          [
+            7,
+            6
+          ]
+        ],
+        "lists": 8,
+        "dateChips": 2,
+        "peopleChips": 1,
+        "expectedChars": 4686,
+        "actualChars": 4686
+      }
+    },
+    {
+      "article": 4,
+      "title": "Cardboard — Article 4 — Cardboard vs Descript for a narrated SaaS demo: what to verify — REVIEW DRAFT",
+      "source": "content/blogs/04-cardboard-vs-descript-saas-demo.md",
+      "source_version": "v1.1",
+      "url": "https://docs.google.com/document/d/1-U1Y3LxLG73jil9CZNbhreOEivLpcksQ7ruwC8ccvTg",
+      "mime_type": "application/vnd.google-apps.document",
+      "shared": false,
+      "verification": {
+        "article": 4,
+        "fullTextMatches": true,
+        "editorialNotes": 1,
+        "headings": 7,
+        "tables": [
+          [
+            7,
+            4
+          ]
+        ],
+        "lists": 5,
+        "dateChips": 2,
+        "peopleChips": 1,
+        "expectedChars": 5089,
+        "actualChars": 5089
+      }
+    },
+    {
+      "article": 5,
+      "title": "Cardboard — Article 5 — Turn a SaaS product demo into a LinkedIn video without losing the explanation — REVIEW DRAFT",
+      "source": "content/blogs/05-repurpose-saas-product-demo-linkedin.md",
+      "source_version": "v1.1",
+      "url": "https://docs.google.com/document/d/1_7AU1JovwtEfPoyOi4N03gmLt8w3-a6HeoNQEUw6zoM",
+      "mime_type": "application/vnd.google-apps.document",
+      "shared": false,
+      "verification": {
+        "article": 5,
+        "fullTextMatches": true,
+        "editorialNotes": 1,
+        "headings": 7,
+        "tables": [
+          [
+            5,
+            3
+          ]
+        ],
+        "lists": 0,
+        "dateChips": 2,
+        "peopleChips": 1,
+        "expectedChars": 4096,
+        "actualChars": 4096
+      }
+    }
+  ]
+}

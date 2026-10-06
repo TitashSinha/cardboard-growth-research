@@ -1,3 +1,7 @@
+# Article review / D048, October 6
+
+Five private native [Google Docs review copies](presentation/article-review-links.md) created from the current five article drafts, with complete text/structure verified. They await Titash's review; Google Docs edits require later reconciliation into the repo. Titash selects a self-contained scrolling HTML story with a section menu; [design](docs/superpowers/specs/2026-10-06-browser-story-design.md) and [plan](docs/superpowers/plans/2026-10-06-browser-story.md) saved. First local HTML version prepared; final browser/content checks pending. PPT/PDF and source articles preserved. No founder sending, external sharing or hosting.
+
 # Current interpretation / D043, October 6
 
 Actual replies are the evidence basis. [Conversation findings](experiments/workflow-fit/reply-evidence-summary-2026-10-06.md) support completed workflow learning and the content decisions. The unused worksheet is not a requirement for counting useful evidence. Preserve the original structured test as unexecuted history, with unanswered switching/awareness/product questions stated individually. Collection remains closed; no demand or product-performance result invented.
