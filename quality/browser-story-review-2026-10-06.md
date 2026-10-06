@@ -1,5 +1,7 @@
 # Browser-story review — October 6
 
+D050 correction: removed the quoted personal CapCut/transition introduction. Titash clarifies the SaaS-editing transition was outreach framing, not his career direction. The app section now introduces task-based observation without a career claim. Source map corrected; no layout/behaviour or article/Doc change.
+
 ## Accepted local artifact
 
 [Standalone HTML](../presentation/cardboard-growth-story.html): scrolling question-based story approved by Titash; inline CSS/JS, system fonts, no installation/build/network dependency for the presentation itself. The PPT/PDF and current source articles remain unchanged.

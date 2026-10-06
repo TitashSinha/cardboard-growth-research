@@ -1,3 +1,7 @@
+# October 6 — Correct personal framing / D050
+
+Removed the SaaS-editing transition sentence from the browser presentation and corrected its source map after Titash clarified it was outreach framing, not his career direction. Preserve actual outreach history; do not reuse that framing as biography. No article, Google Doc, outreach or product-access change.
+
 # October 6 — Standalone browser story and article review Docs / D048–D049
 
 Created five private native Google Docs from the current article sources; full text, tables, lists, metadata and editorial notes verified after conversion repairs. Added a self-contained scrolling HTML presentation with simple question headings, actual-reply learning, bounded discovery findings, all five feature proposals, the conditional pricing experiment and proposed app checks. Embedded the existing conversion-copy sample and linked each article Doc. Offline Chromium/Edge, desktop/mobile, navigation, disclosures, print CSS and JavaScript-disabled reading checked. Original articles/PPT/PDF preserved. Article review and founder view access remain pending; no sending, sharing change or hosting.

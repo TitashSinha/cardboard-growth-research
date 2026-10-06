@@ -1,5 +1,7 @@
 # Browser story / D049, October 6
 
+D050 correction: Titash's SaaS-editing transition statement was outreach framing, not his actual career direction. Removed it from the HTML's app-access introduction and corrected the source map. Proposed product checks remain; no personal editing/career experience is inferred from that framing. Historical outreach records preserved and collection remains closed.
+
 [Self-contained HTML presentation](presentation/cardboard-growth-story.html) complete for Titash's review, with simple question sections, five Doc links, embedded conversion-copy sample, all five feature ideas, conditional pricing and proposed hands-on checks. [Browser/content review](quality/browser-story-review-2026-10-06.md) verifies actual file opening offline in Chromium/Edge, desktop/mobile layout, navigation, native disclosures and JavaScript-disabled reading. [Source map](presentation/html-story-source-map.md) retains factual/proposal boundaries. Five Docs remain private and await review; later edits need repository reconciliation and founder access must be configured before sending. Original articles/PPT/PDF preserved; no sending or hosting.
 
 # Article review / D048, October 6
