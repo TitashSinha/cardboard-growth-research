@@ -1,5 +1,7 @@
 # SaaS-demo conversion page — proposed design
 
+October 6 / D040 update: Titash's complete-without-pauses instruction approves this direction. [Copy sample](saas-demo-evaluation-page-v1.md) and [rationale](saas-demo-evaluation-page-notes.md) are now prepared. The original design-stage pending statements below are historical; no buyer/product test is inferred.
+
 October 6, 2026 / D037. Reviewable design for one unpublished copy sample, awaiting Titash's approval. Not a finished page, Cardboard-approved positioning, product output or completed experiment. Preserve the [existing offer block](offer-explanation-v1.md); do not overwrite it.
 
 ## Reader, decision and scope

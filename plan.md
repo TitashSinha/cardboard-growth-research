@@ -1,5 +1,7 @@
 # Cardboard growth research and application plan
 
+Completion directive / D040, October 6: Titash authorizes the remaining local work without further pauses, including the D037 conversion direction. [Checkpoint plan](quality/completion-plan-2026-10-06.md) controls final asset/repository/deck delivery. Copy and prospective backlog now prepared; original EX01 gaps and future company release dependencies remain explicit. No new outreach, product access or public sending/publishing is authorized.
+
 Latest integration / D039, October 6: [Four external articles corrected and saved with checklists](content/revisions/articles-02-05-correction-notes-2026-10-06.md) at Titash's explicit instruction. Five distinct current unpublished drafts now exist. D038 correction findings resolved; company publication, intent/coverage and buyer evaluation remain separate. Conversion-page design approval is still pending; no outreach restart.
 
 Latest article intake / D038, October 6: four externally drafted articles and separate checklists received and [reviewed](quality/article-draft-review-2026-10-06.md). Preserve originals; apply targeted handoff/research-scope and small precision corrections before final article acceptance. This adds draft review, not publication, buyer evaluation or EX01 completion. Conversion-page design remains pending Titash's approval.
