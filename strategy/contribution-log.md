@@ -1,5 +1,7 @@
 # Contribution and authorship
 
+October 6 / D038: Titash supplies a ZIP with four external article drafts and checklists for review. The originating tool and its actual browsing history are not independently established. Codex reads all eight files, preserves them privately unchanged with hashes, checks the briefs/style/evidence boundaries, rereads seven primary routes and records targeted corrections. This credits article supply and review only, not Titash's authorship of every sentence, completed product/reader testing or final acceptance.
+
 October 6 / D037: Titash requests work on the conversion-page sample. Codex inspects existing scope/evidence, rereads three official routes, compares task-specific versus pricing-led/broad approaches and prepares the page design/source record for review. Design approval and finished copy are pending; no human endorsement, product test or conversion outcome inferred. Existing artifacts and closed outreach preserved.
 
 October 5 / D031: Titash supplies invitation/monitoring authorization and learning framing, reports CapCut use and reserves personal-reply approval. Codex checks forty profiles, sends/verifies 29 exact notes, skips eleven existing states, maintains private operational evidence and configures two-hour draft-only reply checks. One pre-existing reply baselined with an unsent draft. Invitation execution is not human interview moderation, consented workflow analysis or validated demand.

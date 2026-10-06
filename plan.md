@@ -1,5 +1,7 @@
 # Cardboard growth research and application plan
 
+Latest article intake / D038, October 6: four externally drafted articles and separate checklists received and [reviewed](quality/article-draft-review-2026-10-06.md). Preserve originals; apply targeted handoff/research-scope and small precision corrections before final article acceptance. This adds draft review, not publication, buyer evaluation or EX01 completion. Conversion-page design remains pending Titash's approval.
+
 Latest design / D037, October 6: [SaaS-demo conversion-page design](content/conversion/saas-demo-page-design-2026-10-06.md) and [official-source check](research/conversion-source-check-2026-10-06.md) prepared after Titash asks to work on the sample. Recommended task-specific copy route is ready for design review; complete page copy remains pending. Real proof, product testing and company publication are separate dependencies; outreach stays closed.
 
 Latest handoff / D036, October 6: Titash will draft the remaining four articles using another AI. [Self-contained briefs and source pack](content/briefs/remaining-four-articles-handoff-2026-10-06.md) define distinct tasks and review limits, with v1.2 as formatting/tone reference. External drafts still require evidence/overlap review; four finished drafts are not claimed. Conversion proof-page sample remains an independent open deliverable.
