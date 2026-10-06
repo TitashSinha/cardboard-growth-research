@@ -17,18 +17,18 @@
 
 ## Task 1 — Article review copies
 
-- [ ] Import all five existing drafts into private native Docs; verify complete body text, tables, lists, source links, metadata and editorial notes. Repair conversion omissions using fresh document indexes.
-- [ ] Save canonical URLs and source versions in `presentation/article-review-links.json`; expose the links through a readable `presentation/article-review-links.md`.
-- [ ] Check metadata for native MIME type and private state; commit/push this checkpoint with decision/status records.
+- [x] Import all five existing drafts into private native Docs; verify complete body text, tables, lists, source links, metadata and editorial notes. Repair conversion omissions using fresh document indexes.
+- [x] Save canonical URLs and source versions in `presentation/article-review-links.json`; expose the links through a readable `presentation/article-review-links.md`.
+- [x] Check metadata for native MIME type and private state; commit/push this checkpoint with decision/status records. Checkpoint `8ce11e7`.
 
 ## Task 2 — Standalone story
 
-- [ ] Write `presentation/cardboard-growth-story.html` to the approved question-based outline; embed the existing conversion-copy sample with clear illustrative status.
-- [ ] Add anchor navigation, native disclosures, optional active-section/progress enhancement, responsive styles, visible focus, reduced-motion and print rules. Core content must not depend on JavaScript.
-- [ ] Save `presentation/html-story-source-map.md` mapping findings and proposals to existing dated project sources. Add the HTML entry to the repository/presentation navigation.
+- [x] Write `presentation/cardboard-growth-story.html` to the approved question-based outline; embed the existing conversion-copy sample with clear illustrative status.
+- [x] Add anchor navigation, native disclosures, optional active-section/progress enhancement, responsive styles, visible focus, reduced-motion and print rules. Core content must not depend on JavaScript.
+- [x] Save `presentation/html-story-source-map.md` mapping findings and proposals to existing dated project sources. Add the HTML entry to the repository/presentation navigation.
 
 ## Task 3 — Verification and delivery
 
-- [ ] Inspect desktop/mobile and exercise menu links, disclosures, focus and print styling. Load the actual file without networking; confirm no external resource request or JavaScript error. Recheck with JavaScript disabled.
-- [ ] Run `git diff --check`; check the five canonical Doc links against the manifest; review simple language and unsupported-claim boundaries.
-- [ ] Record results in `quality/browser-story-review-2026-10-06.md`, commit/push explicit paths and confirm `git status --short` is empty and `git rev-parse HEAD origin/main` matches.
+- [x] Inspect desktop/mobile and exercise menu links, disclosures, focus and print styling. Load the actual file without networking; confirm no external resource request or JavaScript error. Recheck with JavaScript disabled.
+- [x] Run `git diff --check`; check the five canonical Doc links against the manifest; review simple language and unsupported-claim boundaries.
+- [x] Record results in `quality/browser-story-review-2026-10-06.md`. Final integration uses explicit-path commit/push; successful push and clean matching `HEAD`/`origin/main` are verified in the Git/session handoff rather than embedding a self-referential commit hash in this plan.

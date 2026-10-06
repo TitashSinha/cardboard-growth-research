@@ -1,3 +1,7 @@
+# Browser presentation / October 6
+
+[Open the single-file story](cardboard-growth-story.html) by downloading it and opening it in a modern browser. It includes question-based sections, simple copy, five article-review Doc links, the conversion copy sample, five feature proposals, the conditional pricing idea and proposed app checks. Presentation content works offline; external links need internet and permissions. [Five review Docs](article-review-links.md), [source map](html-story-source-map.md), [verification](../quality/browser-story-review-2026-10-06.md). Titash's review/founder view access remain pending. No founder sending or hosting. The deck below is preserved as a backup.
+
 # Current deck / v1.1, D043
 
 Slide 5 now reports findings from the actual replies. It removes the misleading zero-case/worksheet emphasis. Original v1 files remain preserved as historical artifacts. [Current evidence basis](../experiments/workflow-fit/reply-evidence-summary-2026-10-06.md).

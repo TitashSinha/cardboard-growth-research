@@ -30,11 +30,17 @@
   ],
   "conversion_page": "content/conversion/saas-demo-evaluation-page-v1.md",
   "conversion_rationale": "content/conversion/saas-demo-evaluation-page-notes.md",
+  "browser_presentation": "presentation/cardboard-growth-story.html",
+  "browser_claim_map": "presentation/html-story-source-map.md",
+  "article_review_links": "presentation/article-review-links.json",
+  "browser_review": "quality/browser-story-review-2026-10-06.md",
   "backlog": "strategy/experiment-backlog.md",
   "current_aid": "experiments/workflow-fit/materials/decision-aid-v2-exploratory.md",
   "limits": [
     "Five article briefs are represented in two documents; a third brief document records shared public-evidence decisions.",
     "Historical article versions are not additional articles.",
-    "Aid v2 is exploratory and untested; EX01 remains stopped/partial."
+    "Aid v2 is exploratory and untested; EX01 remains stopped/partial.",
+    "Google Docs are private review copies of the same five articles; later edits require repository reconciliation and are not additional article tasks.",
+    "Browser presentation is a local review artifact; article review, reader access and founder delivery remain pending."
   ]
 }

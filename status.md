@@ -1,3 +1,7 @@
+# Browser story / D049, October 6
+
+[Self-contained HTML presentation](presentation/cardboard-growth-story.html) complete for Titash's review, with simple question sections, five Doc links, embedded conversion-copy sample, all five feature ideas, conditional pricing and proposed hands-on checks. [Browser/content review](quality/browser-story-review-2026-10-06.md) verifies actual file opening offline in Chromium/Edge, desktop/mobile layout, navigation, native disclosures and JavaScript-disabled reading. [Source map](presentation/html-story-source-map.md) retains factual/proposal boundaries. Five Docs remain private and await review; later edits need repository reconciliation and founder access must be configured before sending. Original articles/PPT/PDF preserved; no sending or hosting.
+
 # Article review / D048, October 6
 
 Five private native [Google Docs review copies](presentation/article-review-links.md) created from the current five article drafts, with complete text/structure verified. They await Titash's review; Google Docs edits require later reconciliation into the repo. Titash selects a self-contained scrolling HTML story with a section menu; [design](docs/superpowers/specs/2026-10-06-browser-story-design.md) and [plan](docs/superpowers/plans/2026-10-06-browser-story.md) saved. First local HTML version prepared; final browser/content checks pending. PPT/PDF and source articles preserved. No founder sending, external sharing or hosting.

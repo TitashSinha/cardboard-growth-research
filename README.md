@@ -12,6 +12,8 @@ The [provisional segment](strategy/positioning.md), [hypotheses](assumptions.md)
 
 ## Presentation
 
+[Standalone browser story](presentation/cardboard-growth-story.html) — one HTML file, no installation; simple question headings, actual-reply learning, usable assets and proposals. [Five separate Google Docs for Titash's article review](presentation/article-review-links.md). Full source text/structure and offline desktop/mobile browser behaviour checked; review and intended-reader view access remain pending. [Claim map](presentation/html-story-source-map.md), [verification](quality/browser-story-review-2026-10-06.md). No presentation sent or hosted.
+
 [Editable deck](presentation/cardboard-growth-work-sample-v1.1.pptx) · [PDF](presentation/cardboard-growth-work-sample-v1.1.pdf) · [source/number map](presentation/source-to-number-map.md) · [final acceptance](quality/final-package-acceptance-2026-10-06.md). Ten slides; package/import/layout checks and individual PDF-slide inspection complete.
 
 ## Current deliverables

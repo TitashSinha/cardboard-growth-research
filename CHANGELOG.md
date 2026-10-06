@@ -1,3 +1,7 @@
+# October 6 — Standalone browser story and article review Docs / D048–D049
+
+Created five private native Google Docs from the current article sources; full text, tables, lists, metadata and editorial notes verified after conversion repairs. Added a self-contained scrolling HTML presentation with simple question headings, actual-reply learning, bounded discovery findings, all five feature proposals, the conditional pricing experiment and proposed app checks. Embedded the existing conversion-copy sample and linked each article Doc. Offline Chromium/Edge, desktop/mobile, navigation, disclosures, print CSS and JavaScript-disabled reading checked. Original articles/PPT/PDF preserved. Article review and founder view access remain pending; no sending, sharing change or hosting.
+
 # October 6 — Reply-based evidence reporting correction / D043
 
 Actual replies now lead EX01 reporting. Added findings/decision/unknown synthesis, corrected slide 5 and current package summaries, retained original method/deck history, validated and rendered v1.1. No worksheet required for usable conversation evidence, no fabricated formal result and no outreach restart.
