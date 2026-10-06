@@ -1,5 +1,7 @@
 # Cardboard growth research and application plan
 
+Latest handoff / D036, October 6: Titash will draft the remaining four articles using another AI. [Self-contained briefs and source pack](content/briefs/remaining-four-articles-handoff-2026-10-06.md) define distinct tasks and review limits, with v1.2 as formatting/tone reference. External drafts still require evidence/overlap review; four finished drafts are not claimed. Conversion proof-page sample remains an independent open deliverable.
+
 Latest asset / D035, October 6: [reply-informed first-article revision](content/revisions/01-workflow-switch-evidence-v1.2.md) and [reasoning](content/revisions/01-workflow-switch-v1.2-notes.md) use the collected workflow evidence within D034's limits. It remains one unpublished article, with respondent/intent review open. Next: conversion proof-page sample, then reassess remaining distinct topics. Aid v1.1 and the incomplete EX01 protocol remain unchanged; no new outreach.
 
 Current collection state / D034, October 6: Titash requested a final reply check and outreach closure. The monitor is deleted; active conversations were closed, with no further discovery. [EX01 closeout](experiments/workflow-fit/collection-closeout-2026-10-06.md) records useful exploratory learning and missing screening, aid and readback stages. Original five-case test incomplete; no threshold verdict. Prior collection/monitor steps below remain historical or conditional and are not authorization to restart outreach.

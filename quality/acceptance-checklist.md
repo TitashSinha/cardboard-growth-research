@@ -3,6 +3,7 @@
 Current update / October 6, D033–D035: Outreach closed; generalized reply analysis authorized without participant-consent requests. EX01 remains partial because eligibility/aid/readback requirements were not completed. Historical participation/consent wording below is superseded; it does not negate usable exploratory replies.
 
 - [x] Actual exploratory maker replies → [first-article v1.2](../content/revisions/01-workflow-switch-evidence-v1.2.md) → [documented editorial reasoning](../content/revisions/01-workflow-switch-v1.2-notes.md). One distinct article; earlier versions retained. This does not complete screened-cohort testing, decision-aid v2, respondent article review or publication gates.
+- [x] [Four provisional task-specific drafting briefs and self-contained source handoff](../content/briefs/remaining-four-articles-handoff-2026-10-06.md) prepared for Titash's external AI tool under D036. Remaining drafts, exact-query intent/overlap and final article acceptance remain open.
 
 Updated 2026-10-06. Checked items prove only their stated scope; preparation is not experiment execution.
 
