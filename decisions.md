@@ -347,3 +347,7 @@ Titash challenges treating an unused worksheet as a prerequisite for useful evid
 - Action: remove the entire CapCut/transition sentence from the presentation and correct its source map. Describe proposed hands-on checks through a real task and observed friction, without inventing a career path or editing experience. This correction supersedes any earlier inference that the outreach transition framing was biographical evidence.
 - Preserve provenance: earlier notes and sent messages remain records of what was said, not proof that the framing was true. Do not rewrite exact outreach history, infer a different biography, or reuse this framing as a factual personal answer. The authentic workflow replies remain evidence with their actual collection context; no new validation follows.
 - Scope: keep outreach closed, article Docs and other artifacts unchanged. Record the correction in current status and private operational instructions; verify the text change and commit/push the correction.
+
+## D051 — 2026-10-06 — Link the existing repository from the browser story
+
+Titash requests the repo link as well. Add an “Open the full project repository” link in the work section, using the verified origin URL: https://github.com/TitashSinha/cardboard-growth-research. Explain that the private repository requires view access. Preserve all five article links and repository visibility; this is a navigation addition, not permission to share, publish or send the project. Verify the target and commit/push.

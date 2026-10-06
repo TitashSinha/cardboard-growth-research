@@ -1,5 +1,7 @@
 # Browser-story review — October 6
 
+D051 addition: work section links the verified existing GitHub repository, with a private-access note. Target URL and preservation of all five article links checked; no sharing/visibility change.
+
 D050 correction: removed the quoted personal CapCut/transition introduction. Titash clarifies the SaaS-editing transition was outreach framing, not his career direction. The app section now introduces task-based observation without a career claim. Source map corrected; no layout/behaviour or article/Doc change.
 
 ## Accepted local artifact
