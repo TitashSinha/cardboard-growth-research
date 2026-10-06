@@ -1,5 +1,7 @@
 # Acceptance checklist
 
+- [x] [Conversion-page design and evidence boundaries](../content/conversion/saas-demo-page-design-2026-10-06.md) prepared for review under D037; design approval and complete copy sample remain pending. This does not check the complete conversion proof sample or any reader/product test gate.
+
 Current update / October 6, D033–D035: Outreach closed; generalized reply analysis authorized without participant-consent requests. EX01 remains partial because eligibility/aid/readback requirements were not completed. Historical participation/consent wording below is superseded; it does not negate usable exploratory replies.
 
 - [x] Actual exploratory maker replies → [first-article v1.2](../content/revisions/01-workflow-switch-evidence-v1.2.md) → [documented editorial reasoning](../content/revisions/01-workflow-switch-v1.2-notes.md). One distinct article; earlier versions retained. This does not complete screened-cohort testing, decision-aid v2, respondent article review or publication gates.

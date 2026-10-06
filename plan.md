@@ -1,5 +1,7 @@
 # Cardboard growth research and application plan
 
+Latest design / D037, October 6: [SaaS-demo conversion-page design](content/conversion/saas-demo-page-design-2026-10-06.md) and [official-source check](research/conversion-source-check-2026-10-06.md) prepared after Titash asks to work on the sample. Recommended task-specific copy route is ready for design review; complete page copy remains pending. Real proof, product testing and company publication are separate dependencies; outreach stays closed.
+
 Latest handoff / D036, October 6: Titash will draft the remaining four articles using another AI. [Self-contained briefs and source pack](content/briefs/remaining-four-articles-handoff-2026-10-06.md) define distinct tasks and review limits, with v1.2 as formatting/tone reference. External drafts still require evidence/overlap review; four finished drafts are not claimed. Conversion proof-page sample remains an independent open deliverable.
 
 Latest asset / D035, October 6: [reply-informed first-article revision](content/revisions/01-workflow-switch-evidence-v1.2.md) and [reasoning](content/revisions/01-workflow-switch-v1.2-notes.md) use the collected workflow evidence within D034's limits. It remains one unpublished article, with respondent/intent review open. Next: conversion proof-page sample, then reassess remaining distinct topics. Aid v1.1 and the incomplete EX01 protocol remain unchanged; no new outreach.
