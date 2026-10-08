@@ -16,9 +16,9 @@
 ## Tasks
 
 - [x] Audit the existing private support mappings against account findings; save a dated private count/check receipt and a generalized public evidence table.
-- [ ] Rewrite presentation opening/ownership, findings, discovery, asset priority, backlog disclosures, next-test table and role proposition. Preserve five exact article URLs, complete conversion-copy disclosure, five feature ideas and two repo links.
-- [ ] Update current source map, README and experiment priority; record D054, status and contribution attribution. Preserve dated original protocols and earlier review records.
-- [ ] Check the actual file offline at 1440x1000 and 390x844, open disclosures, verify all anchors and five links, check JavaScript-disabled reading/focus/print, compare baseline length and inspect screenshots. Record results in quality/founder-review-revision-2026-10-08.md.
-- [ ] Run git diff --check; commit/push only the revision files after successful checks; verify a clean worktree and HEAD equals origin/main.
+- [x] Rewrite presentation opening/ownership, findings, discovery, asset priority, backlog disclosures, next-test table and role proposition. Preserve five exact article URLs, complete conversion-copy disclosure, five feature ideas and two repo links.
+- [x] Update current source map, README and experiment priority; record D054, status and contribution attribution. Preserve dated original protocols and earlier review records.
+- [x] Check the actual file offline at 1440x1000 and 390x844, open disclosures, verify all anchors and five links, check JavaScript-disabled reading/focus/print, compare baseline length and inspect screenshots. Record results in quality/founder-review-revision-2026-10-08.md.
+- [x] Run git diff --check; commit/push only the revision files after successful checks; verify a clean worktree and HEAD equals origin/main in the final delivery command. The earlier evidence/design checkpoint is 0d3dc82; final delivery is recorded in Git/tool output.
 
 Run evidence/content verification with the private revision script and browser verification with the private qa/check.cjs using the bundled Python/Node runtimes. Receipts are saved outside Git. No new mirrored unit tests are needed for this content revision.

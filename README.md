@@ -1,6 +1,8 @@
 # Cardboard growth research — independent work sample
 
-Completed independent package, October 6, 2026. By Titash Sinha with disclosed AI assistance. Private repository; zero new spend, no Cardboard account/internal access. Articles and page sample are unpublished. **EX01 conversation learning collected, analyzed and used for content decisions**. [Reply-based findings](experiments/workflow-fit/reply-evidence-summary-2026-10-06.md). The original structured test was not performed; no completed product/buyer validation claimed. [Repository review/deviations](quality/final-repository-review-2026-10-06.md).
+Independent package prepared October 6; founder-review revision October 8, 2026. Project direction and decisions: Titash Sinha. Execution and advisory support: Codex, with external article drafts. [Contribution record](strategy/contribution-log.md). Public research repository (visibility checked October 8); zero new spend, no Cardboard account/internal access. Articles and page sample are review drafts, not company publications. **EX01 conversation learning collected, analyzed and used for content decisions**. [Reply-based findings](experiments/workflow-fit/reply-evidence-summary-2026-10-06.md). The original structured test was not performed; no completed product/buyer validation claimed. [Repository review/deviations](quality/final-repository-review-2026-10-06.md).
+
+**Recommended next decision:** establish one consequential unresolved correction, then compare it with the current workflow before scaling acquisition. The current evidence supports investigating that job, not claiming it is already validated. [Evidence strength and limits](experiments/workflow-fit/evidence-strength-2026-10-08.md).
 
 ## Observation → learning → intervention
 
@@ -12,7 +14,7 @@ The [provisional segment](strategy/positioning.md), [hypotheses](assumptions.md)
 
 ## Presentation
 
-[Standalone browser story](presentation/cardboard-growth-story.html) — one HTML file, no installation; simple question headings, actual-reply learning, usable assets and proposals. [Five separate Google Docs for Titash's article review](presentation/article-review-links.md). Full source text/structure and offline desktop/mobile browser behaviour checked; review and intended-reader view access remain pending. [Claim map](presentation/html-story-source-map.md), [verification](quality/browser-story-review-2026-10-06.md). No presentation sent or hosted.
+[Standalone browser story](presentation/cardboard-growth-story.html) — one HTML file, no installation; one lead decision, support/limit table, two featured assets and actionable next tests. The other article drafts and all five feature hypotheses remain in expandable sections. [Five separate Google Docs for Titash's article review](presentation/article-review-links.md). Article review and suitable Docs access remain pending. [Claim map](presentation/html-story-source-map.md), [original verification](quality/browser-story-review-2026-10-06.md), [October 8 revision/checks](quality/founder-review-revision-2026-10-08.md). No founder send or dedicated website hosting performed.
 
 [Editable deck](presentation/cardboard-growth-work-sample-v1.1.pptx) · [PDF](presentation/cardboard-growth-work-sample-v1.1.pdf) · [source/number map](presentation/source-to-number-map.md) · [final acceptance](quality/final-package-acceptance-2026-10-06.md). Ten slides; package/import/layout checks and individual PDF-slide inspection complete.
 
@@ -44,7 +46,7 @@ Inventory: **20 original Google observations, 12 completed ChatGPT observations,
 
 ## Ownership and next action
 
-[Contribution log](strategy/contribution-log.md) separates Titash's decisions from Codex work and unperformed stages. [Status](status.md), [plan](plan.md), [decisions](decisions.md), [acceptance](quality/acceptance-checklist.md) preserve history. Next business step: separately authorized founder handoff with usable access, then company/editor review and prioritized tests. No sending, publication, spend, new product access or growth outcome follows from this package.
+[Contribution log](strategy/contribution-log.md) separates Titash's decisions from Codex work and unperformed stages. [Status](status.md), [plan](plan.md), [decisions](decisions.md), [acceptance](quality/acceptance-checklist.md) preserve history. Next step: Titash's article/page review, then any separately authorized founder handoff and company tests. [Current test sequence](strategy/experiment-backlog.md) starts with a consequential unresolved job and correction comparison. No sending, company publication, spend, new product access or growth outcome follows from this package.
 
 ## Reproduce inventory checks
 

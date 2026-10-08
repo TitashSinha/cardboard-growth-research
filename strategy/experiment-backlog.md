@@ -1,18 +1,30 @@
 # Prospective experiment backlog
 
-October 6, 2026 / D040. Ordered by consequential uncertainty and prerequisites, not invented impact scores or revenue forecasts. All entries below are **proposed, not authorized for collection, implemented or run**. EX01 is closed with partial exploratory evidence; this backlog does not reopen outreach or change its threshold rule.
+Prepared October 6 / D040; priority revised October 8 / D054 under Titash's founder-feedback direction. Ordered by consequential uncertainty and prerequisites, not invented impact scores or revenue forecasts. All tests below are **proposed, not authorized for collection, implemented or run**. EX01 is closed with exploratory workflow learning and an unexecuted original structured design; this backlog does not reopen outreach or retroactively apply its threshold rule.
 
 ## Priority and dependency order
 
 | Priority / test | Decision | Owner/access | Dependency |
 |---|---|---|---|
-| 1 / EX02 — Page comprehension | Can a relevant reader distinguish the task, shown proof and unverified claims? | Independent future study with fresh authorization | Fixed sample, eligibility and rubric |
-| 2 / EX03 — Offer comprehension | Does corrected wording resolve a specific access/terms question? | Company terms confirmation; independent reader task possible later | A relevant offer question; authoritative current terms |
-| 3 / EX04 — Genuine correction comparison | Can the candidate meet one consequential correction requirement? | Company/product access and lawful footage | A verified recent-task burden and comparable inputs |
-| 4 / EX05 — Article usefulness and intent | Does the article answer its specific production task? | Independent future study; company review for publication | Distinct intent, fixed copy and approved reader access |
-| 5 / EX06 — Published route navigation | Does a released page improve a defined evaluation action? | Company publishing, analytics and traffic | Accurate content, lawful proof, approved event semantics |
+| Prerequisite — Confirm an unresolved job | Is there a recent consequential correction that the current workflow handles poorly? | Supervised research owner; fresh authorization for any new conversations | Record role/project recency, consequence, incumbent strengths and remaining burden; current replies leave these incomplete |
+| 1 / EX04 — Genuine correction comparison | Can the candidate meet that correction without losing required control/handoff? | Maker/product owner with legitimate access and lawful footage | A verified recent-task burden, identical inputs and acceptance criteria |
+| 2 / EX02 — Page comprehension | Can a relevant reader distinguish the task, genuine proof and unverified claims? | Content/research owner; fresh reader-task authorization | Reviewed fixed sample, eligibility and rubric; genuine proof if the page presents product results |
+| 2, conditional / EX03 — Offer comprehension | Does corrected wording resolve a specific access/terms question? | Company terms owner; independent reader task possible later | A relevant offer question and authoritative current terms |
+| 3, conditional / EX05 — Article usefulness and intent | Does the article answer its specific production task? | Content/research owner; company review for publication | Distinct intent, fixed copy and suitable reader access |
+| 4 / EX06 — Published route navigation | Does a released page improve a defined evaluation action? | Company growth owner with publishing/analytics/traffic | Accurate content, lawful proof, approved event semantics and interpretable baseline |
 
-Priority 1 may reveal that the proposed route is unnecessary or unclear. Defer later work if a satisfactory incumbent or an unrelated problem explains the task. Do not carry partial informal replies into a new screened denominator.
+The unresolved-job prerequisite may reveal that a switching proposition is unnecessary. Keep the incumbent if it meets the requirements. Do not carry informal replies into a newly screened denominator or infer pain merely from time spent on useful craft. A product demonstration comes before scaling its acquisition promise. Editorial review of current drafts can happen now; it is distinct from the future authorized tests above.
+
+### Decision checkpoints
+
+| Step | Measure | Failure or stop condition | Resulting decision |
+| --- | --- | --- | --- |
+| Confirm the job | Concrete consequence and unresolved burden after incumbent use | Current workflow meets requirements or consequence remains unknown | Keep the current workflow or narrow the question; do not start a switching campaign |
+| EX04 | Accepted correction and required accuracy/control/handoff; whole-job effort | Any mandatory requirement fails, access/media rights absent or inputs incomparable | Block recommendation for that task; a passing single job warrants replication only |
+| EX02 / EX03 | Correct comprehension of task, proof, access and next step | Illustration mistaken for product proof, inaccurate terms or recurring misunderstanding | Revise and retest before release |
+| EX06 | Defined evaluation actions per eligible exposed session; accepted jobs separately | Misleading claims, unreliable capture or insufficient comparison evidence | Fix/retest; scale only if an interpretable comparison supports the decision |
+
+The experiment IDs and detailed methods below retain their original identities. This change is a prospective prioritization decision, not evidence any test occurred or a commitment by a company owner.
 
 ## EX02 — Conversion-page comprehension
 
