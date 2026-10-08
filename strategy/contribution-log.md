@@ -40,6 +40,10 @@ Within the agreed scope, Codex also made implementation choices: extraction/pars
 
 Inspectable records include the [collection method](../research/collection-method.md), [reply findings](../experiments/workflow-fit/reply-evidence-summary-2026-10-06.md), [article revision reasoning](../content/revisions/01-workflow-switch-v1.2-notes.md), [measurement plan](measurement-plan.md), [prospective backlog](experiment-backlog.md) and [browser review](../quality/browser-story-review-2026-10-06.md).
 
+## Public LinkedIn evidence / D056
+
+Titash requested the LinkedIn `Cardboard` search, corrected the temporary keyword change and decided to include the resulting posts as evidence in the HTML. Codex operated the read-only search, examined public posts/comments, generalized the findings, revised the story and checked the file. Four source discussions add reported use, concept exploration, official reframing with an incumbent challenge and setup friction with a reported resolution. They change the candidate opportunity from a possible visibility gap to helping makers reach a useful first result with control and clear cost. The bounded search does not measure awareness or conversions; no new interview cases, independent product test or personal manual synthesis is claimed. Original conversation counts and assets remain intact. [Review receipt](../quality/linkedin-html-evidence-review-2026-10-08.md).
+
 ## What this demonstrates
 
 The project demonstrates Titash's scope-setting, prioritization, critical judgment, audience/copy direction and management of AI-assisted work. Codex's research, synthesis, drafting and implementation remain disclosed. Independent personal execution of the final synthesis, copy or experimental design is not established merely by directing or approving it.
