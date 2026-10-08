@@ -1,3 +1,7 @@
+# Founder-review revision / D054, October 8
+
+Titash authorizes the founder-feedback changes. The [revision plan](docs/superpowers/plans/2026-10-08-founder-review-revision.md) retains all existing assets while prioritizing one decision and two lead materials. [Evidence strength](experiments/workflow-fit/evidence-strength-2026-10-08.md) is checked against private mapped records; support groups overlap and do not establish population prevalence or unique buyers. GitHub currently reports public repository visibility; current private-access wording will be corrected. HTML/supporting edits and browser verification are in progress. Outreach remains closed; no new manual analysis, app test, article approval or founder send.
+
 # Contribution attribution / D053, October 8
 
 Rewrote the entire [contribution log](strategy/contribution-log.md) around Titash's recorded project direction/decision ownership from the beginning, Codex execution/advisory support and the effect of each stage. AI-originated proposals and delegated technical/methodological choices remain accurately attributed. Prior activity entries remain in Git history; obsolete active consent/recruitment wording is replaced. No new manual analysis, product test, article approval, outreach or presentation revision is claimed. Broader founder-review improvements remain proposed.
