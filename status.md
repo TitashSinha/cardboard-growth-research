@@ -1,3 +1,7 @@
+# Contribution attribution / D053, October 8
+
+Rewrote the entire [contribution log](strategy/contribution-log.md) around Titash's recorded project direction/decision ownership from the beginning, Codex execution/advisory support and the effect of each stage. AI-originated proposals and delegated technical/methodological choices remain accurately attributed. Prior activity entries remain in Git history; obsolete active consent/recruitment wording is replaced. No new manual analysis, product test, article approval, outreach or presentation revision is claimed. Broader founder-review improvements remain proposed.
+
 # Browser story / D049, October 6
 
 D050 correction: Titash's SaaS-editing transition statement was outreach framing, not his actual career direction. Removed it from the HTML's app-access introduction and corrected the source map. Proposed product checks remain; no personal editing/career experience is inferred from that framing. Historical outreach records preserved and collection remains closed.
