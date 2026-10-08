@@ -1,5 +1,7 @@
 # Founder-feedback revision — October 8, 2026
 
+Historical D054 acceptance at commit 136ba5f. The later D055 HTML-first changes are checked in [the current review](html-core-review-2026-10-08.md); the measurements below describe the earlier version.
+
 D054 / Titash's selected revision direction. Codex implements the evidence audit, editorial changes, browser behavior and verification. This is a revision of the work sample, not new independent human analysis or a new business result.
 
 ## Feedback addressed
